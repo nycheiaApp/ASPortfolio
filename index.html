@@ -76,7 +76,7 @@ footer a{text-decoration:none;color:inherit}footer a:hover{color:var(--clay)}
 .hero h1{margin-top:0}
 .work{display:block;text-decoration:none}
 .work img{transition:transform .8s}.work:hover img{transform:scale(1.02)}.work .im{overflow:hidden}
-.detail{display:none;padding-top:7rem;max-width:80rem;margin:auto}
+body.paper{background-color:#f0e7d3;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .36 0 0 0 0 .28 0 0 0 0 .18 .38 0 0 0 -.06'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='700' height='700'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.011' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .62 0 0 0 0 .5 0 0 0 0 .32 .3 0 0 0 -.05'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E"),radial-gradient(ellipse at 50% 25%,rgba(255,252,243,.6),rgba(255,252,243,0) 70%)}body.paper header{background:rgba(240,231,211,.93);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}body.paper .photos img{box-shadow:0 12px 32px rgba(70,48,24,.2)}.detail{display:none;padding-top:7rem;max-width:80rem;margin:auto}
 .back{font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;text-decoration:none;color:var(--mute)}
 .back:hover{color:var(--clay)}
 .dgrid{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(2rem,6vw,5rem);margin-top:2.5rem;align-items:start}
@@ -165,8 +165,8 @@ function renderDetail(id){const i=WORKS.findIndex(w=>w.id==id);if(i<0)return fal
  <div class="pn"><a href="#/opera/${p.id}">← ${p.title}</a><a href="#/opera/${n.id}">${n.title} →</a></div>`;
  document.querySelectorAll(".photos img").forEach(im=>im.onclick=()=>openLb(w,+im.dataset.k));return true}
 function route(){const m=location.hash.match(/^#\/opera\/([^/?]+)/);const d=$("#detail"),h=$("#home");
- if(m&&renderDetail(m[1])){h.style.display="none";d.style.display="block";window.scrollTo(0,0)}
- else{d.style.display="none";h.style.display="block";if(location.hash&&!m){try{const t=document.querySelector(location.hash);t&&t.scrollIntoView()}catch(_){window.scrollTo(0,0)}}}}
+ if(m&&renderDetail(m[1])){h.style.display="none";d.style.display="block";document.body.classList.add("paper");window.scrollTo(0,0)}
+ else{d.style.display="none";h.style.display="block";document.body.classList.remove("paper");if(location.hash&&!m){try{const t=document.querySelector(location.hash);t&&t.scrollIntoView()}catch(_){window.scrollTo(0,0)}}}}
 addEventListener("hashchange",route);route();
 // Lightbox
 let cw,ck=0;
