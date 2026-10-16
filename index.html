@@ -164,9 +164,14 @@ function renderDetail(id){const i=WORKS.findIndex(w=>w.id==id);if(i<0)return fal
  <div class="photos">${w.imgs.length?w.imgs.map((s,k)=>`<img src="${s}" alt="${w.title} — foto ${k+1}" data-k="${k}">`).join(""):ph()}</div></div>
  <div class="pn"><a href="#/opera/${p.id}">← ${p.title}</a><a href="#/opera/${n.id}">${n.title} →</a></div>`;
  document.querySelectorAll(".photos img").forEach(im=>im.onclick=()=>openLb(w,+im.dataset.k));return true}
+let lastId=null;
 function route(){const m=location.hash.match(/^#\/opera\/([^/?]+)/);const d=$("#detail"),h=$("#home");
- if(m&&renderDetail(m[1])){h.style.display="none";d.style.display="block";document.body.classList.add("paper");window.scrollTo(0,0)}
- else{d.style.display="none";h.style.display="block";document.body.classList.remove("paper");if(location.hash&&!m){try{const t=document.querySelector(location.hash);t&&t.scrollIntoView()}catch(_){window.scrollTo(0,0)}}}}
+ if(m&&renderDetail(m[1])){lastId=m[1];h.style.display="none";d.style.display="block";document.body.classList.add("paper");window.scrollTo(0,0)}
+ else{d.style.display="none";h.style.display="block";document.body.classList.remove("paper");
+  const back=lastId&&(!location.hash||location.hash==="#/"||location.hash==="#opere");
+  if(back){const card=[...document.querySelectorAll("#g .work")].find(a=>a.getAttribute("href")==="#/opera/"+lastId);lastId=null;
+   if(card&&card.style.display!=="none"){const r=document.documentElement,sb=r.style.scrollBehavior;r.style.scrollBehavior="auto";card.scrollIntoView({block:"center"});r.style.scrollBehavior=sb;return}}
+  if(location.hash&&!m){try{const t=document.querySelector(location.hash);t&&t.scrollIntoView()}catch(_){window.scrollTo(0,0)}}}}
 addEventListener("hashchange",route);route();
 // Lightbox
 let cw,ck=0;
@@ -183,7 +188,7 @@ document.querySelectorAll(".work").forEach(el=>io.observe(el));
 (function(){const n=t=>t.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[’`´]/g,"'");
 let act="";const cnt={};WORKS.forEach(w=>(w.tags||[]).forEach(t=>cnt[t]=(cnt[t]||0)+1));
 const isY=t=>/^\d{4}$/.test(t);const tg=Object.keys(cnt).filter(t=>!isY(t)).sort((a,b)=>cnt[b]-cnt[a]||a.localeCompare(b,"it"));const yr=Object.keys(cnt).filter(isY).sort((a,b)=>b-a);
-const box=$("#tags");box.innerHTML=tg.map(t=>`<button type="button" data-t="${t}">${t}</button>`).join("")+(tg.length&&yr.length?'<span class="sep"></span>':"")+yr.map(t=>`<button type="button" data-t="${t}">${t}</button>`).join("");
+const box=$("#tags");const lb1=t=>t.charAt(0).toUpperCase()+t.slice(1).toLowerCase();box.innerHTML=tg.map(t=>`<button type="button" data-t="${t}">${lb1(t)}</button>`).join("")+(tg.length&&yr.length?'<span class="sep"></span>':"")+yr.map(t=>`<button type="button" data-t="${t}">${t}</button>`).join("");
 const run=()=>{const q=n($("#q").value.trim());let c=0;[...$("#g").children].forEach((el,i)=>{const w=WORKS[i];const ok=(!q||n(w.title).includes(q))&&(!act||(w.tags||[]).includes(act));el.style.display=ok?"":"none";if(ok){c++;el.classList.add("in")}});$("#nores").hidden=c>0};
 box.onclick=e=>{const b=e.target.closest("button");if(!b)return;act=act===b.dataset.t?"":b.dataset.t;box.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x.dataset.t===act));run()};
 $("#qb").onclick=run;$("#q").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();run()}});$("#q").addEventListener("input",()=>{if(!$("#q").value.trim())run()})})();
