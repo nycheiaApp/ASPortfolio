@@ -19,6 +19,24 @@ const WORKS=[
   "_webp": "Ego, Narciso e l'egotismo_risultato.webp"
  },
  {
+  "title": "La stanza dell'intimita",
+  "tech": "Olio su tela 80x100, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "La nostra intimità risiede in quel rifugio inviolabile da nessun fattore esterno. Dove la mente e il cuore si sentono al sicuro. Dove si è liberi di ascoltare i battiti del silenzio. Dove la luce che entra mette in evidenza il nostro io, lasciando nel buoi tutto ciò che non vogliamo vedere.",
+  "imgs": [
+   "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
+  ],
+  "cover": 0,
+  "id": "la-luce-scandita-nel-tempo",
+  "_png": "La luce scandita nel tempo.jpg",
+  "_webp": "La luce scandita nel tempo_risultato.webp"
+ },
+ {
   "title": "La luce scandita nel tempo",
   "tech": "Olio su tela 80x100, Anno 2026",
   "dim": "",
