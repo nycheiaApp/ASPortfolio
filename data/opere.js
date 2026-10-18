@@ -32,7 +32,7 @@ const WORKS=[
    "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
   ],
   "cover": 0,
-  "id": "la-luce-scandita-nel-tempo",
+  "id": "La-stanza-dell-intimita",
   "_png": "La stanza dell'intimita.jpg",
   "_webp": "La stanza dell'intimita_risultato.webp"
  },
