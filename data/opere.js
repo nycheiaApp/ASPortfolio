@@ -33,8 +33,8 @@ const WORKS=[
   ],
   "cover": 0,
   "id": "la-luce-scandita-nel-tempo",
-  "_png": "La luce scandita nel tempo.jpg",
-  "_webp": "La luce scandita nel tempo_risultato.webp"
+  "_png": "La stanza dell'intimita.jpg",
+  "_webp": "La stanza dell'intimita_risultato.webp"
  },
  {
   "title": "La luce scandita nel tempo",
