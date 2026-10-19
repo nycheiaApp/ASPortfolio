@@ -19,24 +19,6 @@ const WORKS=[
   "_webp": "Ego, Narciso e l'egotismo_risultato.webp"
  },
  {
-  "title": "La stanza dell'intimita",
-  "tech": "Olio su tela 80x100, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "La nostra intimità risiede in quel rifugio inviolabile da nessun fattore esterno. Dove la mente e il cuore si sentono al sicuro. Dove si è liberi di ascoltare i battiti del silenzio. Dove la luce che entra mette in evidenza il nostro io, lasciando nel buoi tutto ciò che non vogliamo vedere.",
-  "imgs": [
-   "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
-  ],
-  "cover": 0,
-  "id": "La-stanza-dell-intimita",
-  "_png": "La stanza dell'intimita.jpg",
-  "_webp": "La stanza dell'intimita_risultato.webp"
- },
- {
   "title": "La luce scandita nel tempo",
   "tech": "Olio su tela 80x100, Anno 2026",
   "dim": "",
@@ -834,6 +816,24 @@ const WORKS=[
   "id": "l-esigenza-umana",
   "_png": "L'esigenza Umana.jpg",
   "_webp": "L'esigenza Umana_risultato.webp"
+ },
+ {
+  "title": "La stanza dell'intimità",
+  "tech": "Olio su tela 100x80, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "La nostra intimità risiede in quel rifugio inviolabile da nessun fattore esterno.<br>Dove la mente e il cuore si sentono al sicuro.<br>Dove si è liberi di ascoltare i battiti del silenzio.<br>Dove la luce che entra mette in evidenza il nostro io, lasciando nel buoi tutto ciò che non vogliamo vedere.",
+  "imgs": [
+   "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
+  ],
+  "cover": 0,
+  "id": "la-stanza-dell-intimita",
+  "_png": "La stanza dell'intimita.png",
+  "_webp": "La stanza dell'intimita_risultato.webp"
  },
  {
   "title": "Banchetto dinamico",
