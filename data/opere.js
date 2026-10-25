@@ -13,10 +13,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Ego%2C%20Narciso%20e%20l%27egotismo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Ego%2C%20Narciso%20e%20l%27egotismo.png"
+  ],
   "cover": 0,
-  "id": "ego-narciso-e-l-egotismo",
-  "_png": "Ego, Narciso e l'egotismo.jpg",
-  "_webp": "Ego, Narciso e l'egotismo_risultato.webp"
+  "id": "ego-narciso-e-l-egotismo"
  },
  {
   "title": "La luce scandita nel tempo",
@@ -31,10 +32,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20luce%20scandita%20nel%20tempo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20luce%20scandita%20nel%20tempo.png"
+  ],
   "cover": 0,
-  "id": "la-luce-scandita-nel-tempo",
-  "_png": "La luce scandita nel tempo.jpg",
-  "_webp": "La luce scandita nel tempo_risultato.webp"
+  "id": "la-luce-scandita-nel-tempo"
  },
  {
   "title": "Memoria victa",
@@ -49,10 +51,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Memoria%20victa_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Memoria%20victa.png"
+  ],
   "cover": 0,
-  "id": "memoria-victa",
-  "_png": "Memoria victa.jpg",
-  "_webp": "Memoria victa_risultato.webp"
+  "id": "memoria-victa"
  },
  {
   "title": "Thetis",
@@ -68,10 +71,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Thetis_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Thetis.png"
+  ],
   "cover": 0,
-  "id": "thetis",
-  "_png": "Thetis.jpg",
-  "_webp": "Thetis_risultato.webp"
+  "id": "thetis"
  },
  {
   "title": "Elisa e Sarah",
@@ -85,10 +89,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Elisa%20e%20Sarah_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Elisa%20e%20Sarah.png"
+  ],
   "cover": 0,
-  "id": "elisa-e-sarah",
-  "_png": "Elisa e Sarah.png",
-  "_webp": "Elisa e Sarah_risultato.webp"
+  "id": "elisa-e-sarah"
  },
  {
   "title": "Il miracolo dell'acqua",
@@ -104,10 +109,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20miracolo%20dell%27acqua_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20miracolo%20dell%27acqua.png"
+  ],
   "cover": 0,
-  "id": "il-miracolo-dell-acqua",
-  "_png": "Il miracolo dell'acqua.jpeg",
-  "_webp": "Il miracolo dell'acqua_risultato.webp"
+  "id": "il-miracolo-dell-acqua"
  },
  {
   "title": "Il mito di Clizia",
@@ -123,10 +129,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20mito%20di%20Clizia_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20mito%20di%20Clizia.png"
+  ],
   "cover": 0,
-  "id": "il-mito-di-clizia",
-  "_png": "Il mito di Clizia.png",
-  "_webp": "Il mito di Clizia_risultato.webp"
+  "id": "il-mito-di-clizia"
  },
  {
   "title": "Il mito di Egeria",
@@ -142,10 +149,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20mito%20di%20Egeria_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20mito%20di%20Egeria.png"
+  ],
   "cover": 0,
-  "id": "il-mito-di-egeria",
-  "_png": "Il mito di Egeria.jpg",
-  "_webp": "Il mito di Egeria_risultato.webp"
+  "id": "il-mito-di-egeria"
  },
  {
   "title": "L'allegoria del sapere",
@@ -160,10 +168,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27allegoria%20del%20sapere_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27allegoria%20del%20sapere.png"
+  ],
   "cover": 0,
-  "id": "l-allegoria-del-sapere",
-  "_png": "L'allegoria del sapere.jpg",
-  "_webp": "L'allegoria del sapere_risultato.webp"
+  "id": "l-allegoria-del-sapere"
  },
  {
   "title": "L'angelo caduto",
@@ -179,10 +188,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27angelo%20caduto_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27angelo%20caduto.png"
+  ],
   "cover": 0,
-  "id": "l-angelo-caduto",
-  "_png": "L'angelo caduto.jpeg",
-  "_webp": "L'angelo caduto_risultato.webp"
+  "id": "l-angelo-caduto"
  },
  {
   "title": "Orfeo e Euridice",
@@ -198,10 +208,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Orfeo%20e%20Euridice_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Orfeo%20e%20Euridice.png"
+  ],
   "cover": 0,
-  "id": "orfeo-e-euridice",
-  "_png": "Orfeo e Euridice.jpeg",
-  "_webp": "Orfeo e Euridice_risultato.webp"
+  "id": "orfeo-e-euridice"
  },
  {
   "title": "Aspettando Godot",
@@ -216,10 +227,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Aspettando%20Godot_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Aspettando%20Godot.png"
+  ],
   "cover": 0,
-  "id": "aspettando-godot",
-  "_png": "Aspettando Godot.jpg",
-  "_webp": "Aspettando Godot_risultato.webp"
+  "id": "aspettando-godot"
  },
  {
   "title": "Aspettando Godot…l'atto mai scritto",
@@ -234,10 +246,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Aspettando%20Godot%20l%27atto%20mai%20scritto_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Aspettando%20Godot%20l%27atto%20mai%20scritto.png"
+  ],
   "cover": 0,
-  "id": "aspettando-godot-l-atto-mai-scritto",
-  "_png": "Aspettando Godot l'atto mai scritto.jpg",
-  "_webp": "Aspettando Godot l'atto mai scritto_risultato.webp"
+  "id": "aspettando-godot-l-atto-mai-scritto"
  },
  {
   "title": "Entanglement",
@@ -252,10 +265,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Entanglement_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Entanglement.png"
+  ],
   "cover": 0,
-  "id": "entanglement",
-  "_png": "Entanglement.jpg",
-  "_webp": "Entanglement_risultato.webp"
+  "id": "entanglement"
  },
  {
   "title": "I cercatori di luce",
@@ -270,10 +284,11 @@ const WORKS=[
   "imgs": [
    "img/opere/I%20cercatori%20di%20luce_risultato.webp"
   ],
+  "big": [
+   "img/operePng/I%20cercatori%20di%20luce.png"
+  ],
   "cover": 0,
-  "id": "i-cercatori-di-luce",
-  "_png": "I cercatori di luce.jpg",
-  "_webp": "I cercatori di luce_risultato.webp"
+  "id": "i-cercatori-di-luce"
  },
  {
   "title": "Il falso mito della grandezza",
@@ -288,10 +303,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20falso%20mito%20della%20grandezza_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20falso%20mito%20della%20grandezza.png"
+  ],
   "cover": 0,
-  "id": "il-falso-mito-della-grandezza",
-  "_png": "Il falso mito della grandezza.jpg",
-  "_webp": "Il falso mito della grandezza_risultato.webp"
+  "id": "il-falso-mito-della-grandezza"
  },
  {
   "title": "Il progetto della vita",
@@ -306,10 +322,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20progetto%20della%20vita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20progetto%20della%20vita.png"
+  ],
   "cover": 0,
-  "id": "il-progetto-della-vita",
-  "_png": "Il progetto della vita.jpg",
-  "_webp": "Il progetto della vita_risultato.webp"
+  "id": "il-progetto-della-vita"
  },
  {
   "title": "Il silenzio",
@@ -324,10 +341,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20silenzio_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20silenzio.png"
+  ],
   "cover": 0,
-  "id": "il-silenzio",
-  "_png": "Il silenzio.jpg",
-  "_webp": "Il silenzio_risultato.webp"
+  "id": "il-silenzio"
  },
  {
   "title": "La carezza della luce",
@@ -342,10 +360,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20carezza%20della%20luce_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20carezza%20della%20luce.png"
+  ],
   "cover": 0,
-  "id": "la-carezza-della-luce",
-  "_png": "La carezza della luce.jpg",
-  "_webp": "La carezza della luce_risultato.webp"
+  "id": "la-carezza-della-luce"
  },
  {
   "title": "La fine del gioco",
@@ -360,10 +379,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20fine%20del%20gioco_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20fine%20del%20gioco.png"
+  ],
   "cover": 0,
-  "id": "la-fine-del-gioco",
-  "_png": "La fine del gioco.jpg",
-  "_webp": "La fine del gioco_risultato.webp"
+  "id": "la-fine-del-gioco"
  },
  {
   "title": "La Venere della penombra",
@@ -379,10 +399,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20Venere%20della%20penombra_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20Venere%20della%20penombra.png"
+  ],
   "cover": 0,
-  "id": "la-venere-della-penombra",
-  "_png": "La Venere della penombra.jpg",
-  "_webp": "La Venere della penombra_risultato.webp"
+  "id": "la-venere-della-penombra"
  },
  {
   "title": "La vita",
@@ -397,10 +418,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20vita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20vita.png"
+  ],
   "cover": 0,
-  "id": "la-vita",
-  "_png": "La vita.jpg",
-  "_webp": "La vita_risultato.webp"
+  "id": "la-vita"
  },
  {
   "title": "La vulnerabilità… tra il bene e il male",
@@ -415,10 +437,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male.png"
+  ],
   "cover": 0,
-  "id": "la-vulnerabilita-tra-il-bene-e-il-male",
-  "_png": "La vulnerabilita tra il bene e il male.jpg",
-  "_webp": "La vulnerabilita tra il bene e il male_risultato.webp"
+  "id": "la-vulnerabilita-tra-il-bene-e-il-male"
  },
  {
   "title": "L'ago della bilancia",
@@ -433,10 +456,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27ago%20della%20bilancia_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27ago%20della%20bilancia.png"
+  ],
   "cover": 0,
-  "id": "l-ago-della-bilancia",
-  "_png": "L'ago della bilancia.jpg",
-  "_webp": "L'ago della bilancia_risultato.webp"
+  "id": "l-ago-della-bilancia"
  },
  {
   "title": "L'atteggiamento della luce",
@@ -451,10 +475,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27atteggiamento%20della%20luce_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27atteggiamento%20della%20luce.png"
+  ],
   "cover": 0,
-  "id": "l-atteggiamento-della-luce",
-  "_png": "L'atteggiamento della luce.jpg",
-  "_webp": "L'atteggiamento della luce_risultato.webp"
+  "id": "l-atteggiamento-della-luce"
  },
  {
   "title": "L'entropia della memoria",
@@ -469,10 +494,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27entropia%20della%20memoria_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27entropia%20della%20memoria.png"
+  ],
   "cover": 0,
-  "id": "l-entropia-della-memoria",
-  "_png": "L'entropia della memoria.jpg",
-  "_webp": "L'entropia della memoria_risultato.webp"
+  "id": "l-entropia-della-memoria"
  },
  {
   "title": "L'imperativo categorico",
@@ -487,10 +513,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27imperativo%20categorico_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27imperativo%20categorico.png"
+  ],
   "cover": 0,
-  "id": "l-imperativo-categorico",
-  "_png": "L'imperativo categorico.jpg",
-  "_webp": "L'imperativo categorico_risultato.webp"
+  "id": "l-imperativo-categorico"
  },
  {
   "title": "L'interpretazione della vita",
@@ -505,10 +532,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27interpretazione%20della%20vita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27interpretazione%20della%20vita.png"
+  ],
   "cover": 0,
-  "id": "l-interpretazione-della-vita",
-  "_png": "L'interpretazione della vita.jpg",
-  "_webp": "L'interpretazione della vita_risultato.webp"
+  "id": "l-interpretazione-della-vita"
  },
  {
   "title": "L'intervento divino",
@@ -523,10 +551,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27intervento%20divino_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27intervento%20divino.png"
+  ],
   "cover": 0,
-  "id": "l-intervento-divino",
-  "_png": "L'intervento divino.jpg",
-  "_webp": "L'intervento divino_risultato.webp"
+  "id": "l-intervento-divino"
  },
  {
   "title": "L'istinto della conoscenza",
@@ -541,10 +570,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27istinto%20della%20conoscenza_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27istinto%20della%20conoscenza.png"
+  ],
   "cover": 0,
-  "id": "l-istinto-della-conoscenza",
-  "_png": "L'istinto della conoscenza.jpg",
-  "_webp": "L'istinto della conoscenza_risultato.webp"
+  "id": "l-istinto-della-conoscenza"
  },
  {
   "title": "L'ombra del ricordo",
@@ -559,10 +589,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27ombra%20del%20ricordo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27ombra%20del%20ricordo.png"
+  ],
   "cover": 0,
-  "id": "l-ombra-del-ricordo",
-  "_png": "L'ombra del ricordo.jpg",
-  "_webp": "L'ombra del ricordo_risultato.webp"
+  "id": "l-ombra-del-ricordo"
  },
  {
   "title": "Pensieri lunari",
@@ -577,10 +608,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20lunari_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20lunari.png"
+  ],
   "cover": 0,
-  "id": "pensieri-lunari",
-  "_png": "Pensieri lunari.jpg",
-  "_webp": "Pensieri lunari_risultato.webp"
+  "id": "pensieri-lunari"
  },
  {
   "title": "Il castigo di Venere",
@@ -596,10 +628,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20castigo%20di%20Venere_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20castigo%20di%20Venere.png"
+  ],
   "cover": 0,
-  "id": "il-castigo-di-venere",
-  "_png": "Il castigo di Venere.jpg",
-  "_webp": "Il castigo di Venere_risultato.webp"
+  "id": "il-castigo-di-venere"
  },
  {
   "title": "Il dialogo della luce",
@@ -614,10 +647,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20dialogo%20della%20luce_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20dialogo%20della%20luce.png"
+  ],
   "cover": 0,
-  "id": "il-dialogo-della-luce",
-  "_png": "Il dialogo della luce.jpg",
-  "_webp": "Il dialogo della luce_risultato.webp"
+  "id": "il-dialogo-della-luce"
  },
  {
   "title": "Il gesto della memoria",
@@ -632,10 +666,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20gesto%20della%20memoria_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20gesto%20della%20memoria.png"
+  ],
   "cover": 0,
-  "id": "il-gesto-della-memoria",
-  "_png": "Il gesto della memoria.png",
-  "_webp": "Il gesto della memoria_risultato.webp"
+  "id": "il-gesto-della-memoria"
  },
  {
   "title": "La comunicazione ancestrale",
@@ -650,10 +685,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20comunicazione%20ancestrale_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20comunicazione%20ancestrale.png"
+  ],
   "cover": 0,
-  "id": "la-comunicazione-ancestrale",
-  "_png": "La comunicazione ancestrale.jpg",
-  "_webp": "La comunicazione ancestrale_risultato.webp"
+  "id": "la-comunicazione-ancestrale"
  },
  {
   "title": "La consapevolezza di Venere",
@@ -668,10 +704,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20consapevolezza%20di%20Venere_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20consapevolezza%20di%20Venere.png"
+  ],
   "cover": 0,
-  "id": "la-consapevolezza-di-venere",
-  "_png": "La consapevolezza di Venere.jpg",
-  "_webp": "La consapevolezza di Venere_risultato.webp"
+  "id": "la-consapevolezza-di-venere"
  },
  {
   "title": "La cornice della vita",
@@ -686,10 +723,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20cornice%20della%20vita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20cornice%20della%20vita.png"
+  ],
   "cover": 0,
-  "id": "la-cornice-della-vita",
-  "_png": "La cornice della vita.jpg",
-  "_webp": "La cornice della vita_risultato.webp"
+  "id": "la-cornice-della-vita"
  },
  {
   "title": "La metafisica del tempo",
@@ -704,10 +742,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20metafisica%20del%20tempo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20metafisica%20del%20tempo.png"
+  ],
   "cover": 0,
-  "id": "la-metafisica-del-tempo",
-  "_png": "La metafisica del tempo.png",
-  "_webp": "La metafisica del tempo_risultato.webp"
+  "id": "la-metafisica-del-tempo"
  },
  {
   "title": "La metafisica di Psyche",
@@ -722,10 +761,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20metafisica%20di%20Psyche_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20metafisica%20di%20Psyche.png"
+  ],
   "cover": 0,
-  "id": "la-metafisica-di-psyche",
-  "_png": "La metafisica di Psyche.jpg",
-  "_webp": "La metafisica di Psyche_risultato.webp"
+  "id": "la-metafisica-di-psyche"
  },
  {
   "title": "La metamorfosi del dinamismo",
@@ -740,10 +780,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20metamorfosi%20del%20dinamismo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20metamorfosi%20del%20dinamismo.png"
+  ],
   "cover": 0,
-  "id": "la-metamorfosi-del-dinamismo",
-  "_png": "La metamorfosi del dinamismo.jpg",
-  "_webp": "La metamorfosi del dinamismo_risultato.webp"
+  "id": "la-metamorfosi-del-dinamismo"
  },
  {
   "title": "La stanza della mediazione",
@@ -758,64 +799,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20stanza%20della%20mediazione_risultato.webp"
   ],
-  "cover": 0,
-  "id": "la-stanza-della-mediazione",
-  "_png": "La stanza della mediazione.jpg",
-  "_webp": "La stanza della mediazione_risultato.webp"
- },
- {
-  "title": "L'affiorare dell'anima",
-  "tech": "Olio su tela 80×100cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "Nel buio del nostro involucro,<br>fatto di carne e nervi<br>e sangue che fluisce<br>e muscoli che si tendono.<br>L'anima è una gigante rossa che sta per esplodere<br>e gode di luce propria.<br>Non ha bisogno di energia esterna né del sole.<br>Lei ha luce propria.<br>Ed emerge dal profondo.<br>E solleva il corpo nell'estasi della vita.",
-  "imgs": [
-   "img/opere/L%27affiorare%20dell%27anima_risultato.webp"
+  "big": [
+   "img/operePng/La%20stanza%20della%20mediazione.png"
   ],
   "cover": 0,
-  "id": "l-affiorare-dell-anima",
-  "_png": "L'affiorare dell'anima.jpg",
-  "_webp": "L'affiorare dell'anima_risultato.webp"
- },
- {
-  "title": "L'antica memoria",
-  "tech": "Olio su tela 100×70cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "L'antica memoria risiede nella parte più profonda della coscienza.<br>È la stanza più buia che risiede nella mente.<br>È l'unica luce che sa arrivare in quell'abisso.<br>Li dove affiorano le nostre più remote radici… la nostra provenienza.<br>Fin dove andremo poi.",
-  "imgs": [
-   "img/opere/L%27antica%20memoria_risultato.webp"
-  ],
-  "cover": 0,
-  "id": "l-antica-memoria",
-  "_png": "L'antica memoria.jpg",
-  "_webp": "L'antica memoria_risultato.webp"
- },
- {
-  "title": "L'esigenza Umana",
-  "tech": "Olio su tela 100×80, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "Mettersi a nudo non significa mostrarsi.<br>Significa saper accettare i nostri difetti e le nostre fragilità, le nostre virtù e i nostri limiti.<br>Mettersi a nudo significa saper prendere coscienza di noi stessi per assecondare poi le nostre esigenze emotive.<br>L'appagamento esiste solo nella condivisione.<br>Nell'amore corrisposto.<br>Nel guardarsi negli occhi <br>e scegliersi.",
-  "imgs": [
-   "img/opere/L%27esigenza%20Umana_risultato.webp"
-  ],
-  "cover": 0,
-  "id": "l-esigenza-umana",
-  "_png": "L'esigenza Umana.jpg",
-  "_webp": "L'esigenza Umana_risultato.webp"
+  "id": "la-stanza-della-mediazione"
  },
  {
   "title": "La stanza dell'intimità",
@@ -830,10 +818,86 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20stanza%20dell%27intimita.png"
+  ],
   "cover": 0,
-  "id": "la-stanza-dell-intimita",
-  "_png": "La stanza dell'intimita.png",
-  "_webp": "La stanza dell'intimita_risultato.webp"
+  "id": "la-stanza-dell-intimita"
+ },
+ {
+  "title": "L'affiorare dell'anima",
+  "tech": "Olio su tela 80×100cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "Nel buio del nostro involucro,<br>fatto di carne e nervi<br>e sangue che fluisce<br>e muscoli che si tendono.<br>L'anima è una gigante rossa che sta per esplodere<br>e gode di luce propria.<br>Non ha bisogno di energia esterna né del sole.<br>Lei ha luce propria.<br>Ed emerge dal profondo.<br>E solleva il corpo nell'estasi della vita.",
+  "imgs": [
+   "img/opere/L%27affiorare%20dell%27anima_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27affiorare%20dell%27anima.png"
+  ],
+  "cover": 0,
+  "id": "l-affiorare-dell-anima"
+ },
+ {
+  "title": "L'antica memoria",
+  "tech": "Olio su tela 100×70cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "L'antica memoria risiede nella parte più profonda della coscienza.<br>È la stanza più buia che risiede nella mente.<br>È l'unica luce che sa arrivare in quell'abisso.<br>Li dove affiorano le nostre più remote radici… la nostra provenienza.<br>Fin dove andremo poi.",
+  "imgs": [
+   "img/opere/L%27antica%20memoria_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27antica%20memoria.png"
+  ],
+  "cover": 0,
+  "id": "l-antica-memoria"
+ },
+ {
+  "title": "L'esigenza Umana",
+  "tech": "Olio su tela 100×80, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "Mettersi a nudo non significa mostrarsi.<br>Significa saper accettare i nostri difetti e le nostre fragilità, le nostre virtù e i nostri limiti.<br>Mettersi a nudo significa saper prendere coscienza di noi stessi per assecondare poi le nostre esigenze emotive.<br>L'appagamento esiste solo nella condivisione.<br>Nell'amore corrisposto.<br>Nel guardarsi negli occhi <br>e scegliersi.",
+  "imgs": [
+   "img/opere/L%27esigenza%20Umana_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27esigenza%20Umana.png"
+  ],
+  "cover": 0,
+  "id": "l-esigenza-umana"
+ },
+ {
+  "title": "Studio del panneggio - Degas",
+  "tech": "Affresco",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "2023"
+  ],
+  "desc": "Studio del panneggio - Degas",
+  "imgs": [
+   "img/opere/Studio%20del%20panneggio%20-%20Degas_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Studio%20del%20panneggio%20-%20Degas.png"
+  ],
+  "cover": 0,
+  "id": "studio-del-panneggio-degas"
  },
  {
   "title": "Banchetto dinamico",
@@ -847,10 +911,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Banchetto%20dinamico_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Banchetto%20dinamico.png"
+  ],
   "cover": 0,
-  "id": "banchetto-dinamico",
-  "_png": "Banchetto dinamico.jpg",
-  "_webp": "Banchetto dinamico_risultato.webp"
+  "id": "banchetto-dinamico"
  },
  {
   "title": "Carta vince, carta perde",
@@ -865,10 +930,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Carta%20vince%2C%20carta%20perde_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Carta%20vince%2C%20carta%20perde.png"
+  ],
   "cover": 0,
-  "id": "carta-vince-carta-perde",
-  "_png": "Carta vince, carta perde.jpg",
-  "_webp": "Carta vince, carta perde_risultato.webp"
+  "id": "carta-vince-carta-perde"
  },
  {
   "title": "Il debutto di Venere",
@@ -883,10 +949,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20debutto%20di%20Venere_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20debutto%20di%20Venere.png"
+  ],
   "cover": 0,
-  "id": "il-debutto-di-venere",
-  "_png": "Il debutto di Venere.jpg",
-  "_webp": "Il debutto di Venere_risultato.webp"
+  "id": "il-debutto-di-venere"
  },
  {
   "title": "Il doppio elemento",
@@ -901,10 +968,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20doppio%20elemento_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20doppio%20elemento.png"
+  ],
   "cover": 0,
-  "id": "il-doppio-elemento",
-  "_png": "Il doppio elemento.png",
-  "_webp": "Il doppio elemento_risultato.webp"
+  "id": "il-doppio-elemento"
+ },
+ {
+  "title": "Il piacere tattile dei pensieri",
+  "tech": "Tecnica mista su tela 80 × 100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2022"
+  ],
+  "desc": "A volte non servono le mani per toccare... nè per sentire.<br>Lei chiude gli occhi e percorrere tutto il suo corpo solo con l'immaginazione.<br>Non servono le mani a volte.<br>Ma le sente addosso.",
+  "imgs": [
+   "img/opere/Il%20piacere%20tattile%20dei%20pensieri_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20piacere%20tattile%20dei%20pensieri.png"
+  ],
+  "cover": 0,
+  "id": "il-piacere-tattile-dei-pensieri"
  },
  {
   "title": "Il punto cieco dell'io",
@@ -919,10 +1006,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20punto%20cieco%20dell%27io_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20punto%20cieco%20dell%27io.png"
+  ],
   "cover": 0,
-  "id": "il-punto-cieco-dell-io",
-  "_png": "Il punto cieco dell'io.png",
-  "_webp": "Il punto cieco dell'io_risultato.webp"
+  "id": "il-punto-cieco-dell-io"
  },
  {
   "title": "Il silenzio dei pensieri",
@@ -933,14 +1021,15 @@ const WORKS=[
    "Destrutturalismo interiore",
    "2022"
   ],
-  "desc": "Alcuni pensieri si muovono nel loro silenzio.<br>Scorrono in sintonia con un respiro lento e profondo.<br>Da fuori quei pensieri non fanno rumore.<br>Sono invisibili per tutti.<br>Inafferrabili.. impercettibili.<br>Fuori nulla appare.<br>Solo dentro c'è il vero frastuono.",
+  "desc": "Alcuni pensieri si muovono nel loro silenzio.<br>Scorrono in sintonia con un respiro lento e profondo.<br>Da fuori quei pensieri non fanno rumore.<br>Sono invisibili per tutti.<br>Inafferrabili... impercettibili.<br>Fuori nulla appare.<br>Solo dentro c'è il vero frastuono.",
   "imgs": [
    "img/opere/Il%20silenzio%20dei%20pensieri_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20silenzio%20dei%20pensieri.png"
+  ],
   "cover": 0,
-  "id": "il-silenzio-dei-pensieri",
-  "_png": "Il silenzio dei pensieri.jpg",
-  "_webp": "Il silenzio dei pensieri_risultato.webp"
+  "id": "il-silenzio-dei-pensieri"
  },
  {
   "title": "Intime rivelazioni",
@@ -955,10 +1044,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Intime%20rivelazioni_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Intime%20rivelazioni.png"
+  ],
   "cover": 0,
-  "id": "intime-rivelazioni",
-  "_png": "Intime rivelazioni.jpg",
-  "_webp": "Intime rivelazioni_risultato.webp"
+  "id": "intime-rivelazioni"
  },
  {
   "title": "La geometria euclidea del tempo",
@@ -973,10 +1063,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20geometria%20euclidea%20del%20tempo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20geometria%20euclidea%20del%20tempo.png"
+  ],
   "cover": 0,
-  "id": "la-geometria-euclidea-del-tempo",
-  "_png": "La geometria euclidea del tempo.jpg",
-  "_webp": "La geometria euclidea del tempo_risultato.webp"
+  "id": "la-geometria-euclidea-del-tempo"
  },
  {
   "title": "La liberazione di Dafne",
@@ -992,10 +1083,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20liberazione%20di%20Dafne_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20liberazione%20di%20Dafne.png"
+  ],
   "cover": 0,
-  "id": "la-liberazione-di-dafne",
-  "_png": "La liberazione di Dafne.png",
-  "_webp": "La liberazione di Dafne_risultato.webp"
+  "id": "la-liberazione-di-dafne"
  },
  {
   "title": "La prospettiva della vita",
@@ -1010,10 +1102,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20prospettiva%20della%20vita_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20prospettiva%20della%20vita.png"
+  ],
   "cover": 0,
-  "id": "la-prospettiva-della-vita",
-  "_png": "La prospettiva della vita.jpg",
-  "_webp": "La prospettiva della vita_risultato.webp"
+  "id": "la-prospettiva-della-vita"
  },
  {
   "title": "Lo stato solido dei pensieri",
@@ -1028,10 +1121,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Lo%20stato%20solido%20dei%20pensieri_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Lo%20stato%20solido%20dei%20pensieri.png"
+  ],
   "cover": 0,
-  "id": "lo-stato-solido-dei-pensieri",
-  "_png": "Lo stato solido dei pensieri.jpg",
-  "_webp": "Lo stato solido dei pensieri_risultato.webp"
+  "id": "lo-stato-solido-dei-pensieri"
  },
  {
   "title": "L'odore dei sogni",
@@ -1046,10 +1140,30 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27odore%20dei%20sogni_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27odore%20dei%20sogni.png"
+  ],
   "cover": 0,
-  "id": "l-odore-dei-sogni",
-  "_png": "L'odore dei sogni.png",
-  "_webp": "L'odore dei sogni_risultato.webp"
+  "id": "l-odore-dei-sogni"
+ },
+ {
+  "title": "I malintesi di Marte e Venere",
+  "tech": "Acrilico su tela 80×100cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "Due mondi divergenti<br>Due poli opposti.<br>Due divinità.<br>Da sempre l'uno è la completezza dell'altro.<br>Da sempre si scontrano tra equivoci e incomprensioni.<br>Una riflessiva e quasi rassegnata Venere sogna costantemente l'idea di un amore totale...universale...inconfutabile.<br>Un pensieroso e combattuto Marte.<br>Lui che è Dio della guerra si sente all'improvviso vulnerabile se il suo duellante è se stesso... se deve combattere le sue fragilità.",
+  "imgs": [
+   "img/opere/I%20malintesi%20di%20Marte%20e%20Venere_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/I%20malintesi%20di%20Marte%20e%20Venere.png"
+  ],
+  "cover": 0,
+  "id": "i-malintesi-di-marte-e-venere"
  },
  {
   "title": "Il ciclo enigmatico del tempo",
@@ -1064,10 +1178,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20ciclo%20enigmatico%20del%20tempo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20ciclo%20enigmatico%20del%20tempo.png"
+  ],
   "cover": 0,
-  "id": "il-ciclo-enigmatico-del-tempo",
-  "_png": "Il ciclo enigmatico del tempo.jpg",
-  "_webp": "Il ciclo enigmatico del tempo_risultato.webp"
+  "id": "il-ciclo-enigmatico-del-tempo"
  },
  {
   "title": "Il disciogliersi del buio",
@@ -1082,10 +1197,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20disciogliersi%20del%20buio_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20disciogliersi%20del%20buio.png"
+  ],
   "cover": 0,
-  "id": "il-disciogliersi-del-buio",
-  "_png": "Il disciogliersi del buio.jpg",
-  "_webp": "Il disciogliersi del buio_risultato.webp"
+  "id": "il-disciogliersi-del-buio"
  },
  {
   "title": "Il teorema dell'immenso",
@@ -1100,10 +1216,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20teorema%20dell%27immenso_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20teorema%20dell%27immenso.png"
+  ],
   "cover": 0,
-  "id": "il-teorema-dell-immenso",
-  "_png": "Il teorema dell'immenso.jpg",
-  "_webp": "Il teorema dell'immenso_risultato.webp"
+  "id": "il-teorema-dell-immenso"
+ },
+ {
+  "title": "Il ventitreesimo cromosoma",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "L'uomo e la donna sono identici fino a ventidue coppie di cromosomi.<br>È la ventitreesima quella che crea la diversità... appena 0,2 mm che catapultano l'uomo e la donna in due mondi totalmente opposti.<br>Quell'impercettibile lunghezza fa sì che Marte e Venere si attraggono e si respingono per l'irrazionale forza dell'amore e del desiderio.<br>Ma c'è una parte dentro ognuno di loro, in quell'abissale differenza, che li accomuna inconsapevolmente... li fa essere identici anche in quel cromosoma.<br>Se solo potessero leggersi dentro e trovare l'altra parte di sé, tutto combacerebbe fino alle perfezione.",
+  "imgs": [
+   "img/opere/Il%20ventitreesimo%20cromosoma_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20ventitreesimo%20cromosoma.png"
+  ],
+  "cover": 0,
+  "id": "il-ventitreesimo-cromosoma"
  },
  {
   "title": "Il vicolo cieco dell'amore",
@@ -1118,10 +1254,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20vicolo%20cieco%20dell%27amore_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20vicolo%20cieco%20dell%27amore.png"
+  ],
   "cover": 0,
-  "id": "il-vicolo-cieco-dell-amore",
-  "_png": "Il vicolo cieco dell'amore.png",
-  "_webp": "Il vicolo cieco dell'amore_risultato.webp"
+  "id": "il-vicolo-cieco-dell-amore"
  },
  {
   "title": "In fondo agli occhi",
@@ -1136,10 +1273,11 @@ const WORKS=[
   "imgs": [
    "img/opere/In%20fondo%20agli%20occhi_risultato.webp"
   ],
+  "big": [
+   "img/operePng/In%20fondo%20agli%20occhi.png"
+  ],
   "cover": 0,
-  "id": "in-fondo-agli-occhi",
-  "_png": "In fondo agli occhi.jpg",
-  "_webp": "In fondo agli occhi_risultato.webp"
+  "id": "in-fondo-agli-occhi"
  },
  {
   "title": "La creazione dell'osservatore",
@@ -1154,10 +1292,30 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20creazione%20dell%27osservatore_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20creazione%20dell%27osservatore.png"
+  ],
   "cover": 0,
-  "id": "la-creazione-dell-osservatore",
-  "_png": "La creazione dell'osservatore.png",
-  "_webp": "La creazione dell'osservatore_risultato.webp"
+  "id": "la-creazione-dell-osservatore"
+ },
+ {
+  "title": "La diffusione del silenzio nei sogni",
+  "tech": "Tecnica mista su tela 100 × 100cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "Esiste una scena neutra nelle profondità dell'essere umano.<br>È quel vuoto senza gravità, che si propaga nel subconscio.<br>Lì, ogni desiderio prende forma.<br>Ogni pensiero dimenticato prende vita.<br>Tutto ciò che nella veglia vince sull'istinto, lì perde la ragione.<br>Non ci sono parole, né morale nei sogni.<br>C'è un flusso fluttuante che comunica, senza dover pensare a niente.<br>È quel flusso inesauribile che al mattino ti riporta in superficie.",
+  "imgs": [
+   "img/opere/La%20diffusione%20del%20silenzio%20nei%20sogni_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20diffusione%20del%20silenzio%20nei%20sogni.png"
+  ],
+  "cover": 0,
+  "id": "la-diffusione-del-silenzio-nei-sogni"
  },
  {
   "title": "La metafisica dei sogni",
@@ -1172,10 +1330,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20metafisica%20dei%20sogni_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20metafisica%20dei%20sogni.png"
+  ],
   "cover": 0,
-  "id": "la-metafisica-dei-sogni",
-  "_png": "La metafisica dei sogni.jpg",
-  "_webp": "La metafisica dei sogni_risultato.webp"
+  "id": "la-metafisica-dei-sogni"
  },
  {
   "title": "La strada di ognuno",
@@ -1191,10 +1350,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20strada%20di%20ognuno_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20strada%20di%20ognuno.png"
+  ],
   "cover": 0,
-  "id": "la-strada-di-ognuno",
-  "_png": "La strada di ognuno.jpg",
-  "_webp": "La strada di ognuno_risultato.webp"
+  "id": "la-strada-di-ognuno"
  },
  {
   "title": "La terapia del cuore",
@@ -1209,10 +1369,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20terapia%20del%20cuore_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20terapia%20del%20cuore.png"
+  ],
   "cover": 0,
-  "id": "la-terapia-del-cuore",
-  "_png": "La terapia del cuore.png",
-  "_webp": "La terapia del cuore_risultato.webp"
+  "id": "la-terapia-del-cuore"
  },
  {
   "title": "L'altra versione di sé",
@@ -1227,10 +1388,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27altra%20versione%20di%20se_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27altra%20versione%20di%20se.png"
+  ],
   "cover": 0,
-  "id": "l-altra-versione-di-se",
-  "_png": "L'altra versione di se.png",
-  "_webp": "L'altra versione di se_risultato.webp"
+  "id": "l-altra-versione-di-se"
  },
  {
   "title": "Le luci dei pensieri nell'ombra",
@@ -1245,10 +1407,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Le%20luci%20dei%20pensieri%20nell%27ombra_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Le%20luci%20dei%20pensieri%20nell%27ombra.png"
+  ],
   "cover": 0,
-  "id": "le-luci-dei-pensieri-nell-ombra",
-  "_png": "Le luci dei pensieri nell'ombra.jpg",
-  "_webp": "Le luci dei pensieri nell'ombra_risultato.webp"
+  "id": "le-luci-dei-pensieri-nell-ombra"
  },
  {
   "title": "Lo specchio dell'artista",
@@ -1262,12 +1425,32 @@ const WORKS=[
   ],
   "desc": "Trovarmi davanti una tela ancora bianca, immacolata, è un qualcosa che mi inquieta.<br>È come specchiarsi in un vuoto senza riflesso.<br>La guardo da lontano quasi con timore.. con diffidenza.<br>Perché il mio cuore già sa che su quella trama si rifletterà tutto ciò che ho dentro.<br>La tela è lo specchio dell'animo di un'artista.<br>È la porta d'ingresso della sua interiorità.<br>È dove sarà veramente sincero.<br>L'approccio con la tela è quel momento in cui stai per toglierti la maschera.<br>Uscire allo scoperto.<br>A volte fa paura.<br>Perché sai che li non puoi mentire.",
   "imgs": [
-   "img/opere/Lo%20specchio%20dell_artista_risultato.webp"
+   "img/opere/Lo%20specchio%20dell%27artista_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Lo%20specchio%20dell%27artista.png"
   ],
   "cover": 0,
-  "id": "lo-specchio-dell-artista",
-  "_png": "Lo specchio dell_artista.jpg",
-  "_webp": "Lo specchio dell_artista_risultato.webp"
+  "id": "lo-specchio-dell-artista"
+ },
+ {
+  "title": "L'odore di quell'attimo prima",
+  "tech": "Tecnica mista su tela 90 × 90cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "È la fusione di battiti percepiti attraverso la pelle.<br>È uno sfiorarsi appena, poco prima di invadersi.<br>È quell'istante che precede un totale abbandono.<br>E l'aria sa di loro.<br>È quell'odore fatto di mani.. di calore.<br>e di vertigini.",
+  "imgs": [
+   "img/opere/L%27odore%20di%20quell%27attimo%20prima_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27odore%20di%20quell%27attimo%20prima.png"
+  ],
+  "cover": 0,
+  "id": "l-odore-di-quell-attimo-prima"
  },
  {
   "title": "L'ombra della contraddizione",
@@ -1282,10 +1465,11 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27ombra%20della%20contraddizione_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27ombra%20della%20contraddizione.png"
+  ],
   "cover": 0,
-  "id": "l-ombra-della-contraddizione",
-  "_png": "L'ombra della contraddizione.jpg",
-  "_webp": "L'ombra della contraddizione_risultato.webp"
+  "id": "l-ombra-della-contraddizione"
  },
  {
   "title": "Pensieri nell'ombra 10 novembre 2021",
@@ -1300,10 +1484,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2010%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2010%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-10-novembre-2021",
-  "_png": "Pensieri nell'ombra 10 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 10 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-10-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 11 novembre 2021",
@@ -1318,10 +1503,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2011%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2011%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-11-novembre-2021",
-  "_png": "Pensieri nell'ombra 11 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 11 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-11-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 15 novembre 2021",
@@ -1336,10 +1522,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2015%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2015%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-15-novembre-2021",
-  "_png": "Pensieri nell'ombra 15 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 15 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-15-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 16 novembre 2021",
@@ -1354,10 +1541,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2016%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2016%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-16-novembre-2021",
-  "_png": "Pensieri nell'ombra 16 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 16 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-16-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 19 novembre 2021",
@@ -1372,10 +1560,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2019%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2019%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-19-novembre-2021",
-  "_png": "Pensieri nell'ombra 19 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 19 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-19-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 20 novembre 2021",
@@ -1390,10 +1579,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2020%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2020%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-20-novembre-2021",
-  "_png": "Pensieri nell'ombra 20 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 20 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-20-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 22 novembre 2021",
@@ -1408,10 +1598,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%2022%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2022%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-22-novembre-2021",
-  "_png": "Pensieri nell'ombra 22 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 22 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-22-novembre-2021"
  },
  {
   "title": "Pensieri nell'ombra 8 novembre 2021",
@@ -1426,10 +1617,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Pensieri%20nell%27ombra%208%20novembre%202021_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%208%20novembre%202021.png"
+  ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-8-novembre-2021",
-  "_png": "Pensieri nell'ombra 8 novembre 2021.png",
-  "_webp": "Pensieri nell'ombra 8 novembre 2021_risultato.webp"
+  "id": "pensieri-nell-ombra-8-novembre-2021"
  },
  {
   "title": "Riflessioni vaganti",
@@ -1444,10 +1636,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Riflessioni%20vaganti_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Riflessioni%20vaganti.png"
+  ],
   "cover": 0,
-  "id": "riflessioni-vaganti",
-  "_png": "Riflessioni vaganti.jpg",
-  "_webp": "Riflessioni vaganti_risultato.webp"
+  "id": "riflessioni-vaganti"
  },
  {
   "title": "Crepuscolo urbano",
@@ -1463,10 +1656,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Crepuscolo%20urbano_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Crepuscolo%20urbano.png"
+  ],
   "cover": 0,
-  "id": "crepuscolo-urbano",
-  "_png": "Crepuscolo urbano.jpg",
-  "_webp": "Crepuscolo urbano_risultato.webp"
+  "id": "crepuscolo-urbano"
  },
  {
   "title": "Deserti urbani",
@@ -1482,10 +1676,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Deserti%20urbani_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Deserti%20urbani.png"
+  ],
   "cover": 0,
-  "id": "deserti-urbani",
-  "_png": "Deserti urbani.png",
-  "_webp": "Deserti urbani_risultato.webp"
+  "id": "deserti-urbani"
  },
  {
   "title": "Dopo la tempesta",
@@ -1501,10 +1696,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Dopo%20la%20tempesta_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Dopo%20la%20tempesta.png"
+  ],
   "cover": 0,
-  "id": "dopo-la-tempesta",
-  "_png": "Dopo la tempesta.png",
-  "_webp": "Dopo la tempesta_risultato.webp"
+  "id": "dopo-la-tempesta"
  },
  {
   "title": "Flashmob",
@@ -1519,10 +1715,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Flashmob_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Flashmob.png"
+  ],
   "cover": 0,
-  "id": "flashmob",
-  "_png": "Flashmob.jpg",
-  "_webp": "Flashmob_risultato.webp"
+  "id": "flashmob"
  },
  {
   "title": "Forza interiore",
@@ -1537,10 +1734,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Forza%20interiore_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Forza%20interiore.png"
+  ],
   "cover": 0,
-  "id": "forza-interiore",
-  "_png": "Forza interiore.png",
-  "_webp": "Forza interiore_risultato.webp"
+  "id": "forza-interiore"
  },
  {
   "title": "Fuori dalla tempesta",
@@ -1551,14 +1749,72 @@ const WORKS=[
    "Destrutturalismo interiore",
    "2020"
   ],
-  "desc": "In quella tempesta interiore fatta di fango e repressione esce ancora sporca di ciò che si è trascinata dentro. Ma c'è bel tempo al di là di quei pensieri..",
+  "desc": "In quella tempesta interiore fatta di fango e repressione esce ancora sporca di ciò che si è trascinata dentro. Ma c'è bel tempo al di là di quei pensieri…",
   "imgs": [
    "img/opere/Fuori%20dalla%20tempesta_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Fuori%20dalla%20tempesta.png"
+  ],
   "cover": 0,
-  "id": "fuori-dalla-tempesta",
-  "_png": "Fuori dalla tempesta.png",
-  "_webp": "Fuori dalla tempesta_risultato.webp"
+  "id": "fuori-dalla-tempesta"
+ },
+ {
+  "title": "Gli amanti",
+  "tech": "Tecnica mista su tela 80×120cm - gesso a spatola e acrilico, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Piacevole e fugace ossessione.<br>Mi togli il sonno al mattino.<br>Quando immagino il tuo corpo<br>muoversi su di me.<br>Odori acri e dolciastri dalla finestra<br>riempiono la stanza e sanno di te.<br>Della tua pelle.<br>Sudore e polvere.<br>E smanio tra le lenzuola sciupate.<br>Vibrazioni che trascendono.<br>Che esplodono ovunque.<br>Tra un delicato tatto<br>e un fremente toccare.",
+  "imgs": [
+   "img/opere/Gli%20amanti_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Gli%20amanti.png"
+  ],
+  "cover": 0,
+  "id": "gli-amanti"
+ },
+ {
+  "title": "Il contrappasso della coscienza",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Scesi quelle scale con la morte nel cuore. <br>Camminai sul pavimento aggredito dalla pioggia e sentii quegli occhi su di me.<br>Mi voltai guardando su e la mia coscienza mi stava guardando<br>Trafiggendomi da parte a parte.<br>Tornai su perdendomi in un lungo abbraccio.<br>E quando scesi nuovamente rialzai la testa... ma i suoi occhi non c'erano più.<br>Andai avanti e mi soffermai un momento.<br>Pensando che la mia pena stava superando le mie scelte sbagliate.",
+  "imgs": [
+   "img/opere/Il%20contrappasso%20della%20coscienza_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20contrappasso%20della%20coscienza.png"
+  ],
+  "cover": 0,
+  "id": "il-contrappasso-della-coscienza"
+ },
+ {
+  "title": "Il dualismo di Afrodite",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "La sua mente è rapita da un profondo pensiero di desiderio e rifiuto.<br>Di possessione e repulsione.<br>La ragione combatte con il cuore...<br>mentre il suo corpo si dirige altrove.",
+  "imgs": [
+   "img/opere/Il%20dualismo%20di%20Afrodite_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20dualismo%20di%20Afrodite.png"
+  ],
+  "cover": 0,
+  "id": "il-dualismo-di-afrodite"
  },
  {
   "title": "Il mondo fuori",
@@ -1573,10 +1829,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20mondo%20fuori_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20mondo%20fuori.png"
+  ],
   "cover": 0,
-  "id": "il-mondo-fuori",
-  "_png": "Il mondo fuori.jpg",
-  "_webp": "Il mondo fuori_risultato.webp"
+  "id": "il-mondo-fuori"
  },
  {
   "title": "Il ponte di Einstein-Rosen",
@@ -1591,10 +1848,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20ponte%20di%20Einstein-Rosen_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20ponte%20di%20Einstein-Rosen.png"
+  ],
   "cover": 0,
-  "id": "il-ponte-di-einstein-rosen",
-  "_png": "Il ponte di Einstein-Rosen.jpg",
-  "_webp": "Il ponte di Einstein-Rosen_risultato.webp"
+  "id": "il-ponte-di-einstein-rosen"
  },
  {
   "title": "Il portico",
@@ -1610,10 +1868,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20portico_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20portico.png"
+  ],
   "cover": 0,
-  "id": "il-portico",
-  "_png": "Il portico.jpg",
-  "_webp": "Il portico_risultato.webp"
+  "id": "il-portico"
+ },
+ {
+  "title": "Il pudore di Venere",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Questa è stata la prima opera del 2021.<br>Ho voluto riproporla perché erano più di due mesi che me la trovavo davanti e c'era qualcosa che mi disturbava di continuo.<br>Non so esattamente cosa... qualcosa di sbagliato, di non completo... e c'ho voluto rimettere mano... e oggi guardandola finalmente mi ha detto basta.",
+  "imgs": [
+   "img/opere/Il%20pudore%20di%20Venere_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20pudore%20di%20Venere.png"
+  ],
+  "cover": 0,
+  "id": "il-pudore-di-venere"
  },
  {
   "title": "Il sipario della mente",
@@ -1628,10 +1906,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Il%20sipario%20della%20mente_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Il%20sipario%20della%20mente.png"
+  ],
   "cover": 0,
-  "id": "il-sipario-della-mente",
-  "_png": "Il sipario della mente.jpg",
-  "_webp": "Il sipario della mente_risultato.webp"
+  "id": "il-sipario-della-mente"
+ },
+ {
+  "title": "Il vincolo di un pensiero comune",
+  "tech": "Acrilico su tela 70×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Racchiusi ognuno in un pensiero diverso, gli uomini si ritrovano tutti nel soffocante vincolo della restrizione quando non riescono ad esternare ciò che provano.",
+  "imgs": [
+   "img/opere/Il%20vincolo%20di%20un%20pensiero%20comune_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20vincolo%20di%20un%20pensiero%20comune.png"
+  ],
+  "cover": 0,
+  "id": "il-vincolo-di-un-pensiero-comune"
  },
  {
   "title": "Indomabile naturalezza",
@@ -1645,10 +1943,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Indomabile%20naturalezza_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Indomabile%20naturalezza.png"
+  ],
   "cover": 0,
-  "id": "indomabile-naturalezza",
-  "_png": "Indomabile naturalezza.jpg",
-  "_webp": "Indomabile naturalezza_risultato.webp"
+  "id": "indomabile-naturalezza"
+ },
+ {
+  "title": "La dea dell'incertezza",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nel piu profondo lotta col suo dualismo che separa mente e corpo.<br>Incarna la passione di Afrodite e la discordia di Eris.<br>Lottano le due dee nel suo cuore.<br>Dove vorrebbe abbandonarsi al suo pensiero.<br>Ma gli ostacoli della ragione soffocano ogni desiderio.<br>È una divinità, ma sopratutto è una donna.<br>Anche una dea ha i suoi eterni dubbi.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo.",
+  "imgs": [
+   "img/opere/La%20dea%20dell%27incertezza_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20dea%20dell%27incertezza.png"
+  ],
+  "cover": 0,
+  "id": "la-dea-dell-incertezza"
  },
  {
   "title": "La dilatazione del tempo",
@@ -1663,10 +1981,68 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20dilatazione%20del%20tempo_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20dilatazione%20del%20tempo.png"
+  ],
   "cover": 0,
-  "id": "la-dilatazione-del-tempo",
-  "_png": "La dilatazione del tempo.jpg",
-  "_webp": "La dilatazione del tempo_risultato.webp"
+  "id": "la-dilatazione-del-tempo"
+ },
+ {
+  "title": "La dissolvenza dei ricordi",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Inesorabile il tempo preme sul presente e dilata i ricordi nel bagaglio nascosto nell'incoscio.<br>Sfumano voci e immagini... e momenti, e attimi.<br>Ma tutto è fermo lì nei sotterranei della mente.<br>Tutto si dissolve, si alleggerisce... ma nulla sparisce.<br>Basta solo rovistare in quella vecchia valigia sfatta.",
+  "imgs": [
+   "img/opere/La%20dissolvenza%20dei%20ricordi_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20dissolvenza%20dei%20ricordi.png"
+  ],
+  "cover": 0,
+  "id": "la-dissolvenza-dei-ricordi"
+ },
+ {
+  "title": "La fusione di un respiro",
+  "tech": "Tecnica mista su tela 80×100cm - gesso e pasta di cartapesta a spatola e acrilico, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nel sibilo di un respiro c'è tutta la vita.<br>La vicinanza del fuoco umano, il fiato tremolante di chi ti vuole accanto.<br>Il respiro si fonde in un'unica fonte di odori e desiderio... in un sincronismo simbiotico fatto di calore.<br>In quell'istante quel respiro è indivisibile.<br>Niente e nessuno può attraversarlo.",
+  "imgs": [
+   "img/opere/La%20fusione%20di%20un%20respiro_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20fusione%20di%20un%20respiro.png"
+  ],
+  "cover": 0,
+  "id": "la-fusione-di-un-respiro"
+ },
+ {
+  "title": "La metafisica della riflessione",
+  "tech": "Acrilico su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "La riflessione è la conseguenza di un fatto accaduto o di una scelta da fare, o di una scelta già fatta nel modo sbagliato.<br>Tutto questo è veicolato da un pensiero razionale.<br>Ma quando la mente elabora un pensiero o un idea non basandosi su un'esperienza vissuta, allora tutto questo diventa percezione... la percezione assoluta della realtà... l'intuizione priva di fondamento.<br>Il sapere non conscio della nostra intimità... la vera essenza della nostra interiorità.",
+  "imgs": [
+   "img/opere/La%20metafisica%20della%20riflessione_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20metafisica%20della%20riflessione.png"
+  ],
+  "cover": 0,
+  "id": "la-metafisica-della-riflessione"
  },
  {
   "title": "La terra dei sogni frammentati",
@@ -1678,14 +2054,53 @@ const WORKS=[
    "Destrutturalismo interiore",
    "2020"
   ],
-  "desc": "C'è un luogo tra la veglia e il sonno che genera visioni.. ma non è il dormire.<br>Un sogno ha colori neutri perché la mente non li riconosce, non distingue ciò che è reale da ciò che sta vivendo.<br>Tratti del viso nascosti danno comunque un'identità a quella visione perché solo nel profondo si è consci davvero di ciò che ci scuote l'anima.<br>E in quella terra lontana riconosciamo i nostri vividi sogni.",
+  "desc": "C'è un luogo tra la veglia e il sonno che genera visioni... ma non è il dormire.<br>Un sogno ha colori neutri perché la mente non li riconosce, non distingue ciò che è reale da ciò che sta vivendo.<br>Tratti del viso nascosti danno comunque un'identità a quella visione perché solo nel profondo si è consci davvero di ciò che ci scuote l'anima.<br>E in quella terra lontana riconosciamo i nostri vividi sogni.",
   "imgs": [
    "img/opere/La%20terra%20dei%20sogni%20frammentati_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20terra%20dei%20sogni%20frammentati.png"
+  ],
   "cover": 0,
-  "id": "la-terra-dei-sogni-frammentati",
-  "_png": "La terra dei sogni frammentati.jpg",
-  "_webp": "La terra dei sogni frammentati_risultato.webp"
+  "id": "la-terra-dei-sogni-frammentati"
+ },
+ {
+  "title": "L'abbandono di un abbraccio",
+  "tech": "Acrilico su tela 80×120cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Abbracciami anima vibrante.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo...",
+  "imgs": [
+   "img/opere/L%27abbandono%20di%20un%20abbraccio_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27abbandono%20di%20un%20abbraccio.png"
+  ],
+  "cover": 0,
+  "id": "l-abbandono-di-un-abbraccio"
+ },
+ {
+  "title": "L'angolo nascosto di un desiderio",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nascosta in un angolo<br>tra una leggera luce<br>e l'oscuro segreto delle sue passioni<br>avverte l'improvviso bisogno di denudarsi.<br>Il calore che gradualmente sale rende scomodi quegli indumenti.<br>Quasi con imbarazzo scopre la sua pelle<br>lontana da ogni sguardo irriverente.<br>Ciò che vorrebbe non è lì.<br>Ma la sua mente si è già impadronita di lei.",
+  "imgs": [
+   "img/opere/L%27angolo%20nascosto%20di%20un%20desiderio_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27angolo%20nascosto%20di%20un%20desiderio.png"
+  ],
+  "cover": 0,
+  "id": "l-angolo-nascosto-di-un-desiderio"
  },
  {
   "title": "Le stanze della memoria",
@@ -1700,10 +2115,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Le%20stanze%20della%20memoria_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Le%20stanze%20della%20memoria.png"
+  ],
   "cover": 0,
-  "id": "le-stanze-della-memoria",
-  "_png": "Le stanze della memoria.jpg",
-  "_webp": "Le stanze della memoria_risultato.webp"
+  "id": "le-stanze-della-memoria"
+ },
+ {
+  "title": "L'empatia dissonante",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "C'è un immenso divario che di continuo aumenta le distanze tra chi ha desideri e pensieri discordanti.<br>È quella scura zona d'ombra che separa i pensieri empatici e li spinge in direzioni opposte.<br>È il desiderio crescente di ciò che non puoi avere.",
+  "imgs": [
+   "img/opere/L%27empatia%20dissonante_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27empatia%20dissonante.png"
+  ],
+  "cover": 0,
+  "id": "l-empatia-dissonante"
  },
  {
   "title": "L'invisibile muro della restrizione",
@@ -1717,10 +2152,49 @@ const WORKS=[
   "imgs": [
    "img/opere/L%27invisibile%20muro%20della%20restrizione_risultato.webp"
   ],
+  "big": [
+   "img/operePng/L%27invisibile%20muro%20della%20restrizione.png"
+  ],
   "cover": 0,
-  "id": "l-invisibile-muro-della-restrizione",
-  "_png": "L'invisibile muro della restrizione.png",
-  "_webp": "L'invisibile muro della restrizione_risultato.webp"
+  "id": "l-invisibile-muro-della-restrizione"
+ },
+ {
+  "title": "L'ombra dei sussurri",
+  "tech": "Acrilico su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Un sussurro è la linea sottile tra il rumore e il silenzio. <br>Echeggia nella testa ma è impercettibile nell'aria.<br>È un mistero per chi lo osserva da lontano.<br>È la curiosità di un segreto.<br>È un fruscio fatto più di respiro che di voce.<br>È una parola quasi non detta, ma arriva al cuore con intenso frastuono.",
+  "imgs": [
+   "img/opere/L%27ombra%20dei%20sussurri_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27ombra%20dei%20sussurri.png"
+  ],
+  "cover": 0,
+  "id": "l-ombra-dei-sussurri"
+ },
+ {
+  "title": "Pierrot",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Pierrot è l'unica maschera che non indossa maschere... <br>le sue emozioni sono sempre espressamente chiare sul suo viso.",
+  "imgs": [
+   "img/opere/Pierrot_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pierrot.png"
+  ],
+  "cover": 0,
+  "id": "pierrot"
  },
  {
   "title": "Scacco matto",
@@ -1735,10 +2209,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Scacco%20matto_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Scacco%20matto.png"
+  ],
   "cover": 0,
-  "id": "scacco-matto",
-  "_png": "Scacco matto.jpg",
-  "_webp": "Scacco matto_risultato.webp"
+  "id": "scacco-matto"
  },
  {
   "title": "Segreti sfumati",
@@ -1753,10 +2228,30 @@ const WORKS=[
   "imgs": [
    "img/opere/Segreti%20sfumati_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Segreti%20sfumati.png"
+  ],
   "cover": 0,
-  "id": "segreti-sfumati",
-  "_png": "Segreti sfumati.jpg",
-  "_webp": "Segreti sfumati_risultato.webp"
+  "id": "segreti-sfumati"
+ },
+ {
+  "title": "Sogni lucidi",
+  "tech": "",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "",
+  "imgs": [
+   "img/opere/Sogni%20lucidi_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Sogni%20lucidi.png"
+  ],
+  "cover": 0,
+  "id": "sogni-lucidi"
  },
  {
   "title": "Spinti al coraggio",
@@ -1771,10 +2266,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Spinti%20al%20coraggio_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Spinti%20al%20coraggio.png"
+  ],
   "cover": 0,
-  "id": "spinti-al-coraggio",
-  "_png": "Spinti al coraggio.jpg",
-  "_webp": "Spinti al coraggio_risultato.webp"
+  "id": "spinti-al-coraggio"
  },
  {
   "title": "Strade sconosciute",
@@ -1790,10 +2286,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Strade%20sconosciute_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Strade%20sconosciute.png"
+  ],
   "cover": 0,
-  "id": "strade-sconosciute",
-  "_png": "Strade sconosciute.jpg",
-  "_webp": "Strade sconosciute_risultato.webp"
+  "id": "strade-sconosciute"
  },
  {
   "title": "La fragilità seduce l'anima",
@@ -1808,10 +2305,11 @@ const WORKS=[
   "imgs": [
    "img/opere/La%20fragilita%20seduce%20l%27anima_risultato.webp"
   ],
+  "big": [
+   "img/operePng/La%20fragilita%20seduce%20l%27anima.png"
+  ],
   "cover": 0,
-  "id": "la-fragilita-seduce-l-anima",
-  "_png": "La fragilita seduce l'anima.png",
-  "_webp": "La fragilita seduce l'anima_risultato.webp"
+  "id": "la-fragilita-seduce-l-anima"
  },
  {
   "title": "Profeta Ezechiele - particolare",
@@ -1823,10 +2321,11 @@ const WORKS=[
   "imgs": [
    "img/opere/Profeta%20Ezechiele%20-%20particolare_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Profeta%20Ezechiele%20-%20particolare.png"
+  ],
   "cover": 0,
-  "id": "profeta-ezechiele-particolare",
-  "_png": "Profeta Ezechiele - particolare.jpg",
-  "_webp": "Profeta Ezechiele - particolare_risultato.webp"
+  "id": "profeta-ezechiele-particolare"
  },
  {
   "title": "Santa Barbara",
@@ -1838,9 +2337,10 @@ const WORKS=[
   "imgs": [
    "img/opere/Santa%20Barbara_risultato.webp"
   ],
+  "big": [
+   "img/operePng/Santa%20Barbara.png"
+  ],
   "cover": 0,
-  "id": "santa-barbara",
-  "_png": "Santa Barbara.jpg",
-  "_webp": "Santa Barbara_risultato.webp"
+  "id": "santa-barbara"
  }
 ];
