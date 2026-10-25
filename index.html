@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-<!-- segarelliOpere versione tag-minuscolo-2 -->
+<!-- segarelliOpere versione lista-80 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Adriano Segarelli — L'essenza nuda dell'animo</title>
@@ -29,7 +29,7 @@ header .n{font:400 1.4rem var(--serif);letter-spacing:.02em;text-transform:none}
 section{padding:clamp(4rem,10vw,8rem) clamp(1.2rem,4vw,3rem)}
 .about{max-width:42rem;margin:auto;text-align:center}
 .about p{font:400 clamp(1.35rem,2.6vw,1.8rem)/1.5 var(--serif)}
-.stitle{font:400 clamp(2rem,4vw,3rem)/1.1 var(--serif);max-width:80rem;margin:0 auto 2rem;padding-top:clamp(1.5rem,3vw,2.5rem);border-top:1px solid var(--line)}.tags{max-width:80rem;margin:0 auto 2rem;display:flex;flex-wrap:wrap;gap:.5rem}.tags button{font:400 .8rem var(--sans);letter-spacing:.04em;text-transform:none!important;justify-self:auto;padding:.45rem .95rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;cursor:pointer}.tags button:hover{border-color:var(--clay)}.tags button.on{background:var(--clay);border-color:var(--clay);color:#fff}.tags .sep{flex-basis:100%;height:0}.search{max-width:80rem;margin:0 auto 2rem;display:flex;gap:.8rem}.search input{flex:1;min-width:0;font:inherit;padding:.8rem 1rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:2px}.search button{font:500 .8rem var(--sans,inherit);letter-spacing:.18em;text-transform:uppercase;padding:.8rem 1.6rem;border:0;background:var(--clay);color:#fff;cursor:pointer;border-radius:2px;white-space:nowrap}.nores{max-width:80rem;margin:0 auto 2rem;color:var(--mute)}@media(max-width:560px){.search{flex-direction:column}}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:2.2rem 1.4rem;align-items:start;max-width:80rem;margin:auto}@media(max-width:900px){.gallery{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.gallery{grid-template-columns:1fr}}.work .im{aspect-ratio:1/1;background:var(--bg2);display:grid;place-items:center}.work .im img{width:100%;height:100%;object-fit:contain}
+.stitle{font:400 clamp(2rem,4vw,3rem)/1.1 var(--serif);max-width:80rem;margin:0 auto 2rem;padding-top:clamp(1.5rem,3vw,2.5rem);border-top:1px solid var(--line)}.tags{max-width:80rem;margin:0 auto 2rem;display:flex;flex-wrap:wrap;gap:.5rem}.tags button{font:400 .8rem var(--sans);letter-spacing:.04em;text-transform:none!important;justify-self:auto;padding:.45rem .95rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;cursor:pointer}.tags button:hover{border-color:var(--clay)}.tags button.on{background:var(--clay);border-color:var(--clay);color:#fff}.tags .sep{flex-basis:100%;height:0}.search{max-width:80rem;margin:0 auto 2rem;display:flex;gap:.8rem}.search input{flex:1;min-width:0;font:inherit;padding:.8rem 1rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:2px}.search button{font:500 .8rem var(--sans,inherit);letter-spacing:.18em;text-transform:uppercase;padding:.8rem 1.6rem;border:0;background:var(--clay);color:#fff;cursor:pointer;border-radius:2px;white-space:nowrap}.nores{max-width:80rem;margin:0 auto 2rem;color:var(--mute)}@media(max-width:560px){.search{flex-direction:column}}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:2.2rem 1.4rem;align-items:start;max-width:80rem;margin:auto}@media(max-width:900px){.gallery{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.gallery{grid-template-columns:1fr}}.work .im{width:80%;aspect-ratio:1/1;background:var(--bg2);display:grid;place-items:center}.work .im img{width:100%;height:100%;object-fit:contain}
 .work{cursor:zoom-in;opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s}
 .work.in{opacity:1;transform:none}
 .work .ph{background:var(--bg2);width:100%;display:block;color:var(--mute);display:grid;place-items:center;font:italic 1.1rem var(--serif)}
@@ -176,7 +176,7 @@ function route(){const m=location.hash.match(/^#\/opera\/([^/?]+)/);const d=$("#
 addEventListener("hashchange",route);route();
 // Lightbox
 let cw,ck=0;
-function showLb(k){ck=(k+cw.imgs.length)%cw.imgs.length;$("#st").innerHTML=`<img src="${cw.imgs[ck]}" alt="${cw.title}">`;$("#cap").innerHTML=`<b>${cw.title}</b>${cw.tech}${cw.dim?" · "+cw.dim:""}`}
+function showLb(k){ck=(k+cw.imgs.length)%cw.imgs.length;const web=cw.imgs[ck],big=(cw.big&&cw.big[ck])||web;$("#st").innerHTML=`<img src="${big}" alt="${cw.title}">`;if(big!==web){const im=$("#st img");im.onerror=()=>{im.onerror=null;im.src=web}};$("#cap").innerHTML=`<b>${cw.title}</b>${cw.tech}${cw.dim?" · "+cw.dim:""}`}
 function openLb(w,k){cw=w;showLb(k);lb.classList.add("on");document.body.style.overflow="hidden"}
 function closeLb(){lb.classList.remove("on");document.body.style.overflow=""}
 $(".x").onclick=closeLb;$(".pv").onclick=()=>showLb(ck-1);$(".nx").onclick=()=>showLb(ck+1);
