@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-<!-- segarelliOpere versione detail-fit-1 -->
+<!-- segarelliOpere versione lightbox-fit-1 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Adriano Segarelli — L'essenza nuda dell'animo</title>
@@ -61,8 +61,8 @@ footer a{text-decoration:none;color:inherit}footer a:hover{color:var(--clay)}
 @media(max-width:760px){.fg{grid-template-columns:1fr;gap:2rem}}
 .lb{position:fixed;inset:0;background:rgba(245,239,230,.97);display:none;z-index:10;grid-template-rows:1fr auto;padding:1.2rem;align-items:center;justify-items:center}
 .lb.on{display:grid}
-.lb .stage{max-width:100%;max-height:100%;display:grid;place-items:center;min-height:0;height:100%;width:100%}
-.lb img{max-width:100%;max-height:100%;object-fit:contain}
+.lb .stage{max-width:100%;max-height:100%;display:grid;place-items:center;min-height:0;height:100%;width:100%;grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr);overflow:hidden}
+.lb img{max-width:100%;max-height:calc(100vh - 9.5rem);width:auto;height:auto;object-fit:contain;display:block}@supports(height:100dvh){.lb img{max-height:calc(100dvh - 9.5rem)}}.lb.single .pv,.lb.single .nx{display:none}
 .lb .ph{width:min(70vw,30rem);aspect-ratio:4/5;background:var(--bg2);display:grid;place-items:center;font:italic 1.2rem var(--serif);color:var(--mute)}
 .lb p{text-align:center;padding-top:1rem}
 .lb p b{font:400 1.4rem var(--serif);display:block}
@@ -176,7 +176,7 @@ function route(){closeLb();document.body.style.overflow="";const m=location.hash
 addEventListener("hashchange",route);route();
 // Lightbox
 let cw,ck=0;
-function showLb(k){ck=(k+cw.imgs.length)%cw.imgs.length;const web=cw.imgs[ck],big=(cw.big&&cw.big[ck])||web;$("#st").innerHTML=`<img src="${big}" alt="${cw.title}">`;if(big!==web){const im=$("#st img");im.onerror=()=>{im.onerror=null;im.src=web}};$("#cap").innerHTML=`<b>${cw.title}</b>${cw.tech}${cw.dim?" · "+cw.dim:""}`}
+function showLb(k){ck=(k+cw.imgs.length)%cw.imgs.length;const web=cw.imgs[ck],big=(cw.big&&cw.big[ck])||web;lb.classList.toggle("single",cw.imgs.length<2);$("#st").innerHTML=`<img src="${big}" alt="${cw.title}">`;if(big!==web){const im=$("#st img");im.onerror=()=>{im.onerror=null;im.src=web}};$("#cap").innerHTML=`<b>${cw.title}</b>${cw.tech}${cw.dim?" · "+cw.dim:""}`}
 function openLb(w,k){cw=w;showLb(k);lb.classList.add("on");document.body.style.overflow="hidden"}
 function closeLb(){lb.classList.remove("on");document.body.style.overflow=""}
 $(".x").onclick=closeLb;$(".pv").onclick=()=>showLb(ck-1);$(".nx").onclick=()=>showLb(ck+1);
