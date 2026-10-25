@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-<!-- segarelliOpere versione lista-80 -->
+<!-- segarelliOpere versione detail-fit-1 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Adriano Segarelli — L'essenza nuda dell'animo</title>
@@ -29,7 +29,7 @@ header .n{font:400 1.4rem var(--serif);letter-spacing:.02em;text-transform:none}
 section{padding:clamp(4rem,10vw,8rem) clamp(1.2rem,4vw,3rem)}
 .about{max-width:42rem;margin:auto;text-align:center}
 .about p{font:400 clamp(1.35rem,2.6vw,1.8rem)/1.5 var(--serif)}
-.stitle{font:400 clamp(2rem,4vw,3rem)/1.1 var(--serif);max-width:80rem;margin:0 auto 2rem;padding-top:clamp(1.5rem,3vw,2.5rem);border-top:1px solid var(--line)}.tags{max-width:80rem;margin:0 auto 2rem;display:flex;flex-wrap:wrap;gap:.5rem}.tags button{font:400 .8rem var(--sans);letter-spacing:.04em;text-transform:none!important;justify-self:auto;padding:.45rem .95rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;cursor:pointer}.tags button:hover{border-color:var(--clay)}.tags button.on{background:var(--clay);border-color:var(--clay);color:#fff}.tags .sep{flex-basis:100%;height:0}.search{max-width:80rem;margin:0 auto 2rem;display:flex;gap:.8rem}.search input{flex:1;min-width:0;font:inherit;padding:.8rem 1rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:2px}.search button{font:500 .8rem var(--sans,inherit);letter-spacing:.18em;text-transform:uppercase;padding:.8rem 1.6rem;border:0;background:var(--clay);color:#fff;cursor:pointer;border-radius:2px;white-space:nowrap}.nores{max-width:80rem;margin:0 auto 2rem;color:var(--mute)}@media(max-width:560px){.search{flex-direction:column}}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:2.2rem 1.4rem;align-items:start;max-width:80rem;margin:auto}@media(max-width:900px){.gallery{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.gallery{grid-template-columns:1fr}}.work .im{width:80%;aspect-ratio:1/1;background:var(--bg2);display:grid;place-items:center}.work .im img{width:100%;height:100%;object-fit:contain}
+.stitle{font:400 clamp(2rem,4vw,3rem)/1.1 var(--serif);max-width:80rem;margin:0 auto 2rem;padding-top:clamp(1.5rem,3vw,2.5rem);border-top:1px solid var(--line)}.tags{max-width:80rem;margin:0 auto 2rem;display:flex;flex-wrap:wrap;gap:.5rem}.tags button{font:400 .8rem var(--sans);letter-spacing:.04em;text-transform:none!important;justify-self:auto;padding:.45rem .95rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;cursor:pointer}.tags button:hover{border-color:var(--clay)}.tags button.on{background:var(--clay);border-color:var(--clay);color:#fff}.tags .sep{flex-basis:100%;height:0}.search{max-width:80rem;margin:0 auto 2rem;display:flex;gap:.8rem}.search input{flex:1;min-width:0;font:inherit;padding:.8rem 1rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:2px}.search button{font:500 .8rem var(--sans,inherit);letter-spacing:.18em;text-transform:uppercase;padding:.8rem 1.6rem;border:0;background:var(--clay);color:#fff;cursor:pointer;border-radius:2px;white-space:nowrap}.nores{max-width:80rem;margin:0 auto 2rem;color:var(--mute)}@media(max-width:560px){.search{flex-direction:column}}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:2.2rem 1.4rem;align-items:start;max-width:80rem;margin:auto}@media(max-width:900px){.gallery{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.gallery{grid-template-columns:1fr}}.work .im{width:70%;aspect-ratio:1/1;background:var(--bg2);display:grid;place-items:center}.work .im img{width:100%;height:100%;object-fit:contain}
 .work{cursor:zoom-in;opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s}
 .work.in{opacity:1;transform:none}
 .work .ph{background:var(--bg2);width:100%;display:block;color:var(--mute);display:grid;place-items:center;font:italic 1.1rem var(--serif)}
@@ -86,7 +86,7 @@ body.paper{background-color:#f0e7d3;background-image:url("data:image/svg+xml,%3C
 .info .m{margin:1rem 0 1.6rem;color:var(--clay);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;line-height:1.8}
 .info p{font:400 1.2rem/1.6 var(--serif)}
 .photos{display:grid;gap:1.2rem}
-.photos img{width:100%;display:block;cursor:zoom-in}
+.photos img{width:100%;display:block;cursor:zoom-in}@media(min-width:761px){.photos.one{position:sticky;top:5.5rem;align-self:start}.photos.one img{width:auto;max-width:100%;max-height:calc(100vh - 7.5rem);margin-inline:auto;object-fit:contain}}
 .photos .ph{aspect-ratio:4/5;background:var(--bg2);display:grid;place-items:center;font:italic 1.2rem var(--serif);color:var(--mute)}
 .pn{display:flex;justify-content:space-between;gap:1rem;margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--line)}
 .pn a{text-decoration:none;font:400 1.2rem var(--serif)}.pn a:hover{color:var(--clay)}
@@ -162,11 +162,11 @@ $("#heroimg").innerHTML=`<img src="${HERO}" alt="Adriano Segarelli al lavoro nel
 function renderDetail(id){const i=WORKS.findIndex(w=>w.id==id);if(i<0)return false;const w=WORKS[i],p=WORKS[(i+WORKS.length-1)%WORKS.length],n=WORKS[(i+1)%WORKS.length];
  $("#detail").innerHTML=`<a class="back" href="#opere">← Tutte le opere</a>
  <div class="dgrid"><div class="info"><h1>${w.title}</h1><div class="m">${w.tech}${w.dim?"<br>"+w.dim:""}</div><p>${w.desc}</p></div>
- <div class="photos">${w.imgs.length?w.imgs.map((s,k)=>`<img src="${s}" alt="${w.title} — foto ${k+1}" data-k="${k}">`).join(""):ph()}</div></div>
+ <div class="photos${w.imgs.length<2?" one":""}">${w.imgs.length?w.imgs.map((s,k)=>`<img src="${s}" alt="${w.title} — foto ${k+1}" data-k="${k}">`).join(""):ph()}</div></div>
  <div class="pn"><a href="#/opera/${p.id}">← ${p.title}</a><a href="#/opera/${n.id}">${n.title} →</a></div>`;
  document.querySelectorAll(".photos img").forEach(im=>im.onclick=()=>openLb(w,+im.dataset.k));return true}
 let lastId=null;
-function route(){const m=location.hash.match(/^#\/opera\/([^/?]+)/);const d=$("#detail"),h=$("#home");
+function route(){closeLb();document.body.style.overflow="";const m=location.hash.match(/^#\/opera\/([^/?]+)/);const d=$("#detail"),h=$("#home");
  if(m&&renderDetail(m[1])){lastId=m[1];h.style.display="none";d.style.display="block";document.body.classList.add("paper");window.scrollTo(0,0)}
  else{d.style.display="none";h.style.display="block";document.body.classList.remove("paper");
   const back=lastId&&(!location.hash||location.hash==="#/"||location.hash==="#opere");
@@ -180,7 +180,7 @@ function showLb(k){ck=(k+cw.imgs.length)%cw.imgs.length;const web=cw.imgs[ck],bi
 function openLb(w,k){cw=w;showLb(k);lb.classList.add("on");document.body.style.overflow="hidden"}
 function closeLb(){lb.classList.remove("on");document.body.style.overflow=""}
 $(".x").onclick=closeLb;$(".pv").onclick=()=>showLb(ck-1);$(".nx").onclick=()=>showLb(ck+1);
-lb.onclick=e=>{if(e.target===lb||e.target.id==="st")closeLb()};
+lb.onclick=e=>{if(!e.target.closest("button"))closeLb()};
 addEventListener("keydown",e=>{if(!lb.classList.contains("on"))return;if(e.key==="Escape")closeLb();if(e.key==="ArrowLeft")showLb(ck-1);if(e.key==="ArrowRight")showLb(ck+1)});
 // Animazione ingresso
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}}),{threshold:.1});
