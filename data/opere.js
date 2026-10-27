@@ -1,23 +1,23 @@
 const HERO="img/studio.webp";
 const WORKS=[
  {
-  "title": "Ego, Narciso e l'egotismo",
-  "tech": "Olio su tela 80x100cm, Anno 2026",
+  "title": "Ritratto spirituale",
+  "tech": "Olio si tela 100x100cm, Anno 2026",
   "dim": "",
   "year": "2026",
   "tags": [
-   "Mito",
+   "Metafisica della luce",
    "2026"
   ],
-  "desc": "Narciso nella versione di Ovidio è raccontato come un giovane bellissimo desiderato da ogni essere, mentre lui rifiuta chiunque gli si avvicini, compresa la ninfa Eco, punita da Giunone a ripetere solo le ultime parole altrui.<br>Narciso si accorge di una presenza che lo segue nel bosco chiedendo: \"chi è là\".<br>È Eco che lo sta seguendo ma può solo rispondere con le stesse parole di Narciso. Vanno avanti con questo scambio di frasi uguali finché Eco non cerca di avvicinarlo ma lui la allontana in malo modo. <br>Eco disperata dal suo rifiuto si consuma dal dolore finché non rimane solo una voce che ripete le ultime parole ascoltate.<br>Nemesi sentendo quei lamenti decide di punire Narciso facendolo specchiare nell'acqua. Nel momento in cui si vede si innamora di se stesso non riconoscendo la propria immagine riflessa.<br>Nella mia rappresentazione ho cercato una visione analitica del fenomeno narcisistico che oggi è alla base di molte violenze, sia psichiche che fisiche.<br>Ho immaginato Narciso nel momento in cui affacciandosi sullo specchio d'acqua ciò che vede è il riflesso di se stesso trasformato nella ninfa Eco, visibilmente affranta, rassegnata, quasi dismorfica, da un aspetto sgradevole che si allontana fortemente dal senso estetico di bellezza tipicamente attribuito alle ninfe.<br>Questa \"bruttezza\" non rappresenta l'aspetto fisico della ninfa ma bensì lo spregevole riflesso interiore di Narciso, a sottolineare le  inconsapevoli e ripetute azioni compiute per offendere chiunque altro attraverso il suo incontrollato egotismo.<br>L'eco che insistentemente si espande nell' aria è la conseguenza che l'atteggiamento narcisistico lascia nella mente di chi lo patisce senza reagire.",
+  "desc": "Un ritratto spirituale è una ricerca silenziosa del sé... della propria consapevolezza.<br>Non definisce un corpo ma ciò che accade nel suo interno quando ci si confronta con le proprie fragilità per prenderne coscienza. per trasformare ciò che ci limita in uno spazio sconfinato.<br>Un ritratto spirituale è una preghiera muta.<br>In quel grande spazio scuro c'è una coscienza che osserva e un'anima che sente.<br>Esiste una distanza tra loro: è tra ciò che si comprende razionalmente e ciò che si sente nel profondo.<br>Il vero compromesso nasce nel momento in cui decidono di avvicinarsi e di condividere quello spazio.",
   "imgs": [
-   "img/opere/Ego%2C%20Narciso%20e%20l%27egotismo_risultato.webp"
+   "img/opere/Ritratto%20spirituale_risultato.webp"
   ],
   "big": [
-   "img/operePng/Ego%2C%20Narciso%20e%20l%27egotismo.png"
+   "img/operePng/Ritratto%20spirituale.png"
   ],
   "cover": 0,
-  "id": "ego-narciso-e-l-egotismo"
+  "id": "ritratto-spirituale"
  },
  {
   "title": "La luce scandita nel tempo",
@@ -39,23 +39,23 @@ const WORKS=[
   "id": "la-luce-scandita-nel-tempo"
  },
  {
-  "title": "Memoria victa",
-  "tech": "Olio su tela 100x80cm, Anno 2026",
+  "title": "Ego, Narciso e l'egotismo",
+  "tech": "Olio su tela 80x100cm, Anno 2026",
   "dim": "",
   "year": "2026",
   "tags": [
-   "Metafisica delle ombre",
+   "Mito",
    "2026"
   ],
-  "desc": "La guerra non uccide soltanto gli uomini.<br>Annienta le loro radici più antiche e di conseguenza la loro memoria.",
+  "desc": "Narciso nella versione di Ovidio è raccontato come un giovane bellissimo desiderato da ogni essere, mentre lui rifiuta chiunque gli si avvicini, compresa la ninfa Eco, punita da Giunone a ripetere solo le ultime parole altrui.<br>Narciso si accorge di una presenza che lo segue nel bosco chiedendo: \"chi è là\".<br>È Eco che lo sta seguendo ma può solo rispondere con le stesse parole di Narciso. Vanno avanti con questo scambio di frasi uguali finché Eco non cerca di avvicinarlo ma lui la allontana in malo modo. <br>Eco disperata dal suo rifiuto si consuma dal dolore finché non rimane solo una voce che ripete le ultime parole ascoltate.<br>Nemesi sentendo quei lamenti decide di punire Narciso facendolo specchiare nell'acqua. Nel momento in cui si vede si innamora di se stesso non riconoscendo la propria immagine riflessa.<br>Nella mia rappresentazione ho cercato una visione analitica del fenomeno narcisistico che oggi è alla base di molte violenze, sia psichiche che fisiche.<br>Ho immaginato Narciso nel momento in cui affacciandosi sullo specchio d'acqua ciò che vede è il riflesso di se stesso trasformato nella ninfa Eco, visibilmente affranta, rassegnata, quasi dismorfica, da un aspetto sgradevole che si allontana fortemente dal senso estetico di bellezza tipicamente attribuito alle ninfe.<br>Questa \"bruttezza\" non rappresenta l'aspetto fisico della ninfa ma bensì lo spregevole riflesso interiore di Narciso, a sottolineare le  inconsapevoli e ripetute azioni compiute per offendere chiunque altro attraverso il suo incontrollato egotismo.<br>L'eco che insistentemente si espande nell' aria è la conseguenza che l'atteggiamento narcisistico lascia nella mente di chi lo patisce senza reagire.",
   "imgs": [
-   "img/opere/Memoria%20victa_risultato.webp"
+   "img/opere/Ego%2C%20Narciso%20e%20l%27egotismo_risultato.webp"
   ],
   "big": [
-   "img/operePng/Memoria%20victa.png"
+   "img/operePng/Ego%2C%20Narciso%20e%20l%27egotismo.png"
   ],
   "cover": 0,
-  "id": "memoria-victa"
+  "id": "ego-narciso-e-l-egotismo"
  },
  {
   "title": "Thetis",
@@ -78,101 +78,23 @@ const WORKS=[
   "id": "thetis"
  },
  {
-  "title": "Elisa e Sarah",
-  "tech": "Olio su tela 60×80cm, Anno 2025",
+  "title": "Memoria victa",
+  "tech": "Olio su tela 100x80cm, Anno 2026",
   "dim": "",
-  "year": "2025",
+  "year": "2026",
   "tags": [
-   "2025"
+   "Metafisica delle ombre",
+   "2026"
   ],
-  "desc": "Ritratto su commissione",
+  "desc": "La guerra non uccide soltanto gli uomini.<br>Annienta le loro radici più antiche e di conseguenza la loro memoria.",
   "imgs": [
-   "img/opere/Elisa%20e%20Sarah_risultato.webp"
+   "img/opere/Memoria%20victa_risultato.webp"
   ],
   "big": [
-   "img/operePng/Elisa%20e%20Sarah.png"
+   "img/operePng/Memoria%20victa.png"
   ],
   "cover": 0,
-  "id": "elisa-e-sarah"
- },
- {
-  "title": "Il miracolo dell'acqua",
-  "tech": "Olio su tela 80x100, Anno 2025",
-  "dim": "",
-  "year": "2025",
-  "tags": [
-   "Mito",
-   "Mythos",
-   "2025"
-  ],
-  "desc": "Il miracolo dell'acqua è un fenomeno che trova un collegamento tra la religione e la scienza. Tra la metafisica e la realtà empirica.<br>Nel pensiero religioso Gesù cammina sulle acque per raggiungere i suoi apostoli e invita Pietro a venirgli incontro. Pietro inizia a camminare sull'acqua, ma colto dalla paura rischia di affogare e Gesù lo salva rimproverandogli di non avere avuto fede. Questo è probabilmente l'unico fatto descritto nei vangeli che mette in discussione la fede in Dio: figura metafisica per eccellenza, nel momento in cui la ragione non può escludere o confermare la sua presenza, ma può esistere nell'idea e nel credo assoluto.<br>Il saggista giapponese Masaru Emoto fu molto criticato dal mondo scientifico per aver pubblicato un libro dove sostiene che l'acqua abbia una sua propria memoria. Egli fece degli sperimenti con dei cristalli d'acqua tenuti costantemente a una temperatura di -4° facendo notare che questi cristalli interagivano con il comportamento umano. Se qualcuno avesse pronunciato parole di gratitudine e di benevolenza, i cristalli si sarebbero posizionati in un modo simmetrico e composto. Viceversa se le parole fossero state dure o di rimprovero, avrebbero cominciato a muoversi in modo caotico.<br>Indipendentemente dal credo o dalla pseudoscienza ciò che è vero è che l'acqua è un miracolo della natura. Perché non ci sarebbe questo mondo senza di essa.. non ci sarebbe la vita.",
-  "imgs": [
-   "img/opere/Il%20miracolo%20dell%27acqua_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20miracolo%20dell%27acqua.png"
-  ],
-  "cover": 0,
-  "id": "il-miracolo-dell-acqua"
- },
- {
-  "title": "Il mito di Clizia",
-  "tech": "Olio su tela 100x100cm, Anno 2025",
-  "dim": "",
-  "year": "2025",
-  "tags": [
-   "Mito",
-   "Mythos",
-   "2025"
-  ],
-  "desc": "Il mito di Clizia racconta del profondo amore di questa ninfa nei riguardi di Apollo, il quale però non ricambiando il suo amore, si innamora della mortale Leuocotoe. Il dio del sole per avvicinarla si trasforma in sua madre. Clizia presa dalla rabbia e dalla Gelosia riferisce tutto al padre di Leuocotoe che punirà sua figlia con la morte.<br>Clizia sentendosi in colpa per l'accaduto e rifiutata dal suo amore resterà per sette giorni immobile per terra, seguendo sempre con lo sguardo il carro di Apollo che passa nel cielo, nutrendosi solo di rugiada.<br>Apollo impietosito la trasforma in un girasole e lei continuerà ad amarlo e a seguirlo con gli occhi anche dopo questa metamorfosi.<br>La parabola di Clizia legata a questo fiore che segue costantemente il sole va a rappresentare l'assoluta fedeltà nei confronti dell'amore. Anche quando non è corrisposto.",
-  "imgs": [
-   "img/opere/Il%20mito%20di%20Clizia_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20mito%20di%20Clizia.png"
-  ],
-  "cover": 0,
-  "id": "il-mito-di-clizia"
- },
- {
-  "title": "Il mito di Egeria",
-  "tech": "Olio su tela 100x70cm, 2025",
-  "dim": "",
-  "year": "2025",
-  "tags": [
-   "Mito",
-   "Mythos",
-   "2025"
-  ],
-  "desc": "Ispirandomi alla celebre opera mitologica delle Metamorfosi di Ovidio ho voluto interpretare con questo dipinto il mito di Egeria.<br>Noi tutti conosciamo questo nome e sappiamo che Egeria è un'acqua minerale che nasce nella città di Roma, ma pochi conoscono il suo mito e la sua leggenda. E ho voluto raccontarlo proprio attraverso quest'opera.<br>Egeria nella mitologia Romana era un'antica divinità latina delle acque sorgive che presero il nome di Camene.<br>Si narra che la ninfa fosse l'amante e consigliera segreta del re Numa Pompilio e che alla morte di quest'ultimo, colta da un dolore straziante, si sciolse dentro le sue stesse lacrime. Si formò così la sua fonte nei pressi di porta Capena.<br>alla Fonte in seguito le donne incinte offrivano dei sacrifici a Egeria per sperare nell'esito positivo del parto, considerata appunto una divinità da cui sorgeva l'acqua e quindi la vita.<br>Nella mia interpretazione ho aggiunto la barca e degli uomini in lontananza, considerando che nella mitologia l'acqua era già di per sé un elemento attribuito alla vita, alla purificazione e alla fertilità. Ho immaginato quindi l'uomo avvicinarsi al divino, navigando sulle lacrime di Egeria per purificare il suo animo e celebrare la vita.<br>Egeria essendo stata, come ho già detto, la consigliera di Numa Pompilio viene tutt'ora considerata come una figura dalle forti doti ispiratrici. Ancora oggi in Francia il termine \"egerie\" viene usato per indicare una musa ispiratrice soprattutto nel campo della moda.",
-  "imgs": [
-   "img/opere/Il%20mito%20di%20Egeria_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20mito%20di%20Egeria.png"
-  ],
-  "cover": 0,
-  "id": "il-mito-di-egeria"
- },
- {
-  "title": "L'allegoria del sapere",
-  "tech": "Olio su tela 100x70cm, Anno 2025",
-  "dim": "",
-  "year": "2025",
-  "tags": [
-   "Metafisica della luce",
-   "2025"
-  ],
-  "desc": "Il sapere è una sedia che credi di aver occupato.<br>Che diventa di volta in volta più grande.<br>Sulla quale alla fine non siederai mai.",
-  "imgs": [
-   "img/opere/L%27allegoria%20del%20sapere_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27allegoria%20del%20sapere.png"
-  ],
-  "cover": 0,
-  "id": "l-allegoria-del-sapere"
+  "id": "memoria-victa"
  },
  {
   "title": "L'angelo caduto",
@@ -215,42 +137,120 @@ const WORKS=[
   "id": "orfeo-e-euridice"
  },
  {
-  "title": "Aspettando Godot",
-  "tech": "Olio su tela 100×70cm, Anno 2024",
+  "title": "Il miracolo dell'acqua",
+  "tech": "Olio su tela 80x100, Anno 2025",
   "dim": "",
-  "year": "2024",
+  "year": "2025",
   "tags": [
-   "Metafisica della luce",
-   "2024"
+   "Mito",
+   "Mythos",
+   "2025"
   ],
-  "desc": "L'opera teatrale \"Aspettando Godot\" di Samuel Beckett credo che sia fra tutte quella che incarna in maniera assoluta un concetto metafisico della vita.<br>I due protagonisti, in entrambi gli atti, non fanno praticamente nulla. I loro dialoghi sembrano apparentemente non avere senso compiuto. Tutto si basa sull'attesa di questo misterioso personaggio chiamato Godot, che alla fine non arriverà mai.<br>Loro non lo conoscono. E al pubblico non è dato sapere il perché lo stanno aspettando. Ma nonostante questo loro rimangono fermi lì, giorno e notte, con l'unica certezza che l'arrivo di Godot per loro sarà una salvezza.<br>Come per la metafisica, quindi, non esiste l'esperienza della conoscenza di questa emblematica figura. Ma c'è ugualmente la totale percezione reale della sua importanza.<br>Inserita in quello che è stato definito \"teatro dell'assurdo\", quest'opera è stata protagonista di diverse interpretazioni, mai davvero smentite o confermate dall'autore stesso.<br>L'interpretazione religiosa fa si che Godot sia Dio e che l'albero spoglio, unico elemento dominante della scenografia, possa rappresentare la croce o l'albero della vita.<br>In una visione esistenzialista Godot è il domani. È l'obiettivo da raggiungere. <br>È l'opportunità o il cambiamento. Ma nello stesso tempo i due protagonisti della storia rappresentano l'indolenza dell'essere umano. Essi rimangono fermi ad aspettare. Hanno bisogno di quell'opportunità, di quel cambiamento. Ma non fanno nulla per far si che questo accada. <br>Sono immobili, intrappolati nella loro pigrizia mentale, nella loro visione pessimistica della vita e rimandano sempre tutto a domani.<br>Io credo che la verità sia nel mezzo di tutte queste interpretazioni.<br>È la vita stessa a rappresentarsi nel teatro dell'assurdo. Ma in quel caos apparente tutto ha un ordine ciclico e naturale. tutti si muovono in attesa del futuro. Verso un qualcosa che non si conosce.<br>Godot è il futuro. Ci guarda al di fuori di quel palcoscenico. È lui ad attendere noi. È per questo che nella scena presente non arriva mai, perché lo raggiugeremo noi.<br>Forse domani.",
+  "desc": "Il miracolo dell'acqua è un fenomeno che trova un collegamento tra la religione e la scienza. Tra la metafisica e la realtà empirica.<br>Nel pensiero religioso Gesù cammina sulle acque per raggiungere i suoi apostoli e invita Pietro a venirgli incontro. Pietro inizia a camminare sull'acqua, ma colto dalla paura rischia di affogare e Gesù lo salva rimproverandogli di non avere avuto fede. Questo è probabilmente l'unico fatto descritto nei vangeli che mette in discussione la fede in Dio: figura metafisica per eccellenza, nel momento in cui la ragione non può escludere o confermare la sua presenza, ma può esistere nell'idea e nel credo assoluto.<br>Il saggista giapponese Masaru Emoto fu molto criticato dal mondo scientifico per aver pubblicato un libro dove sostiene che l'acqua abbia una sua propria memoria. Egli fece degli sperimenti con dei cristalli d'acqua tenuti costantemente a una temperatura di -4° facendo notare che questi cristalli interagivano con il comportamento umano. Se qualcuno avesse pronunciato parole di gratitudine e di benevolenza, i cristalli si sarebbero posizionati in un modo simmetrico e composto. Viceversa se le parole fossero state dure o di rimprovero, avrebbero cominciato a muoversi in modo caotico.<br>Indipendentemente dal credo o dalla pseudoscienza ciò che è vero è che l'acqua è un miracolo della natura. Perché non ci sarebbe questo mondo senza di essa.. non ci sarebbe la vita.",
   "imgs": [
-   "img/opere/Aspettando%20Godot_risultato.webp"
+   "img/opere/Il%20miracolo%20dell%27acqua_risultato.webp"
   ],
   "big": [
-   "img/operePng/Aspettando%20Godot.png"
+   "img/operePng/Il%20miracolo%20dell%27acqua.png"
   ],
   "cover": 0,
-  "id": "aspettando-godot"
+  "id": "il-miracolo-dell-acqua"
  },
  {
-  "title": "Aspettando Godot…l'atto mai scritto",
-  "tech": "Olio su tela 100×70cm, Anno 2024",
+  "title": "Il mito di Egeria",
+  "tech": "Olio su tela 100x70cm, 2025",
+  "dim": "",
+  "year": "2025",
+  "tags": [
+   "Mito",
+   "Mythos",
+   "2025"
+  ],
+  "desc": "Ispirandomi alla celebre opera mitologica delle Metamorfosi di Ovidio ho voluto interpretare con questo dipinto il mito di Egeria.<br>Noi tutti conosciamo questo nome e sappiamo che Egeria è un'acqua minerale che nasce nella città di Roma, ma pochi conoscono il suo mito e la sua leggenda. E ho voluto raccontarlo proprio attraverso quest'opera.<br>Egeria nella mitologia Romana era un'antica divinità latina delle acque sorgive che presero il nome di Camene.<br>Si narra che la ninfa fosse l'amante e consigliera segreta del re Numa Pompilio e che alla morte di quest'ultimo, colta da un dolore straziante, si sciolse dentro le sue stesse lacrime. Si formò così la sua fonte nei pressi di porta Capena.<br>alla Fonte in seguito le donne incinte offrivano dei sacrifici a Egeria per sperare nell'esito positivo del parto, considerata appunto una divinità da cui sorgeva l'acqua e quindi la vita.<br>Nella mia interpretazione ho aggiunto la barca e degli uomini in lontananza, considerando che nella mitologia l'acqua era già di per sé un elemento attribuito alla vita, alla purificazione e alla fertilità. Ho immaginato quindi l'uomo avvicinarsi al divino, navigando sulle lacrime di Egeria per purificare il suo animo e celebrare la vita.<br>Egeria essendo stata, come ho già detto, la consigliera di Numa Pompilio viene tutt'ora considerata come una figura dalle forti doti ispiratrici. Ancora oggi in Francia il termine \"egerie\" viene usato per indicare una musa ispiratrice soprattutto nel campo della moda.",
+  "imgs": [
+   "img/opere/Il%20mito%20di%20Egeria_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20mito%20di%20Egeria.png"
+  ],
+  "cover": 0,
+  "id": "il-mito-di-egeria"
+ },
+ {
+  "title": "L'allegoria del sapere",
+  "tech": "Olio su tela 100x70cm, Anno 2025",
+  "dim": "",
+  "year": "2025",
+  "tags": [
+   "Metafisica della luce",
+   "2025"
+  ],
+  "desc": "Il sapere è una sedia che credi di aver occupato.<br>Che diventa di volta in volta più grande.<br>Sulla quale alla fine non siederai mai.",
+  "imgs": [
+   "img/opere/L%27allegoria%20del%20sapere_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27allegoria%20del%20sapere.png"
+  ],
+  "cover": 0,
+  "id": "l-allegoria-del-sapere"
+ },
+ {
+  "title": "Il mito di Clizia",
+  "tech": "Olio su tela 100x100cm, Anno 2025",
+  "dim": "",
+  "year": "2025",
+  "tags": [
+   "Mito",
+   "Mythos",
+   "2025"
+  ],
+  "desc": "Il mito di Clizia racconta del profondo amore di questa ninfa nei riguardi di Apollo, il quale però non ricambiando il suo amore, si innamora della mortale Leuocotoe. Il dio del sole per avvicinarla si trasforma in sua madre. Clizia presa dalla rabbia e dalla Gelosia riferisce tutto al padre di Leuocotoe che punirà sua figlia con la morte.<br>Clizia sentendosi in colpa per l'accaduto e rifiutata dal suo amore resterà per sette giorni immobile per terra, seguendo sempre con lo sguardo il carro di Apollo che passa nel cielo, nutrendosi solo di rugiada.<br>Apollo impietosito la trasforma in un girasole e lei continuerà ad amarlo e a seguirlo con gli occhi anche dopo questa metamorfosi.<br>La parabola di Clizia legata a questo fiore che segue costantemente il sole va a rappresentare l'assoluta fedeltà nei confronti dell'amore. Anche quando non è corrisposto.",
+  "imgs": [
+   "img/opere/Il%20mito%20di%20Clizia_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20mito%20di%20Clizia.png"
+  ],
+  "cover": 0,
+  "id": "il-mito-di-clizia"
+ },
+ {
+  "title": "Elisa e Sarah",
+  "tech": "Olio su tela 60×80cm, Anno 2025",
+  "dim": "",
+  "year": "2025",
+  "tags": [
+   "2025"
+  ],
+  "desc": "Ritratto su commissione",
+  "imgs": [
+   "img/opere/Elisa%20e%20Sarah_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Elisa%20e%20Sarah.png"
+  ],
+  "cover": 0,
+  "id": "elisa-e-sarah"
+ },
+ {
+  "title": "L'intervento divino",
+  "tech": "Olio su tela 100×80, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "Se dovessi scrivere il terzo atto di \"Aspettando Godot\" immaginerei Estragone e Vladimiro perdere la loro pazienza nell'aspettare questa misteriosa figura che alla fine di ogni giorno non giunge mai da loro.<br>Li immaginerei nel momento in cui arriva come di consueto il ragazzo ad annunciare loro che il signor Godot non arriverà nemmeno oggi.<br>Li immaginerei intenti a seguire il ragazzo, costringendolo a svelargli dove si trova realmente quest'uomo che aspettano ogni giorno invano.<br>Li immaginerei arrivare davanti a quella porta e provare improvvisamente un certo timore.<br>Loro non sanno chi è Godot e non sanno chi o che cosa aspettarsi dietro quella porta. Ma sanno che è arrivato il momento di lasciarsi quel buio alle spalle e di andare incontro alla luce...",
+  "desc": "Un mondo schiacciato dall'indifferenza, da ogni forma di violenza, dall'oscurantismo, dai limiti ben definiti della ragione, dall'assenza totale.<br>Uomini e donne in preda al caos, spaesati, non più consapevoli di loro stessi, dei loro obiettivi, del motivo primordiale per cui sono nati in questo mondo.<br>È la mano divina ad afferrarli, a riportarli sulla via della luce, ad indicare loro la direzione giusta.<br>Solo l'amore li salverà.",
   "imgs": [
-   "img/opere/Aspettando%20Godot%20l%27atto%20mai%20scritto_risultato.webp"
+   "img/opere/L%27intervento%20divino_risultato.webp"
   ],
   "big": [
-   "img/operePng/Aspettando%20Godot%20l%27atto%20mai%20scritto.png"
+   "img/operePng/L%27intervento%20divino.png"
   ],
   "cover": 0,
-  "id": "aspettando-godot-l-atto-mai-scritto"
+  "id": "l-intervento-divino"
  },
  {
   "title": "Entanglement",
@@ -272,80 +272,23 @@ const WORKS=[
   "id": "entanglement"
  },
  {
-  "title": "I cercatori di luce",
-  "tech": "Olio su tela 100 × 80, Anno 2024",
+  "title": "L'istinto della conoscenza",
+  "tech": "Olio su tela 100x70cm, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "La luce è un punto di riferimento.<br>Ci identifica e ci rende visibili al mondo.<br>È la traccia che squarcia il buio e ci indica la strada.<br>La luce col suo atteggiamento invasivo ma nel contempo rassicurante.<br>Ci investe filtrando nella nostra pelle e ci protegge dall'oscurità.<br>La luce attrae o respinge.<br>Ma non passa mai inosservata.<br>Opera ispirata da una fotografia di @‌ilaria.39 scattata presso il @‌teatro_finestra per il progetto fotografico Lights",
+  "desc": "La necessità del sapere nasce tra i principi più ancestrali dell'uomo: la curiosità.<br>La curiosità nasce insieme a noi.<br>È ciò che ci spinge a toccare con mano ciò che non conosciamo, affinché la nostra coscienza si formi e ci insegni ad osservare attraverso l'esperienza dell'istinto…<br>a imitare la natura…<br>a prenderne parte…<br>a diventare grandi.",
   "imgs": [
-   "img/opere/I%20cercatori%20di%20luce_risultato.webp"
+   "img/opere/L%27istinto%20della%20conoscenza_risultato.webp"
   ],
   "big": [
-   "img/operePng/I%20cercatori%20di%20luce.png"
+   "img/operePng/L%27istinto%20della%20conoscenza.png"
   ],
   "cover": 0,
-  "id": "i-cercatori-di-luce"
- },
- {
-  "title": "Il falso mito della grandezza",
-  "tech": "Olio su tela 100×80cm, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "Nietzsche diceva che tutte le grandi cose devono indossare maschere mostruose per potersi imprimere nel cuore dell'umanità. E nel concetto filosofico del \"superuomo\" descrive quest'ultimo come un essere superiore a tutto. L'uomo che supera i suoi limiti dettati dalla morale, giudicata come \"l'istinto del gregge nel singolo\". <br>Che oltrepassa continuamente se stesso e si afferma come fonte d'ispirazione. L'unico che sa vivere la sua vita libero dagli schemi e dalle rigide imposizioni sociali. Nietzsche cerca di liberare l'uomo dal concetto metafisico, che secondo lui è l'immagine di Dio. Considerandolo appunto un'entità che non ha nessun riscontro oggettivo. Che non può essere reale. E si concentra su ciò che è tangibile attraverso l'esperienza umana. <br>Io credo che l'uomo già dall'origine abbia sempre orbitato senza consapevolezza tra i sottili significati di queste idee filosofiche. L'essere umano ha sempre provato timore e attrazione per le azioni terrificanti e eclatanti dei suoi simili, inchinandosi al potere. <br>Ed è per questo che la maschera mostruosa di Nietzsche si imprime nel cuore dell'umanità, facendola diventare quel gregge devoto e spaventato che si lascia schiacciare dal male.<br>E nello stesso tempo l'uomo nel celebrare la grandezza e nell'imprimere la propria, ha avuto il bisogno di costruire cose sempre più grandi, per dimostrare al mondo che il potere e la magnificenza si misurano con dimensioni imponenti. L'ossessiva brama di sollevarsi al di sopra di tutti. L'uomo crea così il suo \"superuomo\" attraverso un artificio scenico, eludendo così la sua vulnerabilità. <br>Credo che non dovremmo né emulare maschere mostruose, né vestire i panni del \"superuomo\". Ma dovremmo essere consapevoli dei nostri limiti e delle nostre fragilità, cercando di misurarsi con noi stessi e con gli altri per migliorarsi sempre. Dovremmo essere consapevoli di far parte della natura in un ciclo che volge al termine e che si trasformerà in un qualcosa di indefinibile. <br>È necessario accettare ciò che la vita significa davvero e lottare per l'amore e gli obiettivi. Con l'umiltà di essere e con la forza di reagire.",
-  "imgs": [
-   "img/opere/Il%20falso%20mito%20della%20grandezza_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20falso%20mito%20della%20grandezza.png"
-  ],
-  "cover": 0,
-  "id": "il-falso-mito-della-grandezza"
- },
- {
-  "title": "Il progetto della vita",
-  "tech": "Olio su tela 70×100cm, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "La vita è un tavolino vuoto che va riempito ogni giorno.<br>È una strada lunga e illuminata che attraversa il buio.<br>È camminare insieme.<br>È armonia nei passi.<br>È trovare L'equilibrio tra la luce e l'ombra... e prenderne coscienza.<br>La vita è un attimo di eternità tra il prima e il dopo.<br>È trovarsi dopo non essersi mai cercati.<br>È guardarsi negli occhi e decidere cosa poggiare su quel tavolo oggi.<br>E poi domani.<br>E ancora.",
-  "imgs": [
-   "img/opere/Il%20progetto%20della%20vita_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20progetto%20della%20vita.png"
-  ],
-  "cover": 0,
-  "id": "il-progetto-della-vita"
- },
- {
-  "title": "Il silenzio",
-  "tech": "Olio su tela 100×70cm, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "Il silenzio è un luogo distante e disabitato, non ha confini né punti di riferimento.<br>Il silenzio ha la consistenza fluida dei sogni, rallenta il tempo e ogni suo movimento.<br>Il silenzio ci assorbe in un unico punto immaginario dove ognuno può essere colto da un qualsiasi libero pensiero. \"Che stai guardando laggiù ?\"<br>\"Quello che immagino...\"<br>\"E cosa senti?\"<br>\"Il silenzio...\"<br>\"Ma.. il silenzio si può ascoltare?\"<br>\"Altroché... è il suono più acuto e profondo che io abbia mai sentito...\"<br>\"E perché ti sei fermata così all'improvviso?\"<br>\"Perché sono rimasta incantata da tutto ciò che vedo e sento...\"",
-  "imgs": [
-   "img/opere/Il%20silenzio_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20silenzio.png"
-  ],
-  "cover": 0,
-  "id": "il-silenzio"
+  "id": "l-istinto-della-conoscenza"
  },
  {
   "title": "La carezza della luce",
@@ -367,23 +310,80 @@ const WORKS=[
   "id": "la-carezza-della-luce"
  },
  {
-  "title": "La fine del gioco",
-  "tech": "Olio su tela 80×100cm, Anno 2024",
+  "title": "L'entropia della memoria",
+  "tech": "Olio su tela 100×70cm, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "Esiste un momento ben preciso nella vita di ogni essere umano.<br>È Il momento in cui si smette di giocare. Il momento esatto in cui si diventa adulti.<br>In quell'istante la mano che lancia il sasso nell'acqua si ritrae verso il corpo e si cominciano ad osservare i fenomeni della natura, a chiedersi il perché delle cose e a non limitarsi più alla visione ludica del gesto.<br>È il momento in cui la figura materna si allontana virtualmente verso da un'altra parte. Perché da quel momento in poi si avrà coscienza della propria autonomia e della propria direzione.",
+  "desc": "In meccanica quantistica l'entropia è un grandezza fisica determinante nella seconda legge della termodinamica secondo la quale il grado di disordine delle cose è inevitabilmente in correlazione con l' universo e la sua continua espansione.<br>Un esempio pratico di entropia è una goccia d'inchiostro che cade in un bicchiere d'acqua, se prima l'acqua manteneva le sue molecole in ordine, con la caduta dell'inchiostro al suo interno si crea automaticamente un disordine delle molecole in maniera irreversibile. L'acqua non tornerà più ad essere limpida. La stessa cosa avviene nella freccia del tempo che noi percepiamo come un qualcosa che attraversa il passato, il presente e il futuro e non può essere modificato. Ma quando si tratta di ricordi, il cervello passa da uno stato disordinato a uno stato ordinato per poter mettere insieme tutte le informazioni della memoria.<br>Così come nella continua espansione dell'universo, la memoria in maniera irreversibile cambia di volta in volta l'essere umano attraverso l'esperienza e i ricordi che ne conseguono.",
   "imgs": [
-   "img/opere/La%20fine%20del%20gioco_risultato.webp"
+   "img/opere/L%27entropia%20della%20memoria_risultato.webp"
   ],
   "big": [
-   "img/operePng/La%20fine%20del%20gioco.png"
+   "img/operePng/L%27entropia%20della%20memoria.png"
   ],
   "cover": 0,
-  "id": "la-fine-del-gioco"
+  "id": "l-entropia-della-memoria"
+ },
+ {
+  "title": "La vulnerabilità… tra il bene e il male",
+  "tech": "Olio su tela 100×80cm, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "Sin dai tempi antichi il bene e il male sono stati al centro di concetti filosofici e di varie interpretazioni. In una visione metafisico-oggettivistica Platone paragona il bene al sole in quanto fonte generatrice delle cose e dell'essere e pone automaticamente il male nel \"non essere\". Sant'Agostino indica il male come un qualcosa che esiste solo a causa del libero arbitrio e quindi nella scelta da parte dell'uomo di creare il male. Proprio come la luce e il buio, il bene e il male sono due forze contrastanti che dipendono l'una dall'altra, lottando costantemente in un equilibrio perennemente instabile. Il male nella sua figura scura e carismatica tenta e seduce continuamente l' essere umano, portandolo a compiere azioni che annientano la ragione e la morale.<br>Il bene a fatica sembra essere imprigionato nei suoi movimenti, tentando comunque e senza sosta di contrastarlo e di respingere ciò che ogni giorno il male sa abilmente compiere una sottile linea quasi invisibile che esiste in ogni istante che si crea la scelta di assecondare le tentazioni del male e la capacità di riconoscerlo e isolarlo.<br>Il male è l'ignoranza, è la non conoscenza e la non consapevolezza.<br>Chi sa e conosce se stesso e i propri limiti non può concedersi a esso.",
+  "imgs": [
+   "img/opere/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male.png"
+  ],
+  "cover": 0,
+  "id": "la-vulnerabilita-tra-il-bene-e-il-male"
+ },
+ {
+  "title": "Il falso mito della grandezza",
+  "tech": "Olio su tela 100×80cm, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "Nietzsche diceva che tutte le grandi cose devono indossare maschere mostruose per potersi imprimere nel cuore dell'umanità. E nel concetto filosofico del \"superuomo\" descrive quest'ultimo come un essere superiore a tutto. L'uomo che supera i suoi limiti dettati dalla morale, giudicata come \"l'istinto del gregge nel singolo\". <br>Che oltrepassa continuamente se stesso e si afferma come fonte d'ispirazione. L'unico che sa vivere la sua vita libero dagli schemi e dalle rigide imposizioni sociali. Nietzsche cerca di liberare l'uomo dal concetto metafisico, che secondo lui è l'immagine di Dio. Considerandolo appunto un'entità che non ha nessun riscontro oggettivo. Che non può essere reale. E si concentra su ciò che è tangibile attraverso l'esperienza umana. <br>Io credo che l'uomo già dall'origine abbia sempre orbitato senza consapevolezza tra i sottili significati di queste idee filosofiche. L'essere umano ha sempre provato timore e attrazione per le azioni terrificanti e eclatanti dei suoi simili, inchinandosi al potere. <br>Ed è per questo che la maschera mostruosa di Nietzsche si imprime nel cuore dell'umanità, facendola diventare quel gregge devoto e spaventato che si lascia schiacciare dal male.<br>E nello stesso tempo l'uomo nel celebrare la grandezza e nell'imprimere la propria, ha avuto il bisogno di costruire cose sempre più grandi, per dimostrare al mondo che il potere e la magnificenza si misurano con dimensioni imponenti. L'ossessiva brama di sollevarsi al di sopra di tutti. L'uomo crea così il suo \"superuomo\" attraverso un artificio scenico, eludendo così la sua vulnerabilità. <br>Credo che non dovremmo né emulare maschere mostruose, né vestire i panni del \"superuomo\". Ma dovremmo essere consapevoli dei nostri limiti e delle nostre fragilità, cercando di misurarsi con noi stessi e con gli altri per migliorarsi sempre. Dovremmo essere consapevoli di far parte della natura in un ciclo che volge al termine e che si trasformerà in un qualcosa di indefinibile. <br>È necessario accettare ciò che la vita significa davvero e lottare per l'amore e gli obiettivi. Con l'umiltà di essere e con la forza di reagire.",
+  "imgs": [
+   "img/opere/Il%20falso%20mito%20della%20grandezza_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20falso%20mito%20della%20grandezza.png"
+  ],
+  "cover": 0,
+  "id": "il-falso-mito-della-grandezza"
+ },
+ {
+  "title": "L'ago della bilancia",
+  "tech": "Olio su tela 100×70cm, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "L'ago della bilancia è il riferimento assoluto di ogni equilibrio dove tutto stabilmente si poggia.<br>Come nel ritmo circadiano il buio si alterna alla luce, generando un ritmo necessario all'esistenza.<br>Un compromesso tra due forze di contrasto che necessitano l'una dell'altra per mantenere un ciclo costante sia vitale che emotivo.<br>L'ago della bilancia fra gli esseri umani sta nella capacità di mantenere stabile il peso della propria interiorità nei confronti dell'altra persona.<br>Risiede nella mediazione che c'è tra le proprie esigenze e la comprensione delle necessità altrui.<br>L'ago della bilancia esiste nell'amore oggettivo e viscerale.<br>Nell'intuizione di far entrare la luce un attimo prima che l'altra persona possa perdersi momentaneamente nel buio.",
+  "imgs": [
+   "img/opere/L%27ago%20della%20bilancia_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27ago%20della%20bilancia.png"
+  ],
+  "cover": 0,
+  "id": "l-ago-della-bilancia"
  },
  {
   "title": "La Venere della penombra",
@@ -406,7 +406,26 @@ const WORKS=[
   "id": "la-venere-della-penombra"
  },
  {
-  "title": "La vita",
+  "title": "Il progetto della vita",
+  "tech": "Olio su tela 70×100cm, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "La vita è un tavolino vuoto che va riempito ogni giorno.<br>È una strada lunga e illuminata che attraversa il buio.<br>È camminare insieme.<br>È armonia nei passi.<br>È trovare L'equilibrio tra la luce e l'ombra... e prenderne coscienza.<br>La vita è un attimo di eternità tra il prima e il dopo.<br>È trovarsi dopo non essersi mai cercati.<br>È guardarsi negli occhi e decidere cosa poggiare su quel tavolo oggi.<br>E poi domani.<br>E ancora.",
+  "imgs": [
+   "img/opere/Il%20progetto%20della%20vita_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20progetto%20della%20vita.png"
+  ],
+  "cover": 0,
+  "id": "il-progetto-della-vita"
+ },
+ {
+  "title": "La fine del gioco",
   "tech": "Olio su tela 80×100cm, Anno 2024",
   "dim": "",
   "year": "2024",
@@ -414,37 +433,18 @@ const WORKS=[
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "La vita è una finestra che illumina la notte.<br>È quel riflesso lucente che acceca il buio.<br>È quel vetro sottile che proteggerà dalla pioggia.<br>La vita è una donna che sta crescendo.<br>È una bambina che ha smesso di giocare.<br>Che sale curiosa su quei gradini... per cercare fuori dalla finestra.",
+  "desc": "Esiste un momento ben preciso nella vita di ogni essere umano.<br>È Il momento in cui si smette di giocare. Il momento esatto in cui si diventa adulti.<br>In quell'istante la mano che lancia il sasso nell'acqua si ritrae verso il corpo e si cominciano ad osservare i fenomeni della natura, a chiedersi il perché delle cose e a non limitarsi più alla visione ludica del gesto.<br>È il momento in cui la figura materna si allontana virtualmente verso da un'altra parte. Perché da quel momento in poi si avrà coscienza della propria autonomia e della propria direzione.",
   "imgs": [
-   "img/opere/La%20vita_risultato.webp"
+   "img/opere/La%20fine%20del%20gioco_risultato.webp"
   ],
   "big": [
-   "img/operePng/La%20vita.png"
+   "img/operePng/La%20fine%20del%20gioco.png"
   ],
   "cover": 0,
-  "id": "la-vita"
+  "id": "la-fine-del-gioco"
  },
  {
-  "title": "La vulnerabilità… tra il bene e il male",
-  "tech": "Olio su tela 100×80cm, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "Sin dai tempi antichi il bene e il male sono stati al centro di concetti filosofici e di varie interpretazioni. In una visione metafisico-oggettivistica Platone paragona il bene al sole in quanto fonte generatrice delle cose e dell'essere e pone automaticamente il male nel \"non essere\". Sant'Agostino indica il male come un qualcosa che esiste solo a causa del libero arbitrio e quindi nella scelta da parte dell'uomo di creare il male. Proprio come la luce e il buio, il bene e il male sono due forze contrastanti che dipendono l'una dall'altra, lottando costantemente in un equilibrio perennemente instabile. Il male nella sua figura scura e carismatica tenta e seduce continuamente l' essere umano, portandolo a compiere azioni che annientano la ragione e la morale.<br>Il bene a fatica sembra essere imprigionato nei suoi movimenti, tentando comunque e senza sosta di contrastarlo e di respingere ciò che ogni giorno il male sa abilmente compiere una sottile linea quasi invisibile che esiste in ogni istante che si crea la scelta di assecondare le tentazioni del male e la capacità di riconoscerlo e isolarlo.<br>Il male è l'ignoranza, è la non conoscenza e la non consapevolezza.<br>Chi sa e conosce se stesso e i propri limiti non può concedersi a esso.",
-  "imgs": [
-   "img/opere/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20vulnerabilita%20tra%20il%20bene%20e%20il%20male.png"
-  ],
-  "cover": 0,
-  "id": "la-vulnerabilita-tra-il-bene-e-il-male"
- },
- {
-  "title": "L'ago della bilancia",
+  "title": "Il silenzio",
   "tech": "Olio su tela 100×70cm, Anno 2024",
   "dim": "",
   "year": "2024",
@@ -452,15 +452,15 @@ const WORKS=[
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "L'ago della bilancia è il riferimento assoluto di ogni equilibrio dove tutto stabilmente si poggia.<br>Come nel ritmo circadiano il buio si alterna alla luce, generando un ritmo necessario all'esistenza.<br>Un compromesso tra due forze di contrasto che necessitano l'una dell'altra per mantenere un ciclo costante sia vitale che emotivo.<br>L'ago della bilancia fra gli esseri umani sta nella capacità di mantenere stabile il peso della propria interiorità nei confronti dell'altra persona.<br>Risiede nella mediazione che c'è tra le proprie esigenze e la comprensione delle necessità altrui.<br>L'ago della bilancia esiste nell'amore oggettivo e viscerale.<br>Nell'intuizione di far entrare la luce un attimo prima che l'altra persona possa perdersi momentaneamente nel buio.",
+  "desc": "Il silenzio è un luogo distante e disabitato, non ha confini né punti di riferimento.<br>Il silenzio ha la consistenza fluida dei sogni, rallenta il tempo e ogni suo movimento.<br>Il silenzio ci assorbe in un unico punto immaginario dove ognuno può essere colto da un qualsiasi libero pensiero. \"Che stai guardando laggiù ?\"<br>\"Quello che immagino...\"<br>\"E cosa senti?\"<br>\"Il silenzio...\"<br>\"Ma.. il silenzio si può ascoltare?\"<br>\"Altroché... è il suono più acuto e profondo che io abbia mai sentito...\"<br>\"E perché ti sei fermata così all'improvviso?\"<br>\"Perché sono rimasta incantata da tutto ciò che vedo e sento...\"",
   "imgs": [
-   "img/opere/L%27ago%20della%20bilancia_risultato.webp"
+   "img/opere/Il%20silenzio_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27ago%20della%20bilancia.png"
+   "img/operePng/Il%20silenzio.png"
   ],
   "cover": 0,
-  "id": "l-ago-della-bilancia"
+  "id": "il-silenzio"
  },
  {
   "title": "L'atteggiamento della luce",
@@ -482,42 +482,61 @@ const WORKS=[
   "id": "l-atteggiamento-della-luce"
  },
  {
-  "title": "L'entropia della memoria",
-  "tech": "Olio su tela 100×70cm, Anno 2024",
+  "title": "I cercatori di luce",
+  "tech": "Olio su tela 100 × 80, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "In meccanica quantistica l'entropia è un grandezza fisica determinante nella seconda legge della termodinamica secondo la quale il grado di disordine delle cose è inevitabilmente in correlazione con l' universo e la sua continua espansione.<br>Un esempio pratico di entropia è una goccia d'inchiostro che cade in un bicchiere d'acqua, se prima l'acqua manteneva le sue molecole in ordine, con la caduta dell'inchiostro al suo interno si crea automaticamente un disordine delle molecole in maniera irreversibile. L'acqua non tornerà più ad essere limpida. La stessa cosa avviene nella freccia del tempo che noi percepiamo come un qualcosa che attraversa il passato, il presente e il futuro e non può essere modificato. Ma quando si tratta di ricordi, il cervello passa da uno stato disordinato a uno stato ordinato per poter mettere insieme tutte le informazioni della memoria.<br>Così come nella continua espansione dell'universo, la memoria in maniera irreversibile cambia di volta in volta l'essere umano attraverso l'esperienza e i ricordi che ne conseguono.",
+  "desc": "La luce è un punto di riferimento.<br>Ci identifica e ci rende visibili al mondo.<br>È la traccia che squarcia il buio e ci indica la strada.<br>La luce col suo atteggiamento invasivo ma nel contempo rassicurante.<br>Ci investe filtrando nella nostra pelle e ci protegge dall'oscurità.<br>La luce attrae o respinge.<br>Ma non passa mai inosservata.<br>Opera ispirata da una fotografia di @‌ilaria.39 scattata presso il @‌teatro_finestra per il progetto fotografico Lights",
   "imgs": [
-   "img/opere/L%27entropia%20della%20memoria_risultato.webp"
+   "img/opere/I%20cercatori%20di%20luce_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27entropia%20della%20memoria.png"
+   "img/operePng/I%20cercatori%20di%20luce.png"
   ],
   "cover": 0,
-  "id": "l-entropia-della-memoria"
+  "id": "i-cercatori-di-luce"
  },
  {
-  "title": "L'imperativo categorico",
-  "tech": "Olio su tela 80×100, Anno 2024",
+  "title": "La vita",
+  "tech": "Olio su tela 80×100cm, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "Se ogni singolo uomo agisse secondo la stessa morale, il raggiungimento di un obiettivo comune diventerebbe una legge universale. Le persone non si userebbero più come uno strumento per ottenere uno scopo, ma diventerebbero loro stessi un riferimento l'uno per l'altro. Un punto di crescita. Un'opportunità. Uno scambio leale.<br><br>\"Agisci in modo da trattare l'umanità, tanto nella tua persona quanto nella persona di ogni altro, sempre nello stesso tempo come un fine, e mai unicamente come un mezzo.\"<br><br>Immanuel kant",
+  "desc": "La vita è una finestra che illumina la notte.<br>È quel riflesso lucente che acceca il buio.<br>È quel vetro sottile che proteggerà dalla pioggia.<br>La vita è una donna che sta crescendo.<br>È una bambina che ha smesso di giocare.<br>Che sale curiosa su quei gradini... per cercare fuori dalla finestra.",
   "imgs": [
-   "img/opere/L%27imperativo%20categorico_risultato.webp"
+   "img/opere/La%20vita_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27imperativo%20categorico.png"
+   "img/operePng/La%20vita.png"
   ],
   "cover": 0,
-  "id": "l-imperativo-categorico"
+  "id": "la-vita"
+ },
+ {
+  "title": "Pensieri lunari",
+  "tech": "Olio su tela 100×70, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "Se la luna mostrasse entrambi i suoi volti svelerebbe il lato dove riflette il sole, simbolo di mascolinità, e il lato che per eccellenza rappresenta la conoscenza femminile: la grande madre che influenza la natura con la sua ciclicità. La parte sensibile dell'io.<br>E se per Schopenhauer la luna rappresentava il continuo desiderio inappagato, perché lontano da noi e quindi non raggiungibile, per Dante le fasi lunari scandirono il tempo durante tutto il viaggio della divina commedia.<br>Se non ci fossero le due facce della luna, questo mondo e la natura che lo popola, perderebbe catastroficamente il suo equilibrio.",
+  "imgs": [
+   "img/opere/Pensieri%20lunari_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20lunari.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-lunari"
  },
  {
   "title": "L'interpretazione della vita",
@@ -539,44 +558,6 @@ const WORKS=[
   "id": "l-interpretazione-della-vita"
  },
  {
-  "title": "L'intervento divino",
-  "tech": "Olio su tela 100×80, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "Un mondo schiacciato dall'indifferenza, da ogni forma di violenza, dall'oscurantismo, dai limiti ben definiti della ragione, dall'assenza totale.<br>Uomini e donne in preda al caos, spaesati, non più consapevoli di loro stessi, dei loro obiettivi, del motivo primordiale per cui sono nati in questo mondo.<br>È la mano divina ad afferrarli, a riportarli sulla via della luce, ad indicare loro la direzione giusta.<br>Solo l'amore li salverà.",
-  "imgs": [
-   "img/opere/L%27intervento%20divino_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27intervento%20divino.png"
-  ],
-  "cover": 0,
-  "id": "l-intervento-divino"
- },
- {
-  "title": "L'istinto della conoscenza",
-  "tech": "Olio su tela 100x70cm, Anno 2024",
-  "dim": "",
-  "year": "2024",
-  "tags": [
-   "Metafisica della luce",
-   "2024"
-  ],
-  "desc": "La necessità del sapere nasce tra i principi più ancestrali dell'uomo: la curiosità.<br>La curiosità nasce insieme a noi.<br>È ciò che ci spinge a toccare con mano ciò che non conosciamo, affinché la nostra coscienza si formi e ci insegni ad osservare attraverso l'esperienza dell'istinto…<br>a imitare la natura…<br>a prenderne parte…<br>a diventare grandi.",
-  "imgs": [
-   "img/opere/L%27istinto%20della%20conoscenza_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27istinto%20della%20conoscenza.png"
-  ],
-  "cover": 0,
-  "id": "l-istinto-della-conoscenza"
- },
- {
   "title": "L'ombra del ricordo",
   "tech": "Olio su tela 100×70, Anno 2024",
   "dim": "",
@@ -596,23 +577,61 @@ const WORKS=[
   "id": "l-ombra-del-ricordo"
  },
  {
-  "title": "Pensieri lunari",
-  "tech": "Olio su tela 100×70, Anno 2024",
+  "title": "Aspettando Godot…l'atto mai scritto",
+  "tech": "Olio su tela 100×70cm, Anno 2024",
   "dim": "",
   "year": "2024",
   "tags": [
    "Metafisica della luce",
    "2024"
   ],
-  "desc": "Se la luna mostrasse entrambi i suoi volti svelerebbe il lato dove riflette il sole, simbolo di mascolinità, e il lato che per eccellenza rappresenta la conoscenza femminile: la grande madre che influenza la natura con la sua ciclicità. La parte sensibile dell'io.<br>E se per Schopenhauer la luna rappresentava il continuo desiderio inappagato, perché lontano da noi e quindi non raggiungibile, per Dante le fasi lunari scandirono il tempo durante tutto il viaggio della divina commedia.<br>Se non ci fossero le due facce della luna, questo mondo e la natura che lo popola, perderebbe catastroficamente il suo equilibrio.",
+  "desc": "Se dovessi scrivere il terzo atto di \"Aspettando Godot\" immaginerei Estragone e Vladimiro perdere la loro pazienza nell'aspettare questa misteriosa figura che alla fine di ogni giorno non giunge mai da loro.<br>Li immaginerei nel momento in cui arriva come di consueto il ragazzo ad annunciare loro che il signor Godot non arriverà nemmeno oggi.<br>Li immaginerei intenti a seguire il ragazzo, costringendolo a svelargli dove si trova realmente quest'uomo che aspettano ogni giorno invano.<br>Li immaginerei arrivare davanti a quella porta e provare improvvisamente un certo timore.<br>Loro non sanno chi è Godot e non sanno chi o che cosa aspettarsi dietro quella porta. Ma sanno che è arrivato il momento di lasciarsi quel buio alle spalle e di andare incontro alla luce...",
   "imgs": [
-   "img/opere/Pensieri%20lunari_risultato.webp"
+   "img/opere/Aspettando%20Godot%20l%27atto%20mai%20scritto_risultato.webp"
   ],
   "big": [
-   "img/operePng/Pensieri%20lunari.png"
+   "img/operePng/Aspettando%20Godot%20l%27atto%20mai%20scritto.png"
   ],
   "cover": 0,
-  "id": "pensieri-lunari"
+  "id": "aspettando-godot-l-atto-mai-scritto"
+ },
+ {
+  "title": "Aspettando Godot",
+  "tech": "Olio su tela 100×70cm, Anno 2024",
+  "dim": "",
+  "year": "2024",
+  "tags": [
+   "Metafisica della luce",
+   "2024"
+  ],
+  "desc": "L'opera teatrale \"Aspettando Godot\" di Samuel Beckett credo che sia fra tutte quella che incarna in maniera assoluta un concetto metafisico della vita.<br>I due protagonisti, in entrambi gli atti, non fanno praticamente nulla. I loro dialoghi sembrano apparentemente non avere senso compiuto. Tutto si basa sull'attesa di questo misterioso personaggio chiamato Godot, che alla fine non arriverà mai.<br>Loro non lo conoscono. E al pubblico non è dato sapere il perché lo stanno aspettando. Ma nonostante questo loro rimangono fermi lì, giorno e notte, con l'unica certezza che l'arrivo di Godot per loro sarà una salvezza.<br>Come per la metafisica, quindi, non esiste l'esperienza della conoscenza di questa emblematica figura. Ma c'è ugualmente la totale percezione reale della sua importanza.<br>Inserita in quello che è stato definito \"teatro dell'assurdo\", quest'opera è stata protagonista di diverse interpretazioni, mai davvero smentite o confermate dall'autore stesso.<br>L'interpretazione religiosa fa si che Godot sia Dio e che l'albero spoglio, unico elemento dominante della scenografia, possa rappresentare la croce o l'albero della vita.<br>In una visione esistenzialista Godot è il domani. È l'obiettivo da raggiungere. <br>È l'opportunità o il cambiamento. Ma nello stesso tempo i due protagonisti della storia rappresentano l'indolenza dell'essere umano. Essi rimangono fermi ad aspettare. Hanno bisogno di quell'opportunità, di quel cambiamento. Ma non fanno nulla per far si che questo accada. <br>Sono immobili, intrappolati nella loro pigrizia mentale, nella loro visione pessimistica della vita e rimandano sempre tutto a domani.<br>Io credo che la verità sia nel mezzo di tutte queste interpretazioni.<br>È la vita stessa a rappresentarsi nel teatro dell'assurdo. Ma in quel caos apparente tutto ha un ordine ciclico e naturale. tutti si muovono in attesa del futuro. Verso un qualcosa che non si conosce.<br>Godot è il futuro. Ci guarda al di fuori di quel palcoscenico. È lui ad attendere noi. È per questo che nella scena presente non arriva mai, perché lo raggiugeremo noi.<br>Forse domani.",
+  "imgs": [
+   "img/opere/Aspettando%20Godot_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Aspettando%20Godot.png"
+  ],
+  "cover": 0,
+  "id": "aspettando-godot"
+ },
+ {
+  "title": "La comunicazione ancestrale",
+  "tech": "Olio su tela 100×80cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "La comunicazione ancestrale è un linguaggio che non necessita di parole.<br>È il contatto primordiale tra tutti gli esseri viventi.<br>Può indurre paura, predominanza, accoglienza, distacco e comprensione.<br>Sono segni e sguardi tra chi è diverso.<br>Non può non raggiungere generi e specie differenti. È l'abbattimento di quel muro che separa chiunque, è la fine di quella distanza.<br>È la totale consapevolezza e percezione di chi si ha di fronte, pur non conoscendolo affatto.",
+  "imgs": [
+   "img/opere/La%20comunicazione%20ancestrale_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20comunicazione%20ancestrale.png"
+  ],
+  "cover": 0,
+  "id": "la-comunicazione-ancestrale"
  },
  {
   "title": "Il castigo di Venere",
@@ -654,82 +673,6 @@ const WORKS=[
   "id": "il-dialogo-della-luce"
  },
  {
-  "title": "Il gesto della memoria",
-  "tech": "Olio su tela 80×100 cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Io Sospeso",
-   "2023"
-  ],
-  "desc": "Un fermo immagine nella mente e nel cuore.<br>Un movimento sospeso tra uno sguardo e il vuoto.<br>Un velo invisibile nella stanza.<br>Un pensiero aggrovigliato tra le dita.",
-  "imgs": [
-   "img/opere/Il%20gesto%20della%20memoria_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20gesto%20della%20memoria.png"
-  ],
-  "cover": 0,
-  "id": "il-gesto-della-memoria"
- },
- {
-  "title": "La comunicazione ancestrale",
-  "tech": "Olio su tela 100×80cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "La comunicazione ancestrale è un linguaggio che non necessita di parole.<br>È il contatto primordiale tra tutti gli esseri viventi.<br>Può indurre paura, predominanza, accoglienza, distacco e comprensione.<br>Sono segni e sguardi tra chi è diverso.<br>Non può non raggiungere generi e specie differenti. È l'abbattimento di quel muro che separa chiunque, è la fine di quella distanza.<br>È la totale consapevolezza e percezione di chi si ha di fronte, pur non conoscendolo affatto.",
-  "imgs": [
-   "img/opere/La%20comunicazione%20ancestrale_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20comunicazione%20ancestrale.png"
-  ],
-  "cover": 0,
-  "id": "la-comunicazione-ancestrale"
- },
- {
-  "title": "La consapevolezza di Venere",
-  "tech": "Olio su tela 80×100cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Mito",
-   "2023"
-  ],
-  "desc": "Una Venere consapevole della sua dote, si gira improvvisamente e guarda oltre l'osservatore non appena ha sentito chiamare il suo nome.<br>Sembra rivolgersi a chiunque voglia incrociare il suo sguardo.<br>Una dea ma soprattutto una donna che oggi sa dare un valore diverso alla bellezza e all'amore.<br>Una bellezza matura proprio come il puro sentimento che desidera rappresentare.",
-  "imgs": [
-   "img/opere/La%20consapevolezza%20di%20Venere_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20consapevolezza%20di%20Venere.png"
-  ],
-  "cover": 0,
-  "id": "la-consapevolezza-di-venere"
- },
- {
-  "title": "La cornice della vita",
-  "tech": "Olio su tela 80×100cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica delle ombre",
-   "2023"
-  ],
-  "desc": "Immaginiamo un universo come un muro sconfinato, bianco, liscio.<br>Dove la vita che scorre è rappresentata da una cornice circoscritta.<br>Una figura che non ha aperture esterne...<br>un ciclo chiuso ma continuo... <br>un infinito movimento geometrico.<br>C'è chi prende coraggio e scende la verticale della vita.<br>Chi osserva dal basso tutto quello che ha vissuto e guarda con attenta curiosità tutto il suo percorso.<br>Chi la vita l'ha affrontata con difficoltà e ha necessità di adagiarsi a terra.<br>Chi si affaccia ad essa con la curiosità di sapere quello che sarà.<br>Chi ha consapevolezza che vivere la vita è il viaggio più bello che può aver mai percorso.<br>Chi continuerà comunque a farlo indipendentemente dalla cornice.",
-  "imgs": [
-   "img/opere/La%20cornice%20della%20vita_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20cornice%20della%20vita.png"
-  ],
-  "cover": 0,
-  "id": "la-cornice-della-vita"
- },
- {
   "title": "La metafisica del tempo",
   "tech": "Olio su tela 100x100cm, Anno 2023",
   "dim": "",
@@ -747,101 +690,6 @@ const WORKS=[
   ],
   "cover": 0,
   "id": "la-metafisica-del-tempo"
- },
- {
-  "title": "La metafisica di Psyche",
-  "tech": "Olio su tela 100×80cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "La Psyche di Napoli è un'opera scultorea risalente al I° secolo a.c. <br>Una delle figure mitologiche più rappresentate nella storia dell'arte.<br>Un nome che in greco significa anima, intesa come sentimento puramente espresso.<br>Al di sopra delle divinità, al punto di essere stata paragonata a Venere, nonostante Psyche non possedesse alcuna propensione divina.<br>È qui collocata in una stanza buia, illuminata dell'unica fonte di luce proveniente da una porta semi aperta.<br>In una visione metafisica, Psyche diventa l'unico oggetto dominante in uno spazio senza margini visibili.<br>La sua rappresentazione si concentra in un ambiente che non dispone di anima viva che possa garantire la sua presenza, se non l'osservatore esterno.<br>La testimonianza metafisica di ciò che Psyche rappresenta nei confronti dell'amore è la totale assenza da parte di chiunque non ha modo di fare l'esperienza della sua conoscenza, ma ne percepisce l'assoluta purezza della sua anima dedita a un sentimento profondo e sconfinato.",
-  "imgs": [
-   "img/opere/La%20metafisica%20di%20Psyche_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20metafisica%20di%20Psyche.png"
-  ],
-  "cover": 0,
-  "id": "la-metafisica-di-psyche"
- },
- {
-  "title": "La metamorfosi del dinamismo",
-  "tech": "Olio su tela 80×100cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "Nell'oggettiva staticità di una scacchiera i vari pezzi del gioco necessitano, in quanto oggetti inanimati, di essere mossi da un'entità vivente.<br>Ma se l' ordinaria certezza che una natura morta viene confutata da una valutazione metafisica, avviene una trasformazione delle cose che sovverte il pensiero comune su ciò che è statico o dinamico.<br>Su questa scacchiera avviene una metamorfosi che cambia radicalmente l'entità di ciò che contiene.<br>La regina diventa una Venere scolpita, che in quanto donna ha necessità di far prevalere la sua femminilità.<br>Un pedone, che solitamente è vincolato nel muoversi con un passo alla volta, si trasforma in uomo e sente la necessità di allontanarsi liberamente.<br>Il cavallo si trasforma in un animale vero e abbandonando la casella che avrebbe messo sotto scacco il re, lo libera automaticamente senza che il re debba essere spostato da una mano esterna.<br>La metamorfosi del dinamismo è la piena libertà di movimento per ciò che in natura è invece vincolato dalla staticità.",
-  "imgs": [
-   "img/opere/La%20metamorfosi%20del%20dinamismo_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20metamorfosi%20del%20dinamismo.png"
-  ],
-  "cover": 0,
-  "id": "la-metamorfosi-del-dinamismo"
- },
- {
-  "title": "La stanza della mediazione",
-  "tech": "Olio su tela 100×70cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "Nella stanza della mediazione tutto ciò che viene espresso dalla mente viene protetto dalla nostra interiorità.<br>Tutto rimane in quella stanza.<br>Uscirà di lì solo la soluzione dei nostri problemi. Solo l'obiettivo da raggiungere. Solo ciò che abbiamo imparato a controllare di noi stessi..<br>Nella stanza della mediazione ci si mette a confronto con noi stessi.<br>Si da il giusto peso a ciò che dobbiamo cambiare e al compromesso che otteniamo con la nostra coscienza.<br>In quel luogo entra una luce che evidenzia tutta la trasformazione.<br>Una testa antica subisce una metamorfosi umana. È salda a terra in senso di stabilità.<br>La figura al centro è in piedi su uno sgabello, a rappresentare il pieno equilibrio emotivo.<br>L'uomo che si allontana nel buio porta con sè la risolutezza ottenuta lì dentro.<br>Non ha paura del buio…<br>Sa esattamente dove andare…<br>Sa esattamente come muoversi lì dentro…",
-  "imgs": [
-   "img/opere/La%20stanza%20della%20mediazione_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20stanza%20della%20mediazione.png"
-  ],
-  "cover": 0,
-  "id": "la-stanza-della-mediazione"
- },
- {
-  "title": "La stanza dell'intimità",
-  "tech": "Olio su tela 100x80, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "La nostra intimità risiede in quel rifugio inviolabile da nessun fattore esterno.<br>Dove la mente e il cuore si sentono al sicuro.<br>Dove si è liberi di ascoltare i battiti del silenzio.<br>Dove la luce che entra mette in evidenza il nostro io, lasciando nel buoi tutto ciò che non vogliamo vedere.",
-  "imgs": [
-   "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20stanza%20dell%27intimita.png"
-  ],
-  "cover": 0,
-  "id": "la-stanza-dell-intimita"
- },
- {
-  "title": "L'affiorare dell'anima",
-  "tech": "Olio su tela 80×100cm, Anno 2023",
-  "dim": "",
-  "year": "2023",
-  "tags": [
-   "Metafisica della luce",
-   "2023"
-  ],
-  "desc": "Nel buio del nostro involucro,<br>fatto di carne e nervi<br>e sangue che fluisce<br>e muscoli che si tendono.<br>L'anima è una gigante rossa che sta per esplodere<br>e gode di luce propria.<br>Non ha bisogno di energia esterna né del sole.<br>Lei ha luce propria.<br>Ed emerge dal profondo.<br>E solleva il corpo nell'estasi della vita.",
-  "imgs": [
-   "img/opere/L%27affiorare%20dell%27anima_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27affiorare%20dell%27anima.png"
-  ],
-  "cover": 0,
-  "id": "l-affiorare-dell-anima"
  },
  {
   "title": "L'antica memoria",
@@ -863,211 +711,212 @@ const WORKS=[
   "id": "l-antica-memoria"
  },
  {
-  "title": "L'esigenza Umana",
-  "tech": "Olio su tela 100×80, Anno 2023",
+  "title": "La metamorfosi del dinamismo",
+  "tech": "Olio su tela 80×100cm, Anno 2023",
   "dim": "",
   "year": "2023",
   "tags": [
    "Metafisica della luce",
    "2023"
   ],
-  "desc": "Mettersi a nudo non significa mostrarsi.<br>Significa saper accettare i nostri difetti e le nostre fragilità, le nostre virtù e i nostri limiti.<br>Mettersi a nudo significa saper prendere coscienza di noi stessi per assecondare poi le nostre esigenze emotive.<br>L'appagamento esiste solo nella condivisione.<br>Nell'amore corrisposto.<br>Nel guardarsi negli occhi <br>e scegliersi.",
+  "desc": "Nell'oggettiva staticità di una scacchiera i vari pezzi del gioco necessitano, in quanto oggetti inanimati, di essere mossi da un'entità vivente.<br>Ma se l' ordinaria certezza che una natura morta viene confutata da una valutazione metafisica, avviene una trasformazione delle cose che sovverte il pensiero comune su ciò che è statico o dinamico.<br>Su questa scacchiera avviene una metamorfosi che cambia radicalmente l'entità di ciò che contiene.<br>La regina diventa una Venere scolpita, che in quanto donna ha necessità di far prevalere la sua femminilità.<br>Un pedone, che solitamente è vincolato nel muoversi con un passo alla volta, si trasforma in uomo e sente la necessità di allontanarsi liberamente.<br>Il cavallo si trasforma in un animale vero e abbandonando la casella che avrebbe messo sotto scacco il re, lo libera automaticamente senza che il re debba essere spostato da una mano esterna.<br>La metamorfosi del dinamismo è la piena libertà di movimento per ciò che in natura è invece vincolato dalla staticità.",
   "imgs": [
-   "img/opere/L%27esigenza%20Umana_risultato.webp"
+   "img/opere/La%20metamorfosi%20del%20dinamismo_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27esigenza%20Umana.png"
+   "img/operePng/La%20metamorfosi%20del%20dinamismo.png"
   ],
   "cover": 0,
-  "id": "l-esigenza-umana"
+  "id": "la-metamorfosi-del-dinamismo"
  },
  {
-  "title": "Studio del panneggio - Degas",
-  "tech": "Affresco",
+  "title": "L'affiorare dell'anima",
+  "tech": "Olio su tela 80×100cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "Nel buio del nostro involucro,<br>fatto di carne e nervi<br>e sangue che fluisce<br>e muscoli che si tendono.<br>L'anima è una gigante rossa che sta per esplodere<br>e gode di luce propria.<br>Non ha bisogno di energia esterna né del sole.<br>Lei ha luce propria.<br>Ed emerge dal profondo.<br>E solleva il corpo nell'estasi della vita.",
+  "imgs": [
+   "img/opere/L%27affiorare%20dell%27anima_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27affiorare%20dell%27anima.png"
+  ],
+  "cover": 0,
+  "id": "l-affiorare-dell-anima"
+ },
+ {
+  "title": "La metafisica di Psyche",
+  "tech": "Olio su tela 100×80cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "La Psyche di Napoli è un'opera scultorea risalente al I° secolo a.c. <br>Una delle figure mitologiche più rappresentate nella storia dell'arte.<br>Un nome che in greco significa anima, intesa come sentimento puramente espresso.<br>Al di sopra delle divinità, al punto di essere stata paragonata a Venere, nonostante Psyche non possedesse alcuna propensione divina.<br>È qui collocata in una stanza buia, illuminata dell'unica fonte di luce proveniente da una porta semi aperta.<br>In una visione metafisica, Psyche diventa l'unico oggetto dominante in uno spazio senza margini visibili.<br>La sua rappresentazione si concentra in un ambiente che non dispone di anima viva che possa garantire la sua presenza, se non l'osservatore esterno.<br>La testimonianza metafisica di ciò che Psyche rappresenta nei confronti dell'amore è la totale assenza da parte di chiunque non ha modo di fare l'esperienza della sua conoscenza, ma ne percepisce l'assoluta purezza della sua anima dedita a un sentimento profondo e sconfinato.",
+  "imgs": [
+   "img/opere/La%20metafisica%20di%20Psyche_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20metafisica%20di%20Psyche.png"
+  ],
+  "cover": 0,
+  "id": "la-metafisica-di-psyche"
+ },
+ {
+  "title": "La consapevolezza di Venere",
+  "tech": "Olio su tela 80×100cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Mito",
+   "2023"
+  ],
+  "desc": "Una Venere consapevole della sua dote, si gira improvvisamente e guarda oltre l'osservatore non appena ha sentito chiamare il suo nome.<br>Sembra rivolgersi a chiunque voglia incrociare il suo sguardo.<br>Una dea ma soprattutto una donna che oggi sa dare un valore diverso alla bellezza e all'amore.<br>Una bellezza matura proprio come il puro sentimento che desidera rappresentare.",
+  "imgs": [
+   "img/opere/La%20consapevolezza%20di%20Venere_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20consapevolezza%20di%20Venere.png"
+  ],
+  "cover": 0,
+  "id": "la-consapevolezza-di-venere"
+ },
+ {
+  "title": "La stanza dell'intimità",
+  "tech": "Olio su tela 100x80, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica della luce",
+   "2023"
+  ],
+  "desc": "La nostra intimità risiede in quel rifugio inviolabile da nessun fattore esterno.<br>Dove la mente e il cuore si sentono al sicuro.<br>Dove si è liberi di ascoltare i battiti del silenzio.<br>Dove la luce che entra mette in evidenza il nostro io, lasciando nel buoi tutto ciò che non vogliamo vedere.",
+  "imgs": [
+   "img/opere/La%20stanza%20dell%27intimita_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20stanza%20dell%27intimita.png"
+  ],
+  "cover": 0,
+  "id": "la-stanza-dell-intimita"
+ },
+ {
+  "title": "Il gesto della memoria",
+  "tech": "Olio su tela 80×100 cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Io sospeso",
+   "2023"
+  ],
+  "desc": "Un fermo immagine nella mente e nel cuore.<br>Un movimento sospeso tra uno sguardo e il vuoto.<br>Un velo invisibile nella stanza.<br>Un pensiero aggrovigliato tra le dita.",
+  "imgs": [
+   "img/opere/Il%20gesto%20della%20memoria_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20gesto%20della%20memoria.png"
+  ],
+  "cover": 0,
+  "id": "il-gesto-della-memoria"
+ },
+ {
+  "title": "La cornice della vita",
+  "tech": "Olio su tela 80×100cm, Anno 2023",
+  "dim": "",
+  "year": "2023",
+  "tags": [
+   "Metafisica delle ombre",
+   "2023"
+  ],
+  "desc": "Immaginiamo un universo come un muro sconfinato, bianco, liscio.<br>Dove la vita che scorre è rappresentata da una cornice circoscritta.<br>Una figura che non ha aperture esterne...<br>un ciclo chiuso ma continuo... <br>un infinito movimento geometrico.<br>C'è chi prende coraggio e scende la verticale della vita.<br>Chi osserva dal basso tutto quello che ha vissuto e guarda con attenta curiosità tutto il suo percorso.<br>Chi la vita l'ha affrontata con difficoltà e ha necessità di adagiarsi a terra.<br>Chi si affaccia ad essa con la curiosità di sapere quello che sarà.<br>Chi ha consapevolezza che vivere la vita è il viaggio più bello che può aver mai percorso.<br>Chi continuerà comunque a farlo indipendentemente dalla cornice.",
+  "imgs": [
+   "img/opere/La%20cornice%20della%20vita_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20cornice%20della%20vita.png"
+  ],
+  "cover": 0,
+  "id": "la-cornice-della-vita"
+ },
+ {
+  "title": "Il giudice interiore",
+  "tech": "Olio si tela 80x100cm, Anno 2023",
   "dim": "",
   "year": "2023",
   "tags": [
    "2023"
   ],
-  "desc": "Studio del panneggio - Degas",
+  "desc": "Esistono delle condizioni di pensiero e di azione annidate a livello inconscio dentro ad ognuno di noi.<br>Sono tutti quei comportamenti e quelle scelte che il super-io ci impone, facendoci credere che il nostro modo di pensare o di agire sia giusto in ogni occasione e moralmente accettabile per il resto del mondo.<br>Ma il nostro giudice interiore non è sempre così ineccepibile.<br>Ma lo diventa nel momento in cui prendiamo piena coscienza del nostro io, diventando padroni della nostra esistenza. Acquisendo una ragionevole capacità di giudizio che ci fa abbondanare quella parte sbagliata di noi e ci da il coraggio di prendere la strada che ci conduce alla crescita e all'evoluzione.",
   "imgs": [
-   "img/opere/Studio%20del%20panneggio%20-%20Degas_risultato.webp"
+   "img/opere/Il%20giudice%20interiore_risultato.webp"
   ],
   "big": [
-   "img/operePng/Studio%20del%20panneggio%20-%20Degas.png"
+   "img/operePng/Il%20giudice%20interiore.png"
   ],
   "cover": 0,
-  "id": "studio-del-panneggio-degas"
+  "id": "il-giudice-interiore"
  },
  {
-  "title": "Banchetto dinamico",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2022",
+  "title": "L'odore dei sogni",
+  "tech": "Tecnica mista su tela ( acrilico, gesso e pigmenti naturali) 100×100cm, Anno 2022",
   "dim": "",
   "year": "2022",
   "tags": [
+   "Destrutturalismo interiore",
    "2022"
   ],
-  "desc": "Ciò che è dinamico è veloce<br>tutto scorre velocemente<br>e la relatività del tempo va a fondersi con chi è seduto a quel banchetto<br>ai bicchieri consumati.. a quelli vuoti di chi non è venuto o se ne è andato<br>a chi riflette e osserva<br>a chi resta o si allontana.",
+  "desc": "\"L'odore dei sogni è un fango denso che ricopre la mente, mentre il corpo perde forma e consistenza.\"<br>Ci sono opere che pensi siano finite, le lasci li da una parte, ma sai che ancora non è così. <br>Poi a un certo punto ti guardano e ti chiedono che hanno ancora bisogno di te e delle tue mani.<br>Ma soprattutto delle tue emozioni reali...<br>è in quel momento che ti dice basta.",
   "imgs": [
-   "img/opere/Banchetto%20dinamico_risultato.webp"
+   "img/opere/L%27odore%20dei%20sogni_risultato.webp"
   ],
   "big": [
-   "img/operePng/Banchetto%20dinamico.png"
+   "img/operePng/L%27odore%20dei%20sogni.png"
   ],
   "cover": 0,
-  "id": "banchetto-dinamico"
+  "id": "l-odore-dei-sogni"
  },
  {
-  "title": "Carta vince, carta perde",
-  "tech": "Acrilico su tela 80×100cm, Anno 2022",
+  "title": "Lo stato solido dei pensieri",
+  "tech": "Acrilico su tela 80×80cm, Anno 2022",
   "dim": "",
   "year": "2022",
   "tags": [
    "Metafisica delle ombre",
    "2022"
   ],
-  "desc": "La guerra degli indifferenti. <br>Quest'opera è dedicata alla guerra.<br>All'inganno dei potenti.<br>Ma soprattutto all'indifferenza.<br>A chi sa ma non parla. A chi vede ma si volta dall'altra parte.<br>A chi non fa niente per cambiare le cose.<br>Immagino una guerra proiettata su di un tavolo da gioco.<br>\"Carta vince, carta perde\" dice il mazziere. \"Trova la pace\" aggiunge, posizionando abilmente le carte.<br>Ma la carta con su scritto \"pace\" giace capovolta nel cassetto.<br>E gli uomini che stanno scommettendo sulla loro vita e sulla libertà non sapranno mai che quella carta non è fra le tre di cui dispongono. E perderanno sempre.<br>Solo la figura nel cassetto sa che la pace si trova nascosta lì. Ma tace per paura. Riflette, ma alla fine si rassegna.<br>Così come quella figura, anche chi osserva l'opera sa cosa c'è li dentro. Me compreso.<br>E saremo tutti complici del silenzio e di un ingannevole \"gioco\", finché non aiuteremo gli altri a trovare quella carta nascosta.<br>Se tutto rimarrà così, sarà sempre il banco a vincere.",
+  "desc": "Come nel passaggio da uno stato all'altro, <br>immagino i pensieri in un processo fisico<br>attraversare ogni fase di cambiamento.<br>Come se evaporassero col calore della mente<br>per spargersi nuovamente a terra nel loro stato solido.",
   "imgs": [
-   "img/opere/Carta%20vince%2C%20carta%20perde_risultato.webp"
+   "img/opere/Lo%20stato%20solido%20dei%20pensieri_risultato.webp"
   ],
   "big": [
-   "img/operePng/Carta%20vince%2C%20carta%20perde.png"
+   "img/operePng/Lo%20stato%20solido%20dei%20pensieri.png"
   ],
   "cover": 0,
-  "id": "carta-vince-carta-perde"
+  "id": "lo-stato-solido-dei-pensieri"
  },
  {
-  "title": "Il debutto di Venere",
-  "tech": "Olio su tela 80×100cm, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Mito",
-   "2022"
-  ],
-  "desc": "Una giovane Venere nel pieno del suo splendore.<br>Una divinità inconsapevole della sua dote.<br>Non ancora consumata dalle ossessioni e dai desideri dell'uomo.<br>Non ancora sfruttata da quella voglia spasmodica di apparire.<br>Sembra come protetta da quell'ingenua timidezza, <br>nel momento in cui sente per la prima volta degli occhi che la desiderano.<br>In quel preciso istante dove ancora non sa che ogni essere umano sarebbe in grado di uccidere per raggiungere la bellezza.",
-  "imgs": [
-   "img/opere/Il%20debutto%20di%20Venere_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20debutto%20di%20Venere.png"
-  ],
-  "cover": 0,
-  "id": "il-debutto-di-venere"
- },
- {
-  "title": "Il doppio elemento",
-  "tech": "Olio su tela 80x100, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2022"
-  ],
-  "desc": "Esistono due forze nella natura totalmente contrastanti ma necessarie alla vita: l'acqua e il fuoco.<br>Questi stessi elementi esistono in maniera costante anche dentro l'essere umano.<br>Ma se in natura l'acqua può sovrastare il fuoco, non può allo stesso modo contrastare quel devastante incendio interiore della creatività che può incendiare il mondo.<br>E che niente e nessuno può fermare.",
-  "imgs": [
-   "img/opere/Il%20doppio%20elemento_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20doppio%20elemento.png"
-  ],
-  "cover": 0,
-  "id": "il-doppio-elemento"
- },
- {
-  "title": "Il piacere tattile dei pensieri",
-  "tech": "Tecnica mista su tela 80 × 100cm, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2022"
-  ],
-  "desc": "A volte non servono le mani per toccare... nè per sentire.<br>Lei chiude gli occhi e percorrere tutto il suo corpo solo con l'immaginazione.<br>Non servono le mani a volte.<br>Ma le sente addosso.",
-  "imgs": [
-   "img/opere/Il%20piacere%20tattile%20dei%20pensieri_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20piacere%20tattile%20dei%20pensieri.png"
-  ],
-  "cover": 0,
-  "id": "il-piacere-tattile-dei-pensieri"
- },
- {
-  "title": "Il punto cieco dell'io",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Io Sospeso",
-   "2022"
-  ],
-  "desc": "Esiste un punto particolare negli occhi, dove vengono a mancare i recettori della luce.<br>Una macchia impercettibile nell'immensità del campo visivo, chiamato il \"punto cieco\".<br>Ma è proprio in quell'angolo che sparisce la cecità.<br>È lì che la materia del mondo svanisce e si materializza come in un' allucinazione visiva tutta la nostra interiorità.<br>È proprio lì che cominciamo a guardare quello che abbiamo dentro, mentre ciò che è tangibile all' esterno improvvisamente sfuma.",
-  "imgs": [
-   "img/opere/Il%20punto%20cieco%20dell%27io_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20punto%20cieco%20dell%27io.png"
-  ],
-  "cover": 0,
-  "id": "il-punto-cieco-dell-io"
- },
- {
-  "title": "Il silenzio dei pensieri",
-  "tech": "Acrilico su tela 70×100cm, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2022"
-  ],
-  "desc": "Alcuni pensieri si muovono nel loro silenzio.<br>Scorrono in sintonia con un respiro lento e profondo.<br>Da fuori quei pensieri non fanno rumore.<br>Sono invisibili per tutti.<br>Inafferrabili... impercettibili.<br>Fuori nulla appare.<br>Solo dentro c'è il vero frastuono.",
-  "imgs": [
-   "img/opere/Il%20silenzio%20dei%20pensieri_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20silenzio%20dei%20pensieri.png"
-  ],
-  "cover": 0,
-  "id": "il-silenzio-dei-pensieri"
- },
- {
-  "title": "Intime rivelazioni",
-  "tech": "Acrilico su tela 60×100cm , Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Io Sospeso",
-   "2022"
-  ],
-  "desc": "Studio sul realismo magico.<br>Esiste un momento dove ciò che eri all'improvviso svanisce.<br>Abbandoni quel vecchio ricordo di te, in quel passato <br>dove te stesso era abituato a collocarsi.<br>All'improvviso tutto quello che hai davanti <br>non è più ciò che eri abituato a vedere.<br>E rimani lì, a guardare oltre le pareti della stanza.<br>E ti rendi conto che oltre il muro c'è una strada nuova.<br>Un paesaggio interiore che ora ti appartiene.",
-  "imgs": [
-   "img/opere/Intime%20rivelazioni_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Intime%20rivelazioni.png"
-  ],
-  "cover": 0,
-  "id": "intime-rivelazioni"
- },
- {
-  "title": "La geometria euclidea del tempo",
-  "tech": "Acrilico e smalto su tela 80 × 100, Anno 2022",
+  "title": "La prospettiva della vita",
+  "tech": "Acrilico su tela 100×80, Anno 2022",
   "dim": "",
   "year": "2022",
   "tags": [
    "Metafisica delle ombre",
    "2022"
   ],
-  "desc": "Nella geometria di Euclide si colloca lo spazio su basi ipotetico-deduttive.<br>Vengono definiti i concetti di distanza, lunghezza e angoli, attraverso degli elementi che appaiono evidenti senza la necessità che questi vengano dimostrati.<br>Nello spazio euclideo, quindi la dimensione è rappresentata dai vettori, ovvero degli indicatori di grandezze che indicano appunto una direzione e un verso ben definiti.<br>A questo punto immagino il tempo come un'infinita scacchiera dalla struttura modulare. Una superficie non piana, ma tridimensionale.<br>Abbinando la difficoltà del gioco degli scacchi a questo concetto, immagino come l'osservatore che non conosce le mosse e le regole, si trovi davanti all'imprevedibilità del tempo. Non sa come si muoverà.<br>Non sa quale direzione prenderà sulla scacchiera.<br>In questo spazio, quindi, i vettori non sono più le rette, gli angoli e i punti, ma bensì è l'essere umano a stabilire la propria direzione e a muoversi liberamente senza interferire col concetto ciclico del tempo che non ha bisogno di essere misurato.",
+  "desc": "Tra gli angoli definiti della vita c'è un sentiero che non ha confini.<br>Tutto sarebbe statico se non fosse occupato dall'esperienza e dalle emozioni.<br>\"La scena della vita non è nell'immagine che vedi, ma nelle anime che governano la scena”.<br><br>Opera realizzata per la festa del cinema di Roma a tema con la Casa dell'architettura presso l’Acquario Romano",
   "imgs": [
-   "img/opere/La%20geometria%20euclidea%20del%20tempo_risultato.webp"
+   "img/opere/La%20prospettiva%20della%20vita_risultato.webp"
   ],
   "big": [
-   "img/operePng/La%20geometria%20euclidea%20del%20tempo.png"
+   "img/operePng/La%20prospettiva%20della%20vita.png"
   ],
   "cover": 0,
-  "id": "la-geometria-euclidea-del-tempo"
+  "id": "la-prospettiva-della-vita"
  },
  {
   "title": "La liberazione di Dafne",
@@ -1090,99 +939,231 @@ const WORKS=[
   "id": "la-liberazione-di-dafne"
  },
  {
-  "title": "La prospettiva della vita",
-  "tech": "Acrilico su tela 100×80, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Metafisica delle ombre",
-   "2022"
-  ],
-  "desc": "Tra gli angoli definiti della vita c'è un sentiero che non ha confini.<br>Tutto sarebbe statico se non fosse occupato dall'esperienza e dalle emozioni.<br>\"La scena della vita non è nell'immagine che vedi, ma nelle anime che governano la scena”.<br><br>Opera realizzata per la festa del cinema di Roma a tema con la Casa dell'architettura presso l’Acquario Romano",
-  "imgs": [
-   "img/opere/La%20prospettiva%20della%20vita_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20prospettiva%20della%20vita.png"
-  ],
-  "cover": 0,
-  "id": "la-prospettiva-della-vita"
- },
- {
-  "title": "Lo stato solido dei pensieri",
-  "tech": "Acrilico su tela 80×80cm, Anno 2022",
-  "dim": "",
-  "year": "2022",
-  "tags": [
-   "Metafisica delle ombre",
-   "2022"
-  ],
-  "desc": "Come nel passaggio da uno stato all'altro, <br>immagino i pensieri in un processo fisico<br>attraversare ogni fase di cambiamento.<br>Come se evaporassero col calore della mente<br>per spargersi nuovamente a terra nel loro stato solido.",
-  "imgs": [
-   "img/opere/Lo%20stato%20solido%20dei%20pensieri_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Lo%20stato%20solido%20dei%20pensieri.png"
-  ],
-  "cover": 0,
-  "id": "lo-stato-solido-dei-pensieri"
- },
- {
-  "title": "L'odore dei sogni",
-  "tech": "Tecnica mista su tela ( acrilico, gesso e pigmenti naturali) 100×100cm, Anno 2022",
+  "title": "Il doppio elemento",
+  "tech": "Olio su tela 80x100, Anno 2022",
   "dim": "",
   "year": "2022",
   "tags": [
    "Destrutturalismo interiore",
    "2022"
   ],
-  "desc": "\"L'odore dei sogni è un fango denso che ricopre la mente, mentre il corpo perde forma e consistenza.\"<br>Ci sono opere che pensi siano finite, le lasci li da una parte, ma sai che ancora non è così. <br>Poi a un certo punto ti guardano e ti chiedono che hanno ancora bisogno di te e delle tue mani.<br>Ma soprattutto delle tue emozioni reali...<br>è in quel momento che ti dice basta.",
+  "desc": "Esistono due forze nella natura totalmente contrastanti ma necessarie alla vita: l'acqua e il fuoco.<br>Questi stessi elementi esistono in maniera costante anche dentro l'essere umano.<br>Ma se in natura l'acqua può sovrastare il fuoco, non può allo stesso modo contrastare quel devastante incendio interiore della creatività che può incendiare il mondo.<br>E che niente e nessuno può fermare.",
   "imgs": [
-   "img/opere/L%27odore%20dei%20sogni_risultato.webp"
+   "img/opere/Il%20doppio%20elemento_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27odore%20dei%20sogni.png"
+   "img/operePng/Il%20doppio%20elemento.png"
   ],
   "cover": 0,
-  "id": "l-odore-dei-sogni"
+  "id": "il-doppio-elemento"
  },
  {
-  "title": "I malintesi di Marte e Venere",
-  "tech": "Acrilico su tela 80×100cm, Anno 2021",
+  "title": "Il debutto di Venere",
+  "tech": "Olio su tela 80×100cm, Anno 2022",
   "dim": "",
-  "year": "2021",
+  "year": "2022",
+  "tags": [
+   "Mito",
+   "2022"
+  ],
+  "desc": "Una giovane Venere nel pieno del suo splendore.<br>Una divinità inconsapevole della sua dote.<br>Non ancora consumata dalle ossessioni e dai desideri dell'uomo.<br>Non ancora sfruttata da quella voglia spasmodica di apparire.<br>Sembra come protetta da quell'ingenua timidezza, <br>nel momento in cui sente per la prima volta degli occhi che la desiderano.<br>In quel preciso istante dove ancora non sa che ogni essere umano sarebbe in grado di uccidere per raggiungere la bellezza.",
+  "imgs": [
+   "img/opere/Il%20debutto%20di%20Venere_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20debutto%20di%20Venere.png"
+  ],
+  "cover": 0,
+  "id": "il-debutto-di-venere"
+ },
+ {
+  "title": "Il silenzio dei pensieri",
+  "tech": "Acrilico su tela 70×100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
   "tags": [
    "Destrutturalismo interiore",
-   "2021"
+   "2022"
   ],
-  "desc": "Due mondi divergenti<br>Due poli opposti.<br>Due divinità.<br>Da sempre l'uno è la completezza dell'altro.<br>Da sempre si scontrano tra equivoci e incomprensioni.<br>Una riflessiva e quasi rassegnata Venere sogna costantemente l'idea di un amore totale...universale...inconfutabile.<br>Un pensieroso e combattuto Marte.<br>Lui che è Dio della guerra si sente all'improvviso vulnerabile se il suo duellante è se stesso... se deve combattere le sue fragilità.",
+  "desc": "Alcuni pensieri si muovono nel loro silenzio.<br>Scorrono in sintonia con un respiro lento e profondo.<br>Da fuori quei pensieri non fanno rumore.<br>Sono invisibili per tutti.<br>Inafferrabili... impercettibili.<br>Fuori nulla appare.<br>Solo dentro c'è il vero frastuono.",
   "imgs": [
-   "img/opere/I%20malintesi%20di%20Marte%20e%20Venere_risultato.webp"
+   "img/opere/Il%20silenzio%20dei%20pensieri_risultato.webp"
   ],
   "big": [
-   "img/operePng/I%20malintesi%20di%20Marte%20e%20Venere.png"
+   "img/operePng/Il%20silenzio%20dei%20pensieri.png"
   ],
   "cover": 0,
-  "id": "i-malintesi-di-marte-e-venere"
+  "id": "il-silenzio-dei-pensieri"
  },
  {
-  "title": "Il ciclo enigmatico del tempo",
-  "tech": "Acrilico su tela 100x80 cm, Anno 2021",
+  "title": "Banchetto dinamico",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "2022"
+  ],
+  "desc": "Ciò che è dinamico è veloce<br>tutto scorre velocemente<br>e la relatività del tempo va a fondersi con chi è seduto a quel banchetto<br>ai bicchieri consumati.. a quelli vuoti di chi non è venuto o se ne è andato<br>a chi riflette e osserva<br>a chi resta o si allontana.",
+  "imgs": [
+   "img/opere/Banchetto%20dinamico_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Banchetto%20dinamico.png"
+  ],
+  "cover": 0,
+  "id": "banchetto-dinamico"
+ },
+ {
+  "title": "Il punto cieco dell'io",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Io sospeso",
+   "2022"
+  ],
+  "desc": "Esiste un punto particolare negli occhi, dove vengono a mancare i recettori della luce.<br>Una macchia impercettibile nell'immensità del campo visivo, chiamato il \"punto cieco\".<br>Ma è proprio in quell'angolo che sparisce la cecità.<br>È lì che la materia del mondo svanisce e si materializza come in un' allucinazione visiva tutta la nostra interiorità.<br>È proprio lì che cominciamo a guardare quello che abbiamo dentro, mentre ciò che è tangibile all' esterno improvvisamente sfuma.",
+  "imgs": [
+   "img/opere/Il%20punto%20cieco%20dell%27io_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20punto%20cieco%20dell%27io.png"
+  ],
+  "cover": 0,
+  "id": "il-punto-cieco-dell-io"
+ },
+ {
+  "title": "Carta vince, carta perde",
+  "tech": "Acrilico su tela 80×100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Metafisica delle ombre",
+   "2022"
+  ],
+  "desc": "La guerra degli indifferenti. <br>Quest'opera è dedicata alla guerra.<br>All'inganno dei potenti.<br>Ma soprattutto all'indifferenza.<br>A chi sa ma non parla. A chi vede ma si volta dall'altra parte.<br>A chi non fa niente per cambiare le cose.<br>Immagino una guerra proiettata su di un tavolo da gioco.<br>\"Carta vince, carta perde\" dice il mazziere. \"Trova la pace\" aggiunge, posizionando abilmente le carte.<br>Ma la carta con su scritto \"pace\" giace capovolta nel cassetto.<br>E gli uomini che stanno scommettendo sulla loro vita e sulla libertà non sapranno mai che quella carta non è fra le tre di cui dispongono. E perderanno sempre.<br>Solo la figura nel cassetto sa che la pace si trova nascosta lì. Ma tace per paura. Riflette, ma alla fine si rassegna.<br>Così come quella figura, anche chi osserva l'opera sa cosa c'è li dentro. Me compreso.<br>E saremo tutti complici del silenzio e di un ingannevole \"gioco\", finché non aiuteremo gli altri a trovare quella carta nascosta.<br>Se tutto rimarrà così, sarà sempre il banco a vincere.",
+  "imgs": [
+   "img/opere/Carta%20vince%2C%20carta%20perde_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Carta%20vince%2C%20carta%20perde.png"
+  ],
+  "cover": 0,
+  "id": "carta-vince-carta-perde"
+ },
+ {
+  "title": "La geometria euclidea del tempo",
+  "tech": "Acrilico e smalto su tela 80 × 100, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Metafisica delle ombre",
+   "2022"
+  ],
+  "desc": "Nella geometria di Euclide si colloca lo spazio su basi ipotetico-deduttive.<br>Vengono definiti i concetti di distanza, lunghezza e angoli, attraverso degli elementi che appaiono evidenti senza la necessità che questi vengano dimostrati.<br>Nello spazio euclideo, quindi la dimensione è rappresentata dai vettori, ovvero degli indicatori di grandezze che indicano appunto una direzione e un verso ben definiti.<br>A questo punto immagino il tempo come un'infinita scacchiera dalla struttura modulare. Una superficie non piana, ma tridimensionale.<br>Abbinando la difficoltà del gioco degli scacchi a questo concetto, immagino come l'osservatore che non conosce le mosse e le regole, si trovi davanti all'imprevedibilità del tempo. Non sa come si muoverà.<br>Non sa quale direzione prenderà sulla scacchiera.<br>In questo spazio, quindi, i vettori non sono più le rette, gli angoli e i punti, ma bensì è l'essere umano a stabilire la propria direzione e a muoversi liberamente senza interferire col concetto ciclico del tempo che non ha bisogno di essere misurato.",
+  "imgs": [
+   "img/opere/La%20geometria%20euclidea%20del%20tempo_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20geometria%20euclidea%20del%20tempo.png"
+  ],
+  "cover": 0,
+  "id": "la-geometria-euclidea-del-tempo"
+ },
+ {
+  "title": "Intime rivelazioni",
+  "tech": "Acrilico su tela 60×100cm , Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Io sospeso",
+   "2022"
+  ],
+  "desc": "Studio sul realismo magico.<br>Esiste un momento dove ciò che eri all'improvviso svanisce.<br>Abbandoni quel vecchio ricordo di te, in quel passato <br>dove te stesso era abituato a collocarsi.<br>All'improvviso tutto quello che hai davanti <br>non è più ciò che eri abituato a vedere.<br>E rimani lì, a guardare oltre le pareti della stanza.<br>E ti rendi conto che oltre il muro c'è una strada nuova.<br>Un paesaggio interiore che ora ti appartiene.",
+  "imgs": [
+   "img/opere/Intime%20rivelazioni_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Intime%20rivelazioni.png"
+  ],
+  "cover": 0,
+  "id": "intime-rivelazioni"
+ },
+ {
+  "title": "Il piacere tattile dei pensieri",
+  "tech": "Tecnica mista su tela 80 × 100cm, Anno 2022",
+  "dim": "",
+  "year": "2022",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2022"
+  ],
+  "desc": "A volte non servono le mani per toccare... nè per sentire.<br>Lei chiude gli occhi e percorrere tutto il suo corpo solo con l'immaginazione.<br>Non servono le mani a volte.<br>Ma le sente addosso.",
+  "imgs": [
+   "img/opere/Il%20piacere%20tattile%20dei%20pensieri_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20piacere%20tattile%20dei%20pensieri.png"
+  ],
+  "cover": 0,
+  "id": "il-piacere-tattile-dei-pensieri"
+ },
+ {
+  "title": "Le luci dei pensieri nell'ombra",
+  "tech": "Tecnica mista su tela 70×100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
    "Metafisica delle ombre",
    "2021"
   ],
-  "desc": "Un concetto astratto il tempo. Un rebus che si ripete all'infinito,  una dimensione che non ha confini ma che a volte intrappola i minuti in un'eternità.",
+  "desc": "Esiste una strada in ognuno di noi che non ha né inizio, né fine.<br>È un selciato scuro e dissestato.<br>Lì camminano tutti quei pensieri che si perdono nel buio.<br>Ma l'uomo non è nato per vagare nell'ignoto.<br>Ha bisogno di vedere e di sentire tutto con chiarezza.<br>E succede proprio su quella strada.<br>Dove dei piccoli riflessi di luce mostrano vagamente quel percorso.<br>E tutto pian piano si dirige nella giusta direzione.",
   "imgs": [
-   "img/opere/Il%20ciclo%20enigmatico%20del%20tempo_risultato.webp"
+   "img/opere/Le%20luci%20dei%20pensieri%20nell%27ombra_risultato.webp"
   ],
   "big": [
-   "img/operePng/Il%20ciclo%20enigmatico%20del%20tempo.png"
+   "img/operePng/Le%20luci%20dei%20pensieri%20nell%27ombra.png"
   ],
   "cover": 0,
-  "id": "il-ciclo-enigmatico-del-tempo"
+  "id": "le-luci-dei-pensieri-nell-ombra"
+ },
+ {
+  "title": "Riflessioni vaganti",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Metafisica delle ombre",
+   "2021"
+  ],
+  "desc": "Un deserto a volte può essere anche fatto di asfalto.<br>Non servono enormi e sconfinate distese per la necessità di essere soli.<br>Non servono spazi vuoti per rimanere in disparte a pensare.<br>I nostri universi interiori emergono in un luogo non luogo.<br>Dove il cammino si estende distruggendo ogni geometria.<br>E ogni angolo si riempie di una profonda riflessione.",
+  "imgs": [
+   "img/opere/Riflessioni%20vaganti_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Riflessioni%20vaganti.png"
+  ],
+  "cover": 0,
+  "id": "riflessioni-vaganti"
+ },
+ {
+  "title": "La diffusione del silenzio nei sogni",
+  "tech": "Tecnica mista su tela 100 × 100cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "Esiste una scena neutra nelle profondità dell'essere umano.<br>È quel vuoto senza gravità, che si propaga nel subconscio.<br>Lì, ogni desiderio prende forma.<br>Ogni pensiero dimenticato prende vita.<br>Tutto ciò che nella veglia vince sull'istinto, lì perde la ragione.<br>Non ci sono parole, né morale nei sogni.<br>C'è un flusso fluttuante che comunica, senza dover pensare a niente.<br>È quel flusso inesauribile che al mattino ti riporta in superficie.",
+  "imgs": [
+   "img/opere/La%20diffusione%20del%20silenzio%20nei%20sogni_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20diffusione%20del%20silenzio%20nei%20sogni.png"
+  ],
+  "cover": 0,
+  "id": "la-diffusione-del-silenzio-nei-sogni"
  },
  {
   "title": "Il disciogliersi del buio",
@@ -1204,61 +1185,175 @@ const WORKS=[
   "id": "il-disciogliersi-del-buio"
  },
  {
-  "title": "Il teorema dell'immenso",
-  "tech": "Tecnica mista su tela 100x80cm, Anno 2021",
+  "title": "Pensieri nell'ombra 8 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Metafisica delle ombre",
+   "Pensieri nell'ombra",
    "2021"
   ],
-  "desc": "Il punto di prospettiva è tracciato per far si che chi guarda lo fa dall'angolo opposto della stanza,<br>come se realmente stesse occupando uno spazio lì dentro.<br>Osservando in disparte la scena, senza disturbare la figura di quell'uomo di spalle.<br>Ma nello stesso tempo chi osserva non è escluso da ciò che sta vedendo, semplicemente perché lo sta vivendo.<br>Interagisce con la sua presenza e con la sua vista, conscio di essere parte integrante di quel tutto che lega in maniera indissolubile tutti noi all'immensità dell'universo.<br><br>La vita è un ciclo continuo<br>In un susseguirsi di cambiamenti naturali.<br>È un percorso che non ha né inizio, né fine.<br>Siamo fatti della stessa materia dell'universo.<br>E la luce naturale di un tramonto che svanisce si riaccende nella luce artificiale dietro una porta socchiusa.<br>E quel pò di luce diventa più intensa di un qualsiasi sconfinante buio.<br>Tutto infinitamente prosegue come energia che si trasforma.<br>Se il seme genera l'uomo è poi l'uomo stesso a proteggere il seme dentro di sé.<br>E a generarlo ancora.",
+  "desc": "\"Vuole quello che ha... <br>ma le manca quello che aveva.\"",
   "imgs": [
-   "img/opere/Il%20teorema%20dell%27immenso_risultato.webp"
+   "img/opere/Pensieri%20nell%27ombra%208%20novembre%202021_risultato.webp"
   ],
   "big": [
-   "img/operePng/Il%20teorema%20dell%27immenso.png"
+   "img/operePng/Pensieri%20nell%27ombra%208%20novembre%202021.png"
   ],
   "cover": 0,
-  "id": "il-teorema-dell-immenso"
+  "id": "pensieri-nell-ombra-8-novembre-2021"
  },
  {
-  "title": "Il ventitreesimo cromosoma",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
+  "title": "Pensieri nell'ombra 22 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"Gli occhi in ogni silenzio non smettono mai di parlare.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2022%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2022%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-22-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 20 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"Un odore improvviso ti riporta in un luogo dove puoi sentire ciò che non puoi più vedere.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2020%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2020%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-20-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 19 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"La mente può essere una stanza buia.<br>Ma la luce che filtra è l'esperienza.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2019%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2019%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-19-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 16 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"Il silenzio a volte annulla i sensi.<br>È lì che si comincia a sentire.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2016%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2016%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-16-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 15 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"La distanza è come la profondità del buio.<br>Ma la luce del cuore li riporta in superficie.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2015%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2015%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-15-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 11 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"Gli occhi chiusi vedono…<br>quando guardano col cuore.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2011%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2011%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-11-novembre-2021"
+ },
+ {
+  "title": "Pensieri nell'ombra 10 novembre 2021",
+  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Pensieri nell'ombra",
+   "2021"
+  ],
+  "desc": "\"Cerca la luce per far più chiarezza.<br>Ma poi è il buio ad attrarlo.\"",
+  "imgs": [
+   "img/opere/Pensieri%20nell%27ombra%2010%20novembre%202021_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pensieri%20nell%27ombra%2010%20novembre%202021.png"
+  ],
+  "cover": 0,
+  "id": "pensieri-nell-ombra-10-novembre-2021"
+ },
+ {
+  "title": "L'ombra della contraddizione",
+  "tech": "Acrilico su tela 80x100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
    "Destrutturalismo interiore",
    "2021"
   ],
-  "desc": "L'uomo e la donna sono identici fino a ventidue coppie di cromosomi.<br>È la ventitreesima quella che crea la diversità... appena 0,2 mm che catapultano l'uomo e la donna in due mondi totalmente opposti.<br>Quell'impercettibile lunghezza fa sì che Marte e Venere si attraggono e si respingono per l'irrazionale forza dell'amore e del desiderio.<br>Ma c'è una parte dentro ognuno di loro, in quell'abissale differenza, che li accomuna inconsapevolmente... li fa essere identici anche in quel cromosoma.<br>Se solo potessero leggersi dentro e trovare l'altra parte di sé, tutto combacerebbe fino alle perfezione.",
+  "desc": "Il bisogno d'amore a volte è oscurato dall'impulso insano della possessione.<br>Inconsciamente si desidera ciò che più si allontana.<br>E nello stesso tempo si respinge ciò che più si teme.<br>Lasciarsi andare a un sentimento puro è la virtù di chi è consapevole.<br>Lasciar sfumare tutto per paura crea menzogne e contraddizioni.",
   "imgs": [
-   "img/opere/Il%20ventitreesimo%20cromosoma_risultato.webp"
+   "img/opere/L%27ombra%20della%20contraddizione_risultato.webp"
   ],
   "big": [
-   "img/operePng/Il%20ventitreesimo%20cromosoma.png"
+   "img/operePng/L%27ombra%20della%20contraddizione.png"
   ],
   "cover": 0,
-  "id": "il-ventitreesimo-cromosoma"
- },
- {
-  "title": "Il vicolo cieco dell'amore",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2021"
-  ],
-  "desc": "La passione così come l'amore.<br>Crescono all'interno come una malattia da cui non si può guarire.<br>Possono gli occhi non guardare.<br>Le mani non toccare.<br>La pelle non sentire.<br>Ma quel frastuono che fa esplodere il cuore non troverà mai più la via d'uscita.",
-  "imgs": [
-   "img/opere/Il%20vicolo%20cieco%20dell%27amore_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20vicolo%20cieco%20dell%27amore.png"
-  ],
-  "cover": 0,
-  "id": "il-vicolo-cieco-dell-amore"
+  "id": "l-ombra-della-contraddizione"
  },
  {
   "title": "In fondo agli occhi",
@@ -1299,62 +1394,42 @@ const WORKS=[
   "id": "la-creazione-dell-osservatore"
  },
  {
-  "title": "La diffusione del silenzio nei sogni",
-  "tech": "Tecnica mista su tela 100 × 100cm, Anno 2021",
+  "title": "Il ventitreesimo cromosoma",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
    "Destrutturalismo interiore",
    "2021"
   ],
-  "desc": "Esiste una scena neutra nelle profondità dell'essere umano.<br>È quel vuoto senza gravità, che si propaga nel subconscio.<br>Lì, ogni desiderio prende forma.<br>Ogni pensiero dimenticato prende vita.<br>Tutto ciò che nella veglia vince sull'istinto, lì perde la ragione.<br>Non ci sono parole, né morale nei sogni.<br>C'è un flusso fluttuante che comunica, senza dover pensare a niente.<br>È quel flusso inesauribile che al mattino ti riporta in superficie.",
+  "desc": "L'uomo e la donna sono identici fino a ventidue coppie di cromosomi.<br>È la ventitreesima quella che crea la diversità... appena 0,2 mm che catapultano l'uomo e la donna in due mondi totalmente opposti.<br>Quell'impercettibile lunghezza fa sì che Marte e Venere si attraggono e si respingono per l'irrazionale forza dell'amore e del desiderio.<br>Ma c'è una parte dentro ognuno di loro, in quell'abissale differenza, che li accomuna inconsapevolmente... li fa essere identici anche in quel cromosoma.<br>Se solo potessero leggersi dentro e trovare l'altra parte di sé, tutto combacerebbe fino alle perfezione.",
   "imgs": [
-   "img/opere/La%20diffusione%20del%20silenzio%20nei%20sogni_risultato.webp"
+   "img/opere/Il%20ventitreesimo%20cromosoma_risultato.webp"
   ],
   "big": [
-   "img/operePng/La%20diffusione%20del%20silenzio%20nei%20sogni.png"
+   "img/operePng/Il%20ventitreesimo%20cromosoma.png"
   ],
   "cover": 0,
-  "id": "la-diffusione-del-silenzio-nei-sogni"
+  "id": "il-ventitreesimo-cromosoma"
  },
  {
-  "title": "La metafisica dei sogni",
-  "tech": "Acrilico su tela 80 × 100cm, Anno 2021",
+  "title": "Il vicolo cieco dell'amore",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Metafisica delle ombre",
+   "Destrutturalismo interiore",
    "2021"
   ],
-  "desc": "Quest' opera è frutto di un sogno.<br>Un' immagine onirica puramente dettata dal subconscio..<br>L'ho fatto alcune notti fa.<br><br>Nel sogno mio padre mi ha lasciato solo per la strada e ho cercato più volte di chiamarlo ma ha continuato ad ignorarmi.<br>Tornando a casa ho visto mia madre svuotare completamente la stanza, lasciando solo due sedie intorno al tavolo e la terza vicino all'uscio della porta..<br><br>Se dovessi analizzarlo penserei che in quel sogno è emerso pienamente il senso dell'abbandono.<br>Mio padre è scomparso ormai quasi tredici anni fa e probabilmente è proprio quello che si prova quando alcune perdite non vengono elaborate.<br>Ma quando l'ho raccontato a mia madre mi ha dato forse la spiegazione più giusta.<br>Ovvero quella di vedere quel sogno come un segnale positivo.<br>L'inconscia necessità di arrivare all'accettazione.<br>La consapevolezza che tutte le persone che perdiamo devono essere lasciate andare e che quello che lasciano è la ricchezza che abbiamo assorbito quando erano ancora qui su questa terra.<br>Di tanto in tanto si incontrano nei sogni ma da questo lato dell'universo la vita va sempre avanti.<br><br>Dedico quest' opera a mio padre e a tutti coloro che hanno perso qualcuno con la speranza che sappiano prima o poi lasciarli andare.",
+  "desc": "La passione così come l'amore.<br>Crescono all'interno come una malattia da cui non si può guarire.<br>Possono gli occhi non guardare.<br>Le mani non toccare.<br>La pelle non sentire.<br>Ma quel frastuono che fa esplodere il cuore non troverà mai più la via d'uscita.",
   "imgs": [
-   "img/opere/La%20metafisica%20dei%20sogni_risultato.webp"
+   "img/opere/Il%20vicolo%20cieco%20dell%27amore_risultato.webp"
   ],
   "big": [
-   "img/operePng/La%20metafisica%20dei%20sogni.png"
+   "img/operePng/Il%20vicolo%20cieco%20dell%27amore.png"
   ],
   "cover": 0,
-  "id": "la-metafisica-dei-sogni"
- },
- {
-  "title": "La strada di ognuno",
-  "tech": "Tecnica mista su tela 100×80cm, 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Memory&Tremor",
-   "Metafisica delle ombre",
-   "2021"
-  ],
-  "desc": "C'è un mondo ancora fermo.<br>Nascosto nell'ombra.<br>Incerto.<br>Ma c'è un mondo che cammina nella stessa direzione.<br>È quel mondo che gira su se stesso ma non trova il giorno.<br>Smarrito nel buio è affamato di luce.<br>È quel mondo che vuole smettere di girare.<br>E di incamminarsi verso una luce che gli fa da guida.<br>Quella luce che riflette a terra e batte negli occhi.<br>Quella luce dopo un temporale.",
-  "imgs": [
-   "img/opere/La%20strada%20di%20ognuno_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20strada%20di%20ognuno.png"
-  ],
-  "cover": 0,
-  "id": "la-strada-di-ognuno"
+  "id": "il-vicolo-cieco-dell-amore"
  },
  {
   "title": "La terapia del cuore",
@@ -1376,6 +1451,25 @@ const WORKS=[
   "id": "la-terapia-del-cuore"
  },
  {
+  "title": "L'odore di quell'attimo prima",
+  "tech": "Tecnica mista su tela 90 × 90cm, Anno 2021",
+  "dim": "",
+  "year": "2021",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2021"
+  ],
+  "desc": "È la fusione di battiti percepiti attraverso la pelle.<br>È uno sfiorarsi appena, poco prima di invadersi.<br>È quell'istante che precede un totale abbandono.<br>E l'aria sa di loro.<br>È quell'odore fatto di mani.. di calore.<br>e di vertigini.",
+  "imgs": [
+   "img/opere/L%27odore%20di%20quell%27attimo%20prima_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27odore%20di%20quell%27attimo%20prima.png"
+  ],
+  "cover": 0,
+  "id": "l-odore-di-quell-attimo-prima"
+ },
+ {
   "title": "L'altra versione di sé",
   "tech": "Acrilico su tela 60×80cm, Anno 2021",
   "dim": "",
@@ -1395,23 +1489,23 @@ const WORKS=[
   "id": "l-altra-versione-di-se"
  },
  {
-  "title": "Le luci dei pensieri nell'ombra",
-  "tech": "Tecnica mista su tela 70×100cm, Anno 2021",
+  "title": "Il ciclo enigmatico del tempo",
+  "tech": "Acrilico su tela 100x80 cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
    "Metafisica delle ombre",
    "2021"
   ],
-  "desc": "Esiste una strada in ognuno di noi che non ha né inizio, né fine.<br>È un selciato scuro e dissestato.<br>Lì camminano tutti quei pensieri che si perdono nel buio.<br>Ma l'uomo non è nato per vagare nell'ignoto.<br>Ha bisogno di vedere e di sentire tutto con chiarezza.<br>E succede proprio su quella strada.<br>Dove dei piccoli riflessi di luce mostrano vagamente quel percorso.<br>E tutto pian piano si dirige nella giusta direzione.",
+  "desc": "Un concetto astratto il tempo. Un rebus che si ripete all'infinito,  una dimensione che non ha confini ma che a volte intrappola i minuti in un'eternità.",
   "imgs": [
-   "img/opere/Le%20luci%20dei%20pensieri%20nell%27ombra_risultato.webp"
+   "img/opere/Il%20ciclo%20enigmatico%20del%20tempo_risultato.webp"
   ],
   "big": [
-   "img/operePng/Le%20luci%20dei%20pensieri%20nell%27ombra.png"
+   "img/operePng/Il%20ciclo%20enigmatico%20del%20tempo.png"
   ],
   "cover": 0,
-  "id": "le-luci-dei-pensieri-nell-ombra"
+  "id": "il-ciclo-enigmatico-del-tempo"
  },
  {
   "title": "Lo specchio dell'artista",
@@ -1434,349 +1528,100 @@ const WORKS=[
   "id": "lo-specchio-dell-artista"
  },
  {
-  "title": "L'odore di quell'attimo prima",
-  "tech": "Tecnica mista su tela 90 × 90cm, Anno 2021",
+  "title": "Il teorema dell'immenso",
+  "tech": "Tecnica mista su tela 100x80cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Destrutturalismo interiore",
+   "Metafisica delle ombre",
    "2021"
   ],
-  "desc": "È la fusione di battiti percepiti attraverso la pelle.<br>È uno sfiorarsi appena, poco prima di invadersi.<br>È quell'istante che precede un totale abbandono.<br>E l'aria sa di loro.<br>È quell'odore fatto di mani.. di calore.<br>e di vertigini.",
+  "desc": "Il punto di prospettiva è tracciato per far si che chi guarda lo fa dall'angolo opposto della stanza,<br>come se realmente stesse occupando uno spazio lì dentro.<br>Osservando in disparte la scena, senza disturbare la figura di quell'uomo di spalle.<br>Ma nello stesso tempo chi osserva non è escluso da ciò che sta vedendo, semplicemente perché lo sta vivendo.<br>Interagisce con la sua presenza e con la sua vista, conscio di essere parte integrante di quel tutto che lega in maniera indissolubile tutti noi all'immensità dell'universo.<br><br>La vita è un ciclo continuo<br>In un susseguirsi di cambiamenti naturali.<br>È un percorso che non ha né inizio, né fine.<br>Siamo fatti della stessa materia dell'universo.<br>E la luce naturale di un tramonto che svanisce si riaccende nella luce artificiale dietro una porta socchiusa.<br>E quel pò di luce diventa più intensa di un qualsiasi sconfinante buio.<br>Tutto infinitamente prosegue come energia che si trasforma.<br>Se il seme genera l'uomo è poi l'uomo stesso a proteggere il seme dentro di sé.<br>E a generarlo ancora.",
   "imgs": [
-   "img/opere/L%27odore%20di%20quell%27attimo%20prima_risultato.webp"
+   "img/opere/Il%20teorema%20dell%27immenso_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27odore%20di%20quell%27attimo%20prima.png"
+   "img/operePng/Il%20teorema%20dell%27immenso.png"
   ],
   "cover": 0,
-  "id": "l-odore-di-quell-attimo-prima"
+  "id": "il-teorema-dell-immenso"
  },
  {
-  "title": "L'ombra della contraddizione",
-  "tech": "Acrilico su tela 80x100cm, Anno 2021",
+  "title": "La strada di ognuno",
+  "tech": "Tecnica mista su tela 100×80cm, 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Destrutturalismo interiore",
+   "Memory&Tremor",
+   "Metafisica delle ombre",
    "2021"
   ],
-  "desc": "Il bisogno d'amore a volte è oscurato dall'impulso insano della possessione.<br>Inconsciamente si desidera ciò che più si allontana.<br>E nello stesso tempo si respinge ciò che più si teme.<br>Lasciarsi andare a un sentimento puro è la virtù di chi è consapevole.<br>Lasciar sfumare tutto per paura crea menzogne e contraddizioni.",
+  "desc": "C'è un mondo ancora fermo.<br>Nascosto nell'ombra.<br>Incerto.<br>Ma c'è un mondo che cammina nella stessa direzione.<br>È quel mondo che gira su se stesso ma non trova il giorno.<br>Smarrito nel buio è affamato di luce.<br>È quel mondo che vuole smettere di girare.<br>E di incamminarsi verso una luce che gli fa da guida.<br>Quella luce che riflette a terra e batte negli occhi.<br>Quella luce dopo un temporale.",
   "imgs": [
-   "img/opere/L%27ombra%20della%20contraddizione_risultato.webp"
+   "img/opere/La%20strada%20di%20ognuno_risultato.webp"
   ],
   "big": [
-   "img/operePng/L%27ombra%20della%20contraddizione.png"
+   "img/operePng/La%20strada%20di%20ognuno.png"
   ],
   "cover": 0,
-  "id": "l-ombra-della-contraddizione"
+  "id": "la-strada-di-ognuno"
  },
  {
-  "title": "Pensieri nell'ombra 10 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
+  "title": "La metafisica dei sogni",
+  "tech": "Acrilico su tela 80 × 100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Pensieri nell'ombra",
+   "Metafisica delle ombre",
    "2021"
   ],
-  "desc": "\"Cerca la luce per far più chiarezza.<br>Ma poi è il buio ad attrarlo.\"",
+  "desc": "Quest' opera è frutto di un sogno.<br>Un' immagine onirica puramente dettata dal subconscio..<br>L'ho fatto alcune notti fa.<br><br>Nel sogno mio padre mi ha lasciato solo per la strada e ho cercato più volte di chiamarlo ma ha continuato ad ignorarmi.<br>Tornando a casa ho visto mia madre svuotare completamente la stanza, lasciando solo due sedie intorno al tavolo e la terza vicino all'uscio della porta..<br><br>Se dovessi analizzarlo penserei che in quel sogno è emerso pienamente il senso dell'abbandono.<br>Mio padre è scomparso ormai quasi tredici anni fa e probabilmente è proprio quello che si prova quando alcune perdite non vengono elaborate.<br>Ma quando l'ho raccontato a mia madre mi ha dato forse la spiegazione più giusta.<br>Ovvero quella di vedere quel sogno come un segnale positivo.<br>L'inconscia necessità di arrivare all'accettazione.<br>La consapevolezza che tutte le persone che perdiamo devono essere lasciate andare e che quello che lasciano è la ricchezza che abbiamo assorbito quando erano ancora qui su questa terra.<br>Di tanto in tanto si incontrano nei sogni ma da questo lato dell'universo la vita va sempre avanti.<br><br>Dedico quest' opera a mio padre e a tutti coloro che hanno perso qualcuno con la speranza che sappiano prima o poi lasciarli andare.",
   "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2010%20novembre%202021_risultato.webp"
+   "img/opere/La%20metafisica%20dei%20sogni_risultato.webp"
   ],
   "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2010%20novembre%202021.png"
+   "img/operePng/La%20metafisica%20dei%20sogni.png"
   ],
   "cover": 0,
-  "id": "pensieri-nell-ombra-10-novembre-2021"
+  "id": "la-metafisica-dei-sogni"
  },
  {
-  "title": "Pensieri nell'ombra 11 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"Gli occhi chiusi vedono…<br>quando guardano col cuore.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2011%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2011%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-11-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 15 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"La distanza è come la profondità del buio.<br>Ma la luce del cuore li riporta in superficie.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2015%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2015%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-15-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 16 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"Il silenzio a volte annulla i sensi.<br>È lì che si comincia a sentire.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2016%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2016%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-16-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 19 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"La mente può essere una stanza buia.<br>Ma la luce che filtra è l'esperienza.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2019%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2019%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-19-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 20 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"Un odore improvviso ti riporta in un luogo dove puoi sentire ciò che non puoi più vedere.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2020%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2020%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-20-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 22 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"Gli occhi in ogni silenzio non smettono mai di parlare.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%2022%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%2022%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-22-novembre-2021"
- },
- {
-  "title": "Pensieri nell'ombra 8 novembre 2021",
-  "tech": "Acrilico su cartoncino telato 30×40cm, Anno 2021",
-  "dim": "",
-  "year": "2021",
-  "tags": [
-   "Pensieri nell'ombra",
-   "2021"
-  ],
-  "desc": "\"Vuole quello che ha... <br>ma le manca quello che aveva.\"",
-  "imgs": [
-   "img/opere/Pensieri%20nell%27ombra%208%20novembre%202021_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Pensieri%20nell%27ombra%208%20novembre%202021.png"
-  ],
-  "cover": 0,
-  "id": "pensieri-nell-ombra-8-novembre-2021"
- },
- {
-  "title": "Riflessioni vaganti",
+  "title": "Il pudore di Venere",
   "tech": "Tecnica mista su tela 80×100cm, Anno 2021",
   "dim": "",
   "year": "2021",
   "tags": [
-   "Metafisica delle ombre",
+   "Destrutturalismo interiore",
    "2021"
   ],
-  "desc": "Un deserto a volte può essere anche fatto di asfalto.<br>Non servono enormi e sconfinate distese per la necessità di essere soli.<br>Non servono spazi vuoti per rimanere in disparte a pensare.<br>I nostri universi interiori emergono in un luogo non luogo.<br>Dove il cammino si estende distruggendo ogni geometria.<br>E ogni angolo si riempie di una profonda riflessione.",
+  "desc": "Questa è stata la prima opera del 2021.<br>Ho voluto riproporla perché erano più di due mesi che me la trovavo davanti e c'era qualcosa che mi disturbava di continuo.<br>Non so esattamente cosa... qualcosa di sbagliato, di non completo... e c'ho voluto rimettere mano... e oggi guardandola finalmente mi ha detto basta.",
   "imgs": [
-   "img/opere/Riflessioni%20vaganti_risultato.webp"
+   "img/opere/Il%20pudore%20di%20Venere_risultato.webp"
   ],
   "big": [
-   "img/operePng/Riflessioni%20vaganti.png"
+   "img/operePng/Il%20pudore%20di%20Venere.png"
   ],
   "cover": 0,
-  "id": "riflessioni-vaganti"
+  "id": "il-pudore-di-venere"
  },
  {
-  "title": "Crepuscolo urbano",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "title": "I malintesi di Marte e Venere",
+  "tech": "Acrilico su tela 80×100cm, Anno 2021",
   "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "Deserti urbani",
-   "2020"
-  ],
-  "desc": "Si schiarisce il cielo dopo un pò di pioggia.<br>Il sole scompare tra i palazzi e l'orizzonte.<br>A terra il riflesso bagnato di chi continua a cercare ancora.",
-  "imgs": [
-   "img/opere/Crepuscolo%20urbano_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Crepuscolo%20urbano.png"
-  ],
-  "cover": 0,
-  "id": "crepuscolo-urbano"
- },
- {
-  "title": "Deserti urbani",
-  "tech": "Acrilico su tela 80×60cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "Deserti urbani",
-   "2020"
-  ],
-  "desc": "Intere città private della presenza degli uomini, illuminate da lampioni che riflettono su strade vuote, mantengono però quel fascino urbano non occultato dalla confusione della gente. Un atipico e surreale silenzio volteggia tra quei vicoli e palazzi.",
-  "imgs": [
-   "img/opere/Deserti%20urbani_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Deserti%20urbani.png"
-  ],
-  "cover": 0,
-  "id": "deserti-urbani"
- },
- {
-  "title": "Dopo la tempesta",
-  "tech": "Acrilico su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "Deserti urbani",
-   "2020"
-  ],
-  "desc": "Strade semideserte messe in ombra dal temporale riprendono luce non appena il cielo schiarisce e i riflessi del terreno bagnato riaccendono i colori.",
-  "imgs": [
-   "img/opere/Dopo%20la%20tempesta_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Dopo%20la%20tempesta.png"
-  ],
-  "cover": 0,
-  "id": "dopo-la-tempesta"
- },
- {
-  "title": "Flashmob",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "2020"
-  ],
-  "desc": "Nel distanziamento del mondo ognuno crea il suo piccolo universo, un'aggregazione non fisica al momento ma che assembra un pensiero comune di speranza nella ricerca instancabile di una via d'uscita. La risorsa innata di reinventarsi, la naturale propensione ad insinuare la vita.",
-  "imgs": [
-   "img/opere/Flashmob_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Flashmob.png"
-  ],
-  "cover": 0,
-  "id": "flashmob"
- },
- {
-  "title": "Forza interiore",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
+  "year": "2021",
   "tags": [
    "Destrutturalismo interiore",
-   "2020"
+   "2021"
   ],
-  "desc": "Trasuda dal suo sguardo tutta la sua energia, enigma e carisma si fondono. Come forza di gravità attrae uno sguardo e sollecita a un istinto di piacere.",
+  "desc": "Due mondi divergenti<br>Due poli opposti.<br>Due divinità.<br>Da sempre l'uno è la completezza dell'altro.<br>Da sempre si scontrano tra equivoci e incomprensioni.<br>Una riflessiva e quasi rassegnata Venere sogna costantemente l'idea di un amore totale...universale...inconfutabile.<br>Un pensieroso e combattuto Marte.<br>Lui che è Dio della guerra si sente all'improvviso vulnerabile se il suo duellante è se stesso... se deve combattere le sue fragilità.",
   "imgs": [
-   "img/opere/Forza%20interiore_risultato.webp"
+   "img/opere/I%20malintesi%20di%20Marte%20e%20Venere_risultato.webp"
   ],
   "big": [
-   "img/operePng/Forza%20interiore.png"
+   "img/operePng/I%20malintesi%20di%20Marte%20e%20Venere.png"
   ],
   "cover": 0,
-  "id": "forza-interiore"
- },
- {
-  "title": "Fuori dalla tempesta",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "In quella tempesta interiore fatta di fango e repressione esce ancora sporca di ciò che si è trascinata dentro. Ma c'è bel tempo al di là di quei pensieri…",
-  "imgs": [
-   "img/opere/Fuori%20dalla%20tempesta_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Fuori%20dalla%20tempesta.png"
-  ],
-  "cover": 0,
-  "id": "fuori-dalla-tempesta"
- },
- {
-  "title": "Gli amanti",
-  "tech": "Tecnica mista su tela 80×120cm - gesso a spatola e acrilico, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Piacevole e fugace ossessione.<br>Mi togli il sonno al mattino.<br>Quando immagino il tuo corpo<br>muoversi su di me.<br>Odori acri e dolciastri dalla finestra<br>riempiono la stanza e sanno di te.<br>Della tua pelle.<br>Sudore e polvere.<br>E smanio tra le lenzuola sciupate.<br>Vibrazioni che trascendono.<br>Che esplodono ovunque.<br>Tra un delicato tatto<br>e un fremente toccare.",
-  "imgs": [
-   "img/opere/Gli%20amanti_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Gli%20amanti.png"
-  ],
-  "cover": 0,
-  "id": "gli-amanti"
+  "id": "i-malintesi-di-marte-e-venere"
  },
  {
   "title": "Il contrappasso della coscienza",
@@ -1798,6 +1643,25 @@ const WORKS=[
   "id": "il-contrappasso-della-coscienza"
  },
  {
+  "title": "L'angolo nascosto di un desiderio",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nascosta in un angolo<br>tra una leggera luce<br>e l'oscuro segreto delle sue passioni<br>avverte l'improvviso bisogno di denudarsi.<br>Il calore che gradualmente sale rende scomodi quegli indumenti.<br>Quasi con imbarazzo scopre la sua pelle<br>lontana da ogni sguardo irriverente.<br>Ciò che vorrebbe non è lì.<br>Ma la sua mente si è già impadronita di lei.",
+  "imgs": [
+   "img/opere/L%27angolo%20nascosto%20di%20un%20desiderio_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27angolo%20nascosto%20di%20un%20desiderio.png"
+  ],
+  "cover": 0,
+  "id": "l-angolo-nascosto-di-un-desiderio"
+ },
+ {
   "title": "Il dualismo di Afrodite",
   "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
   "dim": "",
@@ -1815,177 +1679,6 @@ const WORKS=[
   ],
   "cover": 0,
   "id": "il-dualismo-di-afrodite"
- },
- {
-  "title": "Il mondo fuori",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "In un mondo surrealmente vuoto, dove la vita sembra essersi fermata, le timide ombre dell'uomo avanzano in quel fatiscente teatro cercando di raggiungere una luce che sveli i loro volti.",
-  "imgs": [
-   "img/opere/Il%20mondo%20fuori_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20mondo%20fuori.png"
-  ],
-  "cover": 0,
-  "id": "il-mondo-fuori"
- },
- {
-  "title": "Il ponte di Einstein-Rosen",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "2020"
-  ],
-  "desc": "C'è un luogo dove non c'è il tempo... è quella scorciatoia che va da un universo all'altro.",
-  "imgs": [
-   "img/opere/Il%20ponte%20di%20Einstein-Rosen_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20ponte%20di%20Einstein-Rosen.png"
-  ],
-  "cover": 0,
-  "id": "il-ponte-di-einstein-rosen"
- },
- {
-  "title": "Il portico",
-  "tech": "Acrilico su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "Deserti urbani",
-   "2020"
-  ],
-  "desc": "La vita scorre come onde invisibile, come aria tra le fessure e le colonne. Si aggroviglia tra gli esseri e crea in modo perpetuo scambi continui di energia.",
-  "imgs": [
-   "img/opere/Il%20portico_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20portico.png"
-  ],
-  "cover": 0,
-  "id": "il-portico"
- },
- {
-  "title": "Il pudore di Venere",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Questa è stata la prima opera del 2021.<br>Ho voluto riproporla perché erano più di due mesi che me la trovavo davanti e c'era qualcosa che mi disturbava di continuo.<br>Non so esattamente cosa... qualcosa di sbagliato, di non completo... e c'ho voluto rimettere mano... e oggi guardandola finalmente mi ha detto basta.",
-  "imgs": [
-   "img/opere/Il%20pudore%20di%20Venere_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20pudore%20di%20Venere.png"
-  ],
-  "cover": 0,
-  "id": "il-pudore-di-venere"
- },
- {
-  "title": "Il sipario della mente",
-  "tech": "Tecnica mista su tela 100×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Puoi nascondere ogni segreto, ogni verità, ogni tuo profondo turbamento.<br>Dietro il sipario della mente c'è un mondo che emerge attraverso gli occhi.<br>Ogni vibrazione, emozione o sentimento perdono qualsiasi nascondiglio.<br>Le emozioni non hanno né parola né fisionomia.<br>Si identificano nella luce di uno sguardo.",
-  "imgs": [
-   "img/opere/Il%20sipario%20della%20mente_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20sipario%20della%20mente.png"
-  ],
-  "cover": 0,
-  "id": "il-sipario-della-mente"
- },
- {
-  "title": "Il vincolo di un pensiero comune",
-  "tech": "Acrilico su tela 70×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Racchiusi ognuno in un pensiero diverso, gli uomini si ritrovano tutti nel soffocante vincolo della restrizione quando non riescono ad esternare ciò che provano.",
-  "imgs": [
-   "img/opere/Il%20vincolo%20di%20un%20pensiero%20comune_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Il%20vincolo%20di%20un%20pensiero%20comune.png"
-  ],
-  "cover": 0,
-  "id": "il-vincolo-di-un-pensiero-comune"
- },
- {
-  "title": "Indomabile naturalezza",
-  "tech": "Acrilico su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "2020"
-  ],
-  "desc": "L'uomo può mascherare le sue fragilità ma non le proprie emozioni. Può invano tentare di contrastare il corso degli eventi ma la natura fa sempre il suo corso e non si può fermare in nessun modo.",
-  "imgs": [
-   "img/opere/Indomabile%20naturalezza_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Indomabile%20naturalezza.png"
-  ],
-  "cover": 0,
-  "id": "indomabile-naturalezza"
- },
- {
-  "title": "La dea dell'incertezza",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Nel piu profondo lotta col suo dualismo che separa mente e corpo.<br>Incarna la passione di Afrodite e la discordia di Eris.<br>Lottano le due dee nel suo cuore.<br>Dove vorrebbe abbandonarsi al suo pensiero.<br>Ma gli ostacoli della ragione soffocano ogni desiderio.<br>È una divinità, ma sopratutto è una donna.<br>Anche una dea ha i suoi eterni dubbi.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo.",
-  "imgs": [
-   "img/opere/La%20dea%20dell%27incertezza_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20dea%20dell%27incertezza.png"
-  ],
-  "cover": 0,
-  "id": "la-dea-dell-incertezza"
- },
- {
-  "title": "La dilatazione del tempo",
-  "tech": "Acrilico su tela 60×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "2020"
-  ],
-  "desc": "La scala traballante della vita sospesa si proietta in una frattura spazio temporale dove i secondi, i minuti, le ore, i giorni sono relativi a un tempo momentaneamente fermo.",
-  "imgs": [
-   "img/opere/La%20dilatazione%20del%20tempo_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20dilatazione%20del%20tempo.png"
-  ],
-  "cover": 0,
-  "id": "la-dilatazione-del-tempo"
  },
  {
   "title": "La dissolvenza dei ricordi",
@@ -2007,158 +1700,6 @@ const WORKS=[
   "id": "la-dissolvenza-dei-ricordi"
  },
  {
-  "title": "La fusione di un respiro",
-  "tech": "Tecnica mista su tela 80×100cm - gesso e pasta di cartapesta a spatola e acrilico, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Nel sibilo di un respiro c'è tutta la vita.<br>La vicinanza del fuoco umano, il fiato tremolante di chi ti vuole accanto.<br>Il respiro si fonde in un'unica fonte di odori e desiderio... in un sincronismo simbiotico fatto di calore.<br>In quell'istante quel respiro è indivisibile.<br>Niente e nessuno può attraversarlo.",
-  "imgs": [
-   "img/opere/La%20fusione%20di%20un%20respiro_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20fusione%20di%20un%20respiro.png"
-  ],
-  "cover": 0,
-  "id": "la-fusione-di-un-respiro"
- },
- {
-  "title": "La metafisica della riflessione",
-  "tech": "Acrilico su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "La riflessione è la conseguenza di un fatto accaduto o di una scelta da fare, o di una scelta già fatta nel modo sbagliato.<br>Tutto questo è veicolato da un pensiero razionale.<br>Ma quando la mente elabora un pensiero o un idea non basandosi su un'esperienza vissuta, allora tutto questo diventa percezione... la percezione assoluta della realtà... l'intuizione priva di fondamento.<br>Il sapere non conscio della nostra intimità... la vera essenza della nostra interiorità.",
-  "imgs": [
-   "img/opere/La%20metafisica%20della%20riflessione_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20metafisica%20della%20riflessione.png"
-  ],
-  "cover": 0,
-  "id": "la-metafisica-della-riflessione"
- },
- {
-  "title": "La terra dei sogni frammentati",
-  "tech": "Tecnica mista su tela 80×120cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Memory&Tremor",
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "C'è un luogo tra la veglia e il sonno che genera visioni... ma non è il dormire.<br>Un sogno ha colori neutri perché la mente non li riconosce, non distingue ciò che è reale da ciò che sta vivendo.<br>Tratti del viso nascosti danno comunque un'identità a quella visione perché solo nel profondo si è consci davvero di ciò che ci scuote l'anima.<br>E in quella terra lontana riconosciamo i nostri vividi sogni.",
-  "imgs": [
-   "img/opere/La%20terra%20dei%20sogni%20frammentati_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/La%20terra%20dei%20sogni%20frammentati.png"
-  ],
-  "cover": 0,
-  "id": "la-terra-dei-sogni-frammentati"
- },
- {
-  "title": "L'abbandono di un abbraccio",
-  "tech": "Acrilico su tela 80×120cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Abbracciami anima vibrante.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo...",
-  "imgs": [
-   "img/opere/L%27abbandono%20di%20un%20abbraccio_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27abbandono%20di%20un%20abbraccio.png"
-  ],
-  "cover": 0,
-  "id": "l-abbandono-di-un-abbraccio"
- },
- {
-  "title": "L'angolo nascosto di un desiderio",
-  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Nascosta in un angolo<br>tra una leggera luce<br>e l'oscuro segreto delle sue passioni<br>avverte l'improvviso bisogno di denudarsi.<br>Il calore che gradualmente sale rende scomodi quegli indumenti.<br>Quasi con imbarazzo scopre la sua pelle<br>lontana da ogni sguardo irriverente.<br>Ciò che vorrebbe non è lì.<br>Ma la sua mente si è già impadronita di lei.",
-  "imgs": [
-   "img/opere/L%27angolo%20nascosto%20di%20un%20desiderio_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27angolo%20nascosto%20di%20un%20desiderio.png"
-  ],
-  "cover": 0,
-  "id": "l-angolo-nascosto-di-un-desiderio"
- },
- {
-  "title": "Le stanze della memoria",
-  "tech": "Acrilico su tela 80×100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "2020"
-  ],
-  "desc": "L'uomo: essere imperfetto. Ma dotato di una straordinaria capacità interiore.<br>Contiene la sua memoria ben custodita nel tempo. I ricordi di tutta una vita.<br>Ma a volte la memoria fa male...<br>lo rispedisce in quel preciso istante e per difendersi fa finta di niente.<br>Ma la memoria persiste e attraversa ogni stanza della mente come acqua attraverso i chiavistelli.<br>Bisogna avere coscienza di quella memoria per superare i limiti...<br>solo lì si torna a vivere davvero.",
-  "imgs": [
-   "img/opere/Le%20stanze%20della%20memoria_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Le%20stanze%20della%20memoria.png"
-  ],
-  "cover": 0,
-  "id": "le-stanze-della-memoria"
- },
- {
-  "title": "L'empatia dissonante",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "C'è un immenso divario che di continuo aumenta le distanze tra chi ha desideri e pensieri discordanti.<br>È quella scura zona d'ombra che separa i pensieri empatici e li spinge in direzioni opposte.<br>È il desiderio crescente di ciò che non puoi avere.",
-  "imgs": [
-   "img/opere/L%27empatia%20dissonante_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27empatia%20dissonante.png"
-  ],
-  "cover": 0,
-  "id": "l-empatia-dissonante"
- },
- {
-  "title": "L'invisibile muro della restrizione",
-  "tech": "quadrittico acrilico e matite acquarellabili su Bristol, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "2020"
-  ],
-  "desc": "In un mondo dove la libertà estrema sbrana e consuma avidamente la natura, la natura stessa (o chi per lei) ha deciso di fermarci...forse per punirci, forse per farci riflettere, forse per ricordarci che siamo fragili e malleabili e modellabili a suo piacimento.<br>L'essere umano si muove esso stesso come un virus ad infettare il mondo con l'ipocrisia, la superbia, l'immoralità, la cattiveria, l'arroganza, la superficialità, la non curanza ed è proprio un virus a fermarci o chi ha ben pensato di crearlo.<br>Quel virus o quel qualcuno sono nemici invisibili che si insidiano non solo nel corpo ma anche nella nostra mente ma se l'uomo riconosce in sé quell'unicità, quella forza della coesione e quell'energia universale che ci lega, tutto potrà passare. Perché tutti insieme siamo uno scudo fatto di calore e di emozioni e il calore brucia tutto ciò che è insidioso e negativo.<br>Questo è un tributo a chi sta male in questo momento, a chi non ce l'ha fatta, alle loro famiglie, ai medici e all'estremo sacrificio che stanno facendo, a tutti coloro che lottano e credono che presto ci libereremo da questa prigione invisibile.",
-  "imgs": [
-   "img/opere/L%27invisibile%20muro%20della%20restrizione_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/L%27invisibile%20muro%20della%20restrizione.png"
-  ],
-  "cover": 0,
-  "id": "l-invisibile-muro-della-restrizione"
- },
- {
   "title": "L'ombra dei sussurri",
   "tech": "Acrilico su tela 80×100cm, Anno 2020",
   "dim": "",
@@ -2178,61 +1719,23 @@ const WORKS=[
   "id": "l-ombra-dei-sussurri"
  },
  {
-  "title": "Pierrot",
-  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "title": "Pensieri bagnati",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
   "dim": "",
   "year": "2020",
   "tags": [
-   "Destrutturalismo interiore",
+   "Deserti urbani",
    "2020"
   ],
-  "desc": "Pierrot è l'unica maschera che non indossa maschere... <br>le sue emozioni sono sempre espressamente chiare sul suo viso.",
+  "desc": "È ancora evanescente l'orizzonte che si intravede sul percorso dell'uomo.<br>Indistinguibile e con luci e strutture fatiscenti tutto ciò che ha intorno.<br>Passo dopo passo cammina ancora incerto osservando la sua ombra riflessa, bagnata e distorta, proprio come i suoi pensieri.",
   "imgs": [
-   "img/opere/Pierrot_risultato.webp"
+   "img/opere/Pensieri%20bagnati_risultato.webp"
   ],
   "big": [
-   "img/operePng/Pierrot.png"
+   "img/operePng/Pensieri%20bagnati.png"
   ],
   "cover": 0,
-  "id": "pierrot"
- },
- {
-  "title": "Scacco matto",
-  "tech": "Acrilico su tela 100×80cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Metafisica delle ombre",
-   "2020"
-  ],
-  "desc": "L'essere misterioso che esercita il potere sul genere umano gioca una partita dove gli uomini sono solo pedine ed è sempre lui a decidere le regole. A noi non resta che ribellarsi al gioco.",
-  "imgs": [
-   "img/opere/Scacco%20matto_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Scacco%20matto.png"
-  ],
-  "cover": 0,
-  "id": "scacco-matto"
- },
- {
-  "title": "Segreti sfumati",
-  "tech": "Acrilico su tela 100x100cm, Anno 2020",
-  "dim": "",
-  "year": "2020",
-  "tags": [
-   "Destrutturalismo interiore",
-   "2020"
-  ],
-  "desc": "Trascorrono le tue ore, i tuoi giorni.<br>Ti abbandoni al canonico Muoversi della tua vita.<br>Sfumano nelle tue viscere gli attimi di una passione travolgente.<br>Ciò che ti ha reso viva diversamente.<br>Quel segreto, la notte, si insinua tra la veglia e il sonno.<br>E il tuo corpo, al mattino, rivive quell'attimo.<br>Passando come un brivido sulla tua pelle.",
-  "imgs": [
-   "img/opere/Segreti%20sfumati_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Segreti%20sfumati.png"
-  ],
-  "cover": 0,
-  "id": "segreti-sfumati"
+  "id": "pensieri-bagnati"
  },
  {
   "title": "Sogni lucidi",
@@ -2254,23 +1757,99 @@ const WORKS=[
   "id": "sogni-lucidi"
  },
  {
-  "title": "Spinti al coraggio",
-  "tech": "Acrilico su tela 80x100cm, Anno 2020",
+  "title": "La metafisica della riflessione",
+  "tech": "Acrilico su tela 80×100cm, Anno 2020",
   "dim": "",
   "year": "2020",
   "tags": [
-   "Metafisica delle ombre",
+   "Destrutturalismo interiore",
    "2020"
   ],
-  "desc": "La forza interiore dell'uomo è così immensa da poter spingere i più fragili ad andare avanti... <br>ad affacciarsi con coraggio nell'ignoto.",
+  "desc": "La riflessione è la conseguenza di un fatto accaduto o di una scelta da fare, o di una scelta già fatta nel modo sbagliato.<br>Tutto questo è veicolato da un pensiero razionale.<br>Ma quando la mente elabora un pensiero o un idea non basandosi su un'esperienza vissuta, allora tutto questo diventa percezione... la percezione assoluta della realtà... l'intuizione priva di fondamento.<br>Il sapere non conscio della nostra intimità... la vera essenza della nostra interiorità.",
   "imgs": [
-   "img/opere/Spinti%20al%20coraggio_risultato.webp"
+   "img/opere/La%20metafisica%20della%20riflessione_risultato.webp"
   ],
   "big": [
-   "img/operePng/Spinti%20al%20coraggio.png"
+   "img/operePng/La%20metafisica%20della%20riflessione.png"
   ],
   "cover": 0,
-  "id": "spinti-al-coraggio"
+  "id": "la-metafisica-della-riflessione"
+ },
+ {
+  "title": "L'empatia dissonante",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "C'è un immenso divario che di continuo aumenta le distanze tra chi ha desideri e pensieri discordanti.<br>È quella scura zona d'ombra che separa i pensieri empatici e li spinge in direzioni opposte.<br>È il desiderio crescente di ciò che non puoi avere.",
+  "imgs": [
+   "img/opere/L%27empatia%20dissonante_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27empatia%20dissonante.png"
+  ],
+  "cover": 0,
+  "id": "l-empatia-dissonante"
+ },
+ {
+  "title": "La dea dell'incertezza",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nel piu profondo lotta col suo dualismo che separa mente e corpo.<br>Incarna la passione di Afrodite e la discordia di Eris.<br>Lottano le due dee nel suo cuore.<br>Dove vorrebbe abbandonarsi al suo pensiero.<br>Ma gli ostacoli della ragione soffocano ogni desiderio.<br>È una divinità, ma sopratutto è una donna.<br>Anche una dea ha i suoi eterni dubbi.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo.",
+  "imgs": [
+   "img/opere/La%20dea%20dell%27incertezza_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20dea%20dell%27incertezza.png"
+  ],
+  "cover": 0,
+  "id": "la-dea-dell-incertezza"
+ },
+ {
+  "title": "Segreti sfumati",
+  "tech": "Acrilico su tela 100x100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Trascorrono le tue ore, i tuoi giorni.<br>Ti abbandoni al canonico Muoversi della tua vita.<br>Sfumano nelle tue viscere gli attimi di una passione travolgente.<br>Ciò che ti ha reso viva diversamente.<br>Quel segreto, la notte, si insinua tra la veglia e il sonno.<br>E il tuo corpo, al mattino, rivive quell'attimo.<br>Passando come un brivido sulla tua pelle.",
+  "imgs": [
+   "img/opere/Segreti%20sfumati_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Segreti%20sfumati.png"
+  ],
+  "cover": 0,
+  "id": "segreti-sfumati"
+ },
+ {
+  "title": "Il sipario della mente",
+  "tech": "Tecnica mista su tela 100×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Puoi nascondere ogni segreto, ogni verità, ogni tuo profondo turbamento.<br>Dietro il sipario della mente c'è un mondo che emerge attraverso gli occhi.<br>Ogni vibrazione, emozione o sentimento perdono qualsiasi nascondiglio.<br>Le emozioni non hanno né parola né fisionomia.<br>Si identificano nella luce di uno sguardo.",
+  "imgs": [
+   "img/opere/Il%20sipario%20della%20mente_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20sipario%20della%20mente.png"
+  ],
+  "cover": 0,
+  "id": "il-sipario-della-mente"
  },
  {
   "title": "Strade sconosciute",
@@ -2293,6 +1872,408 @@ const WORKS=[
   "id": "strade-sconosciute"
  },
  {
+  "title": "Crepuscolo urbano",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "Deserti urbani",
+   "2020"
+  ],
+  "desc": "Si schiarisce il cielo dopo un pò di pioggia.<br>Il sole scompare tra i palazzi e l'orizzonte.<br>A terra il riflesso bagnato di chi continua a cercare ancora.",
+  "imgs": [
+   "img/opere/Crepuscolo%20urbano_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Crepuscolo%20urbano.png"
+  ],
+  "cover": 0,
+  "id": "crepuscolo-urbano"
+ },
+ {
+  "title": "Le stanze della memoria",
+  "tech": "Acrilico su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "L'uomo: essere imperfetto. Ma dotato di una straordinaria capacità interiore.<br>Contiene la sua memoria ben custodita nel tempo. I ricordi di tutta una vita.<br>Ma a volte la memoria fa male...<br>lo rispedisce in quel preciso istante e per difendersi fa finta di niente.<br>Ma la memoria persiste e attraversa ogni stanza della mente come acqua attraverso i chiavistelli.<br>Bisogna avere coscienza di quella memoria per superare i limiti...<br>solo lì si torna a vivere davvero.",
+  "imgs": [
+   "img/opere/Le%20stanze%20della%20memoria_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Le%20stanze%20della%20memoria.png"
+  ],
+  "cover": 0,
+  "id": "le-stanze-della-memoria"
+ },
+ {
+  "title": "L'abbandono di un abbraccio",
+  "tech": "Acrilico su tela 80×120cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Abbracciami anima vibrante.<br>Sento L'abbandono come una vertigine.<br>Testa vuota... la mente dimentica di pensare.<br>Sono le vene e la pelle ad intrecciarsi.<br>L'odore dei capelli... il tocco costante del cuore.<br>Abbracciami anima assetata.<br>Fammi sentire il tuo abbandono tremolante.<br>Fallo nascere da dentro.<br>E investi il mio corpo...",
+  "imgs": [
+   "img/opere/L%27abbandono%20di%20un%20abbraccio_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27abbandono%20di%20un%20abbraccio.png"
+  ],
+  "cover": 0,
+  "id": "l-abbandono-di-un-abbraccio"
+ },
+ {
+  "title": "La terra dei sogni frammentati",
+  "tech": "Tecnica mista su tela 80×120cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Memory&Tremor",
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "C'è un luogo tra la veglia e il sonno che genera visioni... ma non è il dormire.<br>Un sogno ha colori neutri perché la mente non li riconosce, non distingue ciò che è reale da ciò che sta vivendo.<br>Tratti del viso nascosti danno comunque un'identità a quella visione perché solo nel profondo si è consci davvero di ciò che ci scuote l'anima.<br>E in quella terra lontana riconosciamo i nostri vividi sogni.",
+  "imgs": [
+   "img/opere/La%20terra%20dei%20sogni%20frammentati_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20terra%20dei%20sogni%20frammentati.png"
+  ],
+  "cover": 0,
+  "id": "la-terra-dei-sogni-frammentati"
+ },
+ {
+  "title": "La fusione di un respiro",
+  "tech": "Tecnica mista su tela 80×100cm - gesso e pasta di cartapesta a spatola e acrilico, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Nel sibilo di un respiro c'è tutta la vita.<br>La vicinanza del fuoco umano, il fiato tremolante di chi ti vuole accanto.<br>Il respiro si fonde in un'unica fonte di odori e desiderio... in un sincronismo simbiotico fatto di calore.<br>In quell'istante quel respiro è indivisibile.<br>Niente e nessuno può attraversarlo.",
+  "imgs": [
+   "img/opere/La%20fusione%20di%20un%20respiro_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20fusione%20di%20un%20respiro.png"
+  ],
+  "cover": 0,
+  "id": "la-fusione-di-un-respiro"
+ },
+ {
+  "title": "Gli amanti",
+  "tech": "Tecnica mista su tela 80×120cm - gesso a spatola e acrilico, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Piacevole e fugace ossessione.<br>Mi togli il sonno al mattino.<br>Quando immagino il tuo corpo<br>muoversi su di me.<br>Odori acri e dolciastri dalla finestra<br>riempiono la stanza e sanno di te.<br>Della tua pelle.<br>Sudore e polvere.<br>E smanio tra le lenzuola sciupate.<br>Vibrazioni che trascendono.<br>Che esplodono ovunque.<br>Tra un delicato tatto<br>e un fremente toccare.",
+  "imgs": [
+   "img/opere/Gli%20amanti_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Gli%20amanti.png"
+  ],
+  "cover": 0,
+  "id": "gli-amanti"
+ },
+ {
+  "title": "Il portico",
+  "tech": "Acrilico su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "Deserti urbani",
+   "2020"
+  ],
+  "desc": "La vita scorre come onde invisibile, come aria tra le fessure e le colonne. Si aggroviglia tra gli esseri e crea in modo perpetuo scambi continui di energia.",
+  "imgs": [
+   "img/opere/Il%20portico_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20portico.png"
+  ],
+  "cover": 0,
+  "id": "il-portico"
+ },
+ {
+  "title": "Il ponte di Einstein-Rosen",
+  "tech": "Tecnica mista su tela 80×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "C'è un luogo dove non c'è il tempo... è quella scorciatoia che va da un universo all'altro.",
+  "imgs": [
+   "img/opere/Il%20ponte%20di%20Einstein-Rosen_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20ponte%20di%20Einstein-Rosen.png"
+  ],
+  "cover": 0,
+  "id": "il-ponte-di-einstein-rosen"
+ },
+ {
+  "title": "Pierrot",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Pierrot è l'unica maschera che non indossa maschere... <br>le sue emozioni sono sempre espressamente chiare sul suo viso.",
+  "imgs": [
+   "img/opere/Pierrot_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Pierrot.png"
+  ],
+  "cover": 0,
+  "id": "pierrot"
+ },
+ {
+  "title": "Indomabile naturalezza",
+  "tech": "Acrilico su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "2020"
+  ],
+  "desc": "L'uomo può mascherare le sue fragilità ma non le proprie emozioni. Può invano tentare di contrastare il corso degli eventi ma la natura fa sempre il suo corso e non si può fermare in nessun modo.",
+  "imgs": [
+   "img/opere/Indomabile%20naturalezza_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Indomabile%20naturalezza.png"
+  ],
+  "cover": 0,
+  "id": "indomabile-naturalezza"
+ },
+ {
+  "title": "Dopo la tempesta",
+  "tech": "Acrilico su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "Deserti urbani",
+   "2020"
+  ],
+  "desc": "Strade semideserte messe in ombra dal temporale riprendono luce non appena il cielo schiarisce e i riflessi del terreno bagnato riaccendono i colori.",
+  "imgs": [
+   "img/opere/Dopo%20la%20tempesta_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Dopo%20la%20tempesta.png"
+  ],
+  "cover": 0,
+  "id": "dopo-la-tempesta"
+ },
+ {
+  "title": "Deserti urbani",
+  "tech": "Acrilico su tela 80×60cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "Deserti urbani",
+   "2020"
+  ],
+  "desc": "Intere città private della presenza degli uomini, illuminate da lampioni che riflettono su strade vuote, mantengono però quel fascino urbano non occultato dalla confusione della gente. Un atipico e surreale silenzio volteggia tra quei vicoli e palazzi.",
+  "imgs": [
+   "img/opere/Deserti%20urbani_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Deserti%20urbani.png"
+  ],
+  "cover": 0,
+  "id": "deserti-urbani"
+ },
+ {
+  "title": "Flashmob",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "Nel distanziamento del mondo ognuno crea il suo piccolo universo, un'aggregazione non fisica al momento ma che assembra un pensiero comune di speranza nella ricerca instancabile di una via d'uscita. La risorsa innata di reinventarsi, la naturale propensione ad insinuare la vita.",
+  "imgs": [
+   "img/opere/Flashmob_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Flashmob.png"
+  ],
+  "cover": 0,
+  "id": "flashmob"
+ },
+ {
+  "title": "La dilatazione del tempo",
+  "tech": "Acrilico su tela 60×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "La scala traballante della vita sospesa si proietta in una frattura spazio temporale dove i secondi, i minuti, le ore, i giorni sono relativi a un tempo momentaneamente fermo.",
+  "imgs": [
+   "img/opere/La%20dilatazione%20del%20tempo_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/La%20dilatazione%20del%20tempo.png"
+  ],
+  "cover": 0,
+  "id": "la-dilatazione-del-tempo"
+ },
+ {
+  "title": "Scacco matto",
+  "tech": "Acrilico su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "L'essere misterioso che esercita il potere sul genere umano gioca una partita dove gli uomini sono solo pedine ed è sempre lui a decidere le regole. A noi non resta che ribellarsi al gioco.",
+  "imgs": [
+   "img/opere/Scacco%20matto_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Scacco%20matto.png"
+  ],
+  "cover": 0,
+  "id": "scacco-matto"
+ },
+ {
+  "title": "Spinti al coraggio",
+  "tech": "Acrilico su tela 80x100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Metafisica delle ombre",
+   "2020"
+  ],
+  "desc": "La forza interiore dell'uomo è così immensa da poter spingere i più fragili ad andare avanti... <br>ad affacciarsi con coraggio nell'ignoto.",
+  "imgs": [
+   "img/opere/Spinti%20al%20coraggio_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Spinti%20al%20coraggio.png"
+  ],
+  "cover": 0,
+  "id": "spinti-al-coraggio"
+ },
+ {
+  "title": "Il vincolo di un pensiero comune",
+  "tech": "Acrilico su tela 70×100cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Racchiusi ognuno in un pensiero diverso, gli uomini si ritrovano tutti nel soffocante vincolo della restrizione quando non riescono ad esternare ciò che provano.",
+  "imgs": [
+   "img/opere/Il%20vincolo%20di%20un%20pensiero%20comune_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20vincolo%20di%20un%20pensiero%20comune.png"
+  ],
+  "cover": 0,
+  "id": "il-vincolo-di-un-pensiero-comune"
+ },
+ {
+  "title": "Il mondo fuori",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "In un mondo surrealmente vuoto, dove la vita sembra essersi fermata, le timide ombre dell'uomo avanzano in quel fatiscente teatro cercando di raggiungere una luce che sveli i loro volti.",
+  "imgs": [
+   "img/opere/Il%20mondo%20fuori_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Il%20mondo%20fuori.png"
+  ],
+  "cover": 0,
+  "id": "il-mondo-fuori"
+ },
+ {
+  "title": "L'invisibile muro della restrizione",
+  "tech": "quadrittico acrilico e matite acquarellabili su Bristol, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "2020"
+  ],
+  "desc": "In un mondo dove la libertà estrema sbrana e consuma avidamente la natura, la natura stessa (o chi per lei) ha deciso di fermarci...forse per punirci, forse per farci riflettere, forse per ricordarci che siamo fragili e malleabili e modellabili a suo piacimento.<br>L'essere umano si muove esso stesso come un virus ad infettare il mondo con l'ipocrisia, la superbia, l'immoralità, la cattiveria, l'arroganza, la superficialità, la non curanza ed è proprio un virus a fermarci o chi ha ben pensato di crearlo.<br>Quel virus o quel qualcuno sono nemici invisibili che si insidiano non solo nel corpo ma anche nella nostra mente ma se l'uomo riconosce in sé quell'unicità, quella forza della coesione e quell'energia universale che ci lega, tutto potrà passare. Perché tutti insieme siamo uno scudo fatto di calore e di emozioni e il calore brucia tutto ciò che è insidioso e negativo.<br>Questo è un tributo a chi sta male in questo momento, a chi non ce l'ha fatta, alle loro famiglie, ai medici e all'estremo sacrificio che stanno facendo, a tutti coloro che lottano e credono che presto ci libereremo da questa prigione invisibile.",
+  "imgs": [
+   "img/opere/L%27invisibile%20muro%20della%20restrizione_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/L%27invisibile%20muro%20della%20restrizione.png"
+  ],
+  "cover": 0,
+  "id": "l-invisibile-muro-della-restrizione"
+ },
+ {
+  "title": "Fuori dalla tempesta",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "In quella tempesta interiore fatta di fango e repressione esce ancora sporca di ciò che si è trascinata dentro. Ma c'è bel tempo al di là di quei pensieri…",
+  "imgs": [
+   "img/opere/Fuori%20dalla%20tempesta_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Fuori%20dalla%20tempesta.png"
+  ],
+  "cover": 0,
+  "id": "fuori-dalla-tempesta"
+ },
+ {
+  "title": "Forza interiore",
+  "tech": "Tecnica mista su tela 100×80cm, Anno 2020",
+  "dim": "",
+  "year": "2020",
+  "tags": [
+   "Destrutturalismo interiore",
+   "2020"
+  ],
+  "desc": "Trasuda dal suo sguardo tutta la sua energia, enigma e carisma si fondono. Come forza di gravità attrae uno sguardo e sollecita a un istinto di piacere.",
+  "imgs": [
+   "img/opere/Forza%20interiore_risultato.webp"
+  ],
+  "big": [
+   "img/operePng/Forza%20interiore.png"
+  ],
+  "cover": 0,
+  "id": "forza-interiore"
+ },
+ {
   "title": "La fragilità seduce l'anima",
   "tech": "Tecnica mista su tela 100×80cm, Anno 2019",
   "dim": "",
@@ -2310,37 +2291,5 @@ const WORKS=[
   ],
   "cover": 0,
   "id": "la-fragilita-seduce-l-anima"
- },
- {
-  "title": "Profeta Ezechiele - particolare",
-  "tech": "Affresco",
-  "dim": "",
-  "year": "",
-  "tags": [],
-  "desc": "Copia del profeta Ezechiele, Michelangelo (particolare)",
-  "imgs": [
-   "img/opere/Profeta%20Ezechiele%20-%20particolare_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Profeta%20Ezechiele%20-%20particolare.png"
-  ],
-  "cover": 0,
-  "id": "profeta-ezechiele-particolare"
- },
- {
-  "title": "Santa Barbara",
-  "tech": "Affresco",
-  "dim": "",
-  "year": "",
-  "tags": [],
-  "desc": "Particolare della Madonna Sistina di Raffaello<br><br>Stappo d'affresco con metodo Calicot<br>Riportato su tavola, 65x80,5cm<br><br>Opera presentata in Roma<br>Mostra collettiva \"Roma Contemporanea\" Presso Palazzo della Cancelleria.",
-  "imgs": [
-   "img/opere/Santa%20Barbara_risultato.webp"
-  ],
-  "big": [
-   "img/operePng/Santa%20Barbara.png"
-  ],
-  "cover": 0,
-  "id": "santa-barbara"
  }
 ];
